@@ -1,46 +1,33 @@
 ﻿class-row,class-topic,Week,Day,Date,Topic,Reading,Assign-OUT,Assign-DUE
-noClass,inClass,1,,,,,,
-presy,italic,,,,,,,
-,speaker,,,,,,,
-,exam,2,,,,,,
-,proj ,,,,,,,
-,,,,,,,,
-,,3,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,4,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,5,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,6,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,7,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,8,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,9,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,10,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,11,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,12,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,13,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,14,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,15,,,,,,
-,,,,,,,,
+,,1,T,16-Jan,"Welcome, Data and data collection ",Ch 1-2,,
+,,,R,18-Jan,Sampling and random experiments ,Ch 1-2,q1,
+,,2,T,23-Jan,Exploratory data analysis,Ch 4-5,,
+,,,R,25-Jan,"Correlation, causation, and confounding",Ch 4-5,hw01,q1
+,,3,T,30-Jan,Simple linear regression,Ch 7,,
+,,,R,1-Feb,Simple linear regression,Ch 7,q02,hw01
+,,4,T,6-Feb,Multiple linear regression,Ch 8.1-3,,
+,inClass,,R,8-Feb,Descriptive Stats Wrap-Up ,,hw02,q02
+,,5,T,13-Feb,Probability: Introduction ,,,
+,,,R,15-Feb,Probability Distributions ,,q03,hw02
+noClass,italic,6,T,20-Feb,NO CLASS - Monday Schedule,,,
+,,,R,22-Feb,Principles of confidence intervals ,Ch 12,hw03,q03
+,,7,T,27-Feb,Principles of hypothesis testing ,Ch 11,,
+,,,R,Feb-29,Central Limit Theorem ,Ch 13,q04,hw03
+,,8,T,5-Mar,Decision rrrors and power ,Ch 14,,
+,inClass,,R,7-Mar,Foundations of Statistical Inference Wrap-Up,,hw04,q04
+noClass,italic,9,T,12-Mar,NO CLASS - Spring Break,,,
+noClass,italic,,R,14-Mar,NO CLASS - Spring Break,,,
+,,10,T,19-Mar,Inference for categorical data ,Ch 17-18,,
+,,,R,21-Mar,Inference for categorical data ,Ch 17-18,q05,hw04
+,,11,T,26-Mar,Inference for numerical data,Ch 19-20,,
+,,,R,28-Mar,Inference for numerical data,Ch 19-20,hw05,q05
+,,12,T,2-Apr,ANOVA,Ch 22,,
+,,,R,4-Apr,ANOVA,Ch 22,proj,hw05
+,,13,T,9-Apr,Inference for regression models,Ch 24-25,,
+,,,R,11-Apr,Inference for regression models,Ch 24-25,,proj-proposal
+,inClass,14,T,16-Apr,Inference Wrap-Up,,,
+,inClass,,R,18-Apr,Inference Wrap-Up,,,proj-check-in
+,proj ,15,T,23-Apr,Project Work Session ,,,
+presy,proj ,,R,25-Apr,Project Presentations ,,,proj-final
+presy,proj ,16,T,30-Apr,Project Presentations ,,,
 ,,,,,,,,
