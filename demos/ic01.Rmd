@@ -1,0 +1,87 @@
+---
+title: "ic01"
+output: html_document
+date: '2024-02-06'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(openintro)
+library(tidyverse)
+```
+
+```{r}
+ds <- cherryblossom::run17
+ds <- ds %>% filter(event == "5K", !is.na(age), !is.na(net_sec))
+ds <- ds %>% mutate(over40 = case_when(age >= 40 ~ 1,
+                                       age < 40 ~ 0))
+
+write_csv(ds, "5k.csv")
+
+
+```
+
+
+## EDA 
+```{r}
+ggplot(data = ds, aes(x = age)) +
+  geom_histogram() +
+  theme_bw()
+
+ggplot(data = ds, aes(x = as.factor(over40))) +
+  geom_bar() +
+  theme_bw()
+
+ggplot(data = ds, aes(x = net_sec)) +
+  geom_histogram() +
+  theme_bw()
+
+ggplot(data = ds, aes(x = age, y = net_sec)) +
+  geom_point() +
+  theme_bw()
+
+ggplot(data = ds, aes(x = as.factor(over40), y = net_sec)) +
+  geom_boxplot() +
+  theme_bw()
+```
+
+## age net_sec regression 
+```{r}
+ds %>% summarize(n = n(),
+                 mean_age = mean(age), s_age = sd(age),
+                 mean_net_sec = mean(net_sec), s_net_sec = sd(net_sec))
+```
+
+```{r}
+lm.age <- lm(net_sec ~ age, data = ds)
+summary(lm.age)
+summary(lm.age)$r.squared
+
+ggplot(lm.age, aes(x = .fitted, y = .resid)) +
+  geom_point() + 
+  geom_hline(yintercept = 0, color = "red") + 
+  xlab("Fitted Values") +
+  ylab("Residuals") + 
+  theme_bw()
+```
+
+
+## over40 net_sec regression 
+```{r}
+ds %>% summarize(n = n(),
+                 mean_over40 = mean(over40), s_over40 = sd(over40),
+                 mean_net_sec = mean(net_sec), s_net_sec = sd(net_sec))
+```
+
+```{r}
+lm.forty <- lm(net_sec ~ over40, data = ds)
+summary(lm.forty)
+summary(lm.forty)$r.squared
+
+ggplot(lm.forty, aes(x = .fitted, y = .resid)) +
+  geom_point() + 
+  geom_hline(yintercept = 0, color = "red") + 
+  xlab("Fitted Values") +
+  ylab("Residuals") + 
+  theme_bw()
+```

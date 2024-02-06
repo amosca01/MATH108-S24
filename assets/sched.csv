@@ -3,10 +3,10 @@
 ,,,R,18-Jan,Sampling and random experiments ,Ch 1-2,,
 ,,2,T,23-Jan,Exploratory data analysis,Ch 4-5,,
 ,,,R,25-Jan,Exploratory data analysis,Ch 4-5,q01,
-,,3,T,30-Jan,Simple linear regression,Ch 7,,
+,,3,T,30-Jan,Exploratory data analysis,Ch 4-5,,
 ,,,R,1-Feb,Simple linear regression,Ch 7,hw01,q01
-,,4,T,6-Feb,Multiple linear regression,Ch 8.1-3,,
-,inClass,,R,8-Feb,Descriptive Stats Wrap-Up ,,q02,hw01
+,,4,T,6-Feb,Simple linear regression,Ch7,,
+,inClass,,R,8-Feb,Descriptive Stats & Regression Wrap-Up ,,q02,"hw01, ic01"
 ,,5,T,13-Feb,Probability: Introduction ,,,
 ,,,R,15-Feb,Probability Distributions ,,hw02,q02
 noClass,italic,6,T,20-Feb,NO CLASS - Monday Schedule,,,
