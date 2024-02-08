@@ -1,0 +1,27 @@
+---
+title: "quiz2"
+output: html_document
+date: "2024-02-07"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(MASS)
+```
+```{r}
+head(cats)
+
+mean(cats$Bwt)
+sd(cats$Bwt)
+
+mean(cats$Hwt)
+sd(cats$Hwt)
+
+cor(cats$Bwt, cats$Hwt)
+
+fit <- lm(data = cats, Hwt ~ Bwt)
+summary(fit)
+```
+
+
