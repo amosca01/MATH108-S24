@@ -1,4 +1,0 @@
-library(openintro)
-library(tidyverse)
-
-

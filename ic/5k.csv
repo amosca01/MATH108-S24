@@ -1,0 +1,2516 @@
+bib,name,sex,age,city,net_sec,clock_sec,pace_sec,event,over40
+266,Lisa G.,F,33,"Washington, DC",1275,1275,409,5K,0
+6606,Jennifer P.,F,33,"Alexandria, VA",1296,1296,416,5K,0
+23060,Christina M.,F,52,"Severna Park, MD",1309,1309,420,5K,1
+316,Lisa C.,F,46,"North Bethesda, MD",1319,1320,424,5K,1
+23517,Meghan Z.,F,28,"Chappaqua, NY",1372,1374,441,5K,0
+3239,Pamela D.,F,33,"Washington, DC",1402,1405,450,5K,0
+21787,Kelly M.,F,32,"Washington, DC",1411,1418,453,5K,0
+23952,Brisa B.,F,23,"Washington, DC",1414,1439,454,5K,0
+24928,Lindsay T.,F,30,"Arlington, VA",1424,1424,457,5K,0
+2890,Darcy J.,F,32,"Alexandria, VA",1432,1477,460,5K,0
+4353,Serena C.,F,35,"Cambridge, MA",1435,1437,461,5K,0
+5039,Pamela D.,F,34,"Bethesda, MD",1442,1486,463,5K,0
+24451,Brianna B.,F,20,"Greenwood, DE",1467,1602,471,5K,0
+2562,Helen C.,F,24,"Oakton, VA",1471,1471,472,5K,0
+5973,Meghan B.,F,38,"Arlington, VA",1479,1485,475,5K,0
+526,Daniela T.,F,28,"Vienna, VA",1483,1642,476,5K,0
+4641,Julie B.,F,41,"Santa Monica, CA",1492,1494,479,5K,1
+12946,Nicole K.,F,33,"Washington, DC",1495,1500,480,5K,0
+3151,Colleen G.,F,33,"Alexandria, VA",1503,1510,483,5K,0
+23993,Caitlin M.,F,26,"Richmond, VA",1519,1617,488,5K,0
+19120,Patricia M.,F,56,"Silver Spring, MD",1521,1546,489,5K,1
+4031,Johanna L.,F,33,"Silver Spring, MD",1525,1545,490,5K,0
+23646,Hannah P.,F,64,"Alexandria, VA",1530,1532,491,5K,1
+8373,Stacey P.,F,33,"Round Hill, VA",1534,1562,493,5K,0
+21914,Devin P.,F,26,"Washington, DC",1543,1553,496,5K,0
+24884,Geena V.,F,28,"Silver Spring, MD",1555,1568,500,5K,0
+24337,Hannah Q.,F,22,"Washington, DC",1559,1566,501,5K,0
+5461,Kristin S.,F,35,"Washington, DC",1560,1573,501,5K,0
+24759,Elizabeth T.,F,24,"Richmond, VA",1560,1567,501,5K,0
+12279,Aditi M.,F,31,"Arlington, VA",1560,1564,501,5K,0
+3888,Kristin D.,F,32,"Pikesville, MD",1560,1561,501,5K,0
+7586,Jennifer H.,F,26,"Washington, DC",1562,1570,502,5K,0
+8954,Anne S.,F,43,"Washington, DC",1569,1577,504,5K,1
+24068,Annah O.,F,18,"Mendham, NJ",1576,1591,506,5K,0
+8386,Sarah D.,F,33,"Baltimore, MD",1580,1601,508,5K,0
+16781,Jeanette G.,F,43,"Gainesville, VA",1581,1584,508,5K,1
+24069,Felicity W.,F,51,"Mendham, NJ",1584,1598,509,5K,1
+10389,Ali H.,F,36,"Washington, DC",1589,1851,510,5K,0
+13721,Kim G.,F,56,"Rye Beach, NH",1589,1613,510,5K,1
+15886,Kristen N.,F,25,"Arlington, VA",1593,1616,512,5K,0
+12810,Meghan C.,F,33,"Arlington, VA",1596,1618,513,5K,0
+9106,Kelly B.,F,33,"Washington, DC",1597,1706,513,5K,0
+10019,Grace H.,F,29,"Washington, DC",1599,1599,514,5K,0
+24960,Cara W.,F,21,"Marriottsville, MD",1610,1610,517,5K,0
+3704,Jessica B.,F,32,"Arlington, VA",1618,1627,520,5K,0
+21232,Nida H.,F,33,"Chantilly, VA",1620,1756,520,5K,0
+24444,Roxy W.,F,41,"Arlington, VA",1621,1653,521,5K,1
+9737,Jacqueline K.,F,28,"Washington, DC",1621,1709,521,5K,0
+3612,Stephanie Z.,F,37,"Sacramento, CA",1629,1633,523,5K,0
+14244,Katherine H.,F,29,"Hoboken, NJ",1634,1640,525,5K,0
+5180,Jia Y.,F,34,"Baltimore, MD",1635,1714,525,5K,0
+23853,Allie M.,F,22,"Bethesda, MD",1636,1765,526,5K,0
+24729,Andrea R.,F,52,"White Plains, NY",1639,1643,527,5K,1
+11532,Gretchen S.,F,33,"Washington, DC",1640,1651,527,5K,0
+8201,Kendall L.,F,31,"Silver Spring, MD",1640,1665,527,5K,0
+2760,Elizabeth T.,F,29,"State College, PA",1645,2039,528,5K,0
+20878,Tiffany D.,F,31,"Alwxandria, VA",1646,2040,529,5K,0
+2849,Sachi C.,F,17,"Arlington, VA",1647,1650,529,5K,0
+23980,Jody P.,F,56,"Vienna, VA",1648,1672,529,5K,1
+13204,Dedee C.,F,35,"Alexandria, VA",1648,1654,529,5K,0
+6585,Sandy P.,F,51,"Arlington, VA",1649,1743,530,5K,1
+24673,Rose M.,F,30,"Glen Rock, PA",1650,1659,530,5K,0
+24107,Colombe L.,F,25,"Washington, DC",1651,1699,530,5K,0
+24859,Kimberly A.,F,32,"Washington, DC",1653,1705,531,5K,0
+12745,Brienna H.,F,25,"Rockville, MD",1656,1714,532,5K,0
+2423,Casey L.,F,26,"Parkton, MD",1657,1671,532,5K,0
+7178,Haley H.,F,24,"Arlington, VA",1658,1681,533,5K,0
+23778,Laura H.,F,24,"Washington, DC",1664,1697,535,5K,0
+8215,Amanda T.,F,23,"Arlington, VA",1665,1674,535,5K,0
+25224,Lindsey G.,F,30,"Bethesda, MD",1666,1675,535,5K,0
+12260,Libby O.,F,24,"Arlington, VA",1669,1692,536,5K,0
+24585,Monica G.,F,30,"Milwaukee, WI",1674,1698,538,5K,0
+8809,Catherine G.,F,34,"Washington, DC",1674,1830,538,5K,0
+12261,Jamie B.,F,24,"Arlington, VA",1677,1700,539,5K,0
+24812,Chevelle M.,F,38,"Arlington, VA",1687,1809,542,5K,0
+24186,Catherine M.,F,35,"Washington, DC",1688,1752,542,5K,0
+23522,Maria P.,F,54,"Washington, DC",1693,1716,544,5K,1
+697,Diana H.,F,52,"Pasadena, MD",1695,1707,545,5K,1
+23492,Erin B.,F,35,"Pasadena, MD",1696,1707,545,5K,0
+12190,Mai N.,F,26,"Annandale, VA",1696,1720,545,5K,0
+21110,Bridget F.,F,22,"Rockville, MD",1697,1725,545,5K,0
+24119,Katie B.,F,30,"Lima, OH",1701,1714,546,5K,0
+10765,Megan W.,F,25,"Washington, DC",1703,1711,547,5K,0
+4801,Amanda G.,F,29,"Washington Dc, DC",1704,1711,547,5K,0
+23827,Claire G.,F,29,"Washington, DC",1704,1711,547,5K,0
+23782,Cassandra K.,F,28,"Washington, DC",1704,1713,547,5K,0
+21979,Abigail F.,F,24,"Washington, DC",1705,1745,548,5K,0
+23518,Taylor Z.,F,25,"New York, NY",1705,1796,548,5K,0
+15067,Dharana R.,F,32,"Washington, DC",1705,1711,548,5K,0
+23741,Sulgi T.,F,30,"Campbell, CA",1705,1733,548,5K,0
+14572,Megan J.,F,31,"Washington, DC",1706,1716,548,5K,0
+24835,Karen B.,F,32,"Washington, DC",1709,1717,549,5K,0
+3257,Lorraine B.,F,47,"Lynbrook, NY",1710,1712,549,5K,1
+11729,Anne G.,F,25,"Washington, DC",1712,1832,550,5K,0
+14054,Joyce W.,F,56,"Washington, DC",1713,1858,550,5K,1
+8522,Allyson M.,F,27,"Alexandria, VA",1715,1727,551,5K,0
+23142,Vanessa M.,F,28,"Baltimore, MD",1715,1730,551,5K,0
+24348,Rian R.,F,37,"Gaithersburg, MD",1717,1785,552,5K,0
+12556,Biljana B.,F,35,"Washington, DC",1720,1726,553,5K,0
+20917,Laurel V.,F,21,"Washington, DC",1725,1754,554,5K,0
+9002,Sarah B.,F,27,"Falls Church, VA",1726,1745,554,5K,0
+23588,Jennifer S.,F,34,"Fairfax, VA",1727,1741,555,5K,0
+23499,Sharyn P.,F,33,"Arlington, VA",1731,1751,556,5K,0
+24882,Michelle M.,F,43,"Clarksburg, MD",1732,1768,556,5K,1
+23903,Sabrina B.,F,10,"Philadelphia, PA",1732,1781,556,5K,0
+14282,Laura B.,F,41,"Newport, RI",1733,1902,557,5K,1
+19774,Elisabeth M.,F,26,"Bethesda, MD",1735,1743,557,5K,0
+23535,Alexandria K.,F,32,"Arlington, VA",1737,1759,558,5K,0
+24478,Allison S.,F,27,"Jamestown, ND",1738,1745,558,5K,0
+24671,Michelle D.,F,55,"Lititz, PA",1739,1744,559,5K,1
+10228,Michelle E.,F,37,"Washington, DC",1740,1766,559,5K,0
+24993,Megan K.,F,26,"Bethesda, MD",1741,1806,559,5K,0
+8645,Emily B.,F,29,"Middletown, DE",1742,1745,560,5K,0
+23444,Nicole A.,F,30,"Rockville, MD",1745,1759,561,5K,0
+13222,Jennifer W.,F,28,"Washington, DC",1748,1858,562,5K,0
+8129,April S.,F,39,"Fairfax, VA",1748,1866,562,5K,0
+24415,Michelle H.,F,22,"Arlington, VA",1748,1791,562,5K,0
+24988,Jana S.,F,22,"Bethpage, NY",1749,1789,562,5K,0
+15426,Rebeca O.,F,26,"Arlington, VA",1750,1757,562,5K,0
+14571,Lilia C.,F,33,"Washington, DC",1751,1763,563,5K,0
+24989,Alicia B.,F,22,"Bethpage, NY",1751,1791,563,5K,0
+17156,Amaia S.,F,33,"Alexandria, VA",1753,1773,563,5K,0
+23979,Vince S.,F,31,"White Plains, NY",1753,1804,563,5K,0
+21103,Hannah P.,F,23,"Bristow, VA",1753,1848,563,5K,0
+16794,Jennifer L.,F,32,"Arlington, VA",1754,1764,563,5K,0
+24826,Sandra W.,F,57,"Forestville, MD",1755,1901,564,5K,1
+24310,Angela W.,F,33,"Danbury, CT",1755,1804,564,5K,0
+23566,Allison S.,F,39,"Germantown, MD",1756,1766,564,5K,0
+24516,Dhriti P.,F,31,"Washington, DC",1756,1777,564,5K,0
+23568,Marta A.,F,52,"Germantown, MD",1756,1766,564,5K,1
+23449,Lucia G.,F,61,"Ipswich, MA",1757,1772,564,5K,1
+24072,Elisabeth B.,F,53,"Melrose, MA",1758,1894,565,5K,1
+5997,Connor S.,F,24,"Annapolis, MD",1761,1913,566,5K,0
+10626,Christine S.,F,41,"Washington, DC",1761,1910,566,5K,1
+25189,Sophia L.,F,13,"Mountain Lakes, NJ",1762,1877,566,5K,0
+7642,Laura C.,F,30,"Washington, DC",1762,1839,566,5K,0
+12217,Theresa M.,F,54,"Na, OH",1763,1865,566,5K,1
+10449,Jennifer M.,F,44,"Alexandria, VA",1763,1865,566,5K,1
+23837,Melinda C.,F,34,"Alexandria, VA",1765,1798,567,5K,0
+20793,Jackie C.,F,52,"Arlington, VA",1766,1786,567,5K,1
+24669,Femke D.,F,17,"Gaithersburg, MD",1766,1838,567,5K,0
+24418,Kerri K.,F,39,"Washington, DC",1767,1794,568,5K,0
+12524,Patty S.,F,48,"Washington, DC",1767,1780,568,5K,1
+23884,Dashaun J.,F,31,"Reston, VA",1768,1798,568,5K,0
+23738,Cheryl D.,F,53,"North Reading, MA",1768,1785,568,5K,1
+6489,Meredith M.,F,36,"Falls Church, VA",1769,1813,568,5K,0
+23101,Cassandra S.,F,31,"Alexandria, VA",1770,1780,569,5K,0
+25014,Claire B.,F,28,"Washington, DC",1774,2015,570,5K,0
+9871,Sabrina C.,F,29,"Washington, DC",1776,1785,571,5K,0
+25203,Lisa S.,F,47,"Sykesville, MD",1776,1819,571,5K,1
+13788,Stephanie J.,F,26,"Washington, DC",1776,1837,571,5K,0
+17015,Mary E.,F,34,"Burlington, NJ",1777,1822,571,5K,0
+23769,Christiane C.,F,37,"Washington, DC",1779,1784,572,5K,0
+25164,Miranda O.,F,37,"Manassas, VA",1780,1861,572,5K,0
+21346,Paola A.,F,39,"Bristow, VA",1780,1818,572,5K,0
+14311,Lauren Z.,F,30,"Boston, MA",1781,2245,572,5K,0
+12025,Elizabeth H.,F,31,"Washington, DC",1781,1795,572,5K,0
+23751,Sydney M.,F,17,"Toronto, ON",1781,1825,572,5K,0
+24732,Erica D.,F,34,"Lanham, MD",1782,2007,572,5K,0
+14342,Natalia R.,F,35,"Warrenton, VA",1789,1826,575,5K,0
+13574,Ruth F.,F,28,"Washington, DC",1789,1799,575,5K,0
+20229,Erica D.,F,34,"Alexandria, VA",1790,1870,575,5K,0
+12039,Julia L.,F,35,"West Islip, NY",1790,1797,575,5K,0
+23967,Joanna D.,F,52,"Falls Church, VA",1791,1955,575,5K,1
+18914,Leslie C.,F,48,"Laurel, MD",1791,1854,575,5K,1
+22629,Michelle M.,F,34,"Arlington, VA",1792,1943,576,5K,0
+24918,Betty G.,F,12,"Washington, DC",1794,2186,576,5K,0
+14464,Kerry L.,F,48,"Alexandria, VA",1795,1884,577,5K,1
+17675,Robin R.,F,35,"Washington, DC",1798,1811,578,5K,0
+24120,Cathy B.,F,58,"Lima, OH",1799,1812,578,5K,1
+21997,Delia B.,F,28,"Manassas, VA",1799,1931,578,5K,0
+23675,Norah S.,F,11,"Rockville, MD",1801,1836,579,5K,0
+16527,Davina M.,F,35,"Gaithersburg, MD",1804,1826,580,5K,0
+13486,Janet L.,F,38,"Washington, DC",1805,1951,580,5K,0
+12139,Bari F.,F,23,"Rockville, MD",1806,1856,580,5K,0
+14103,Vanessa G.,F,23,"Staten Island, NY",1806,1855,580,5K,0
+23700,Elizabeth J.,F,43,"Woodbridge, VA",1807,1818,581,5K,1
+14167,Reanne T.,F,29,"Rockville, MD",1807,1919,581,5K,0
+15903,Jessica B.,F,41,"Washington, DC",1807,1977,581,5K,1
+11574,Katherine H.,F,23,"Washington, DC",1808,1827,581,5K,0
+23900,Olivia S.,F,32,"Chester Springs, PA",1808,1819,581,5K,0
+15788,Audrey K.,F,23,"Washington, DC",1808,1847,581,5K,0
+23543,Melissa V.,F,24,"New York, NY",1809,1837,581,5K,0
+16496,Solomiya S.,F,28,"Falls Church, VA",1810,1825,581,5K,0
+23797,Liliana M.,F,26,"Washington, DC",1812,1841,582,5K,0
+20618,Anna B.,F,27,"Washington, DC",1814,1944,583,5K,0
+8283,Sophia B.,F,25,"Washington, DC",1815,1880,583,5K,0
+23708,Karan K.,F,16,"Cockeysville, MD",1815,1852,583,5K,0
+8414,Claire M.,F,34,"Washington, DC",1815,1864,583,5K,0
+23966,Nicolle S.,F,28,"Washington, DC",1816,1909,583,5K,0
+7727,Tessa D.,F,31,"Arlington, VA",1816,1954,583,5K,0
+13425,Kate N.,F,32,"Washington, DC",1816,1946,583,5K,0
+24801,Stephanie G.,F,30,"Fairfax, VA",1817,1938,584,5K,0
+12849,Megan H.,F,24,"North Bethesda, MD",1817,1851,584,5K,0
+13651,Alyssa B.,F,27,"Washington, DC",1817,1822,584,5K,0
+20636,Jessica J.,F,25,"New Orleans, LA",1820,1868,585,5K,0
+24926,Diane C.,F,57,"Rockville, NJ",1822,1827,585,5K,1
+7886,Jill A.,F,36,"Bronxville, NY",1822,1825,585,5K,0
+13224,Jenna M.,F,22,"New York, NY",1822,1919,585,5K,0
+16976,Sinead G.,F,35,"Annapolis, MD",1822,1914,585,5K,0
+17812,Annalisa S.,F,38,"Danbury, CT",1825,1837,586,5K,0
+13643,Melanie Y.,F,31,"Washington, DC",1825,1980,586,5K,0
+24522,Erica N.,F,56,"State College, PA",1825,1884,586,5K,1
+24707,Daisy A.,F,56,"Herndon, VA",1827,1899,587,5K,1
+17719,Kelly K.,F,29,"Washington, DC",1828,1856,587,5K,0
+23879,Nicole W.,F,33,"Cooksville, MD",1830,1894,588,5K,0
+24301,Lisa D.,F,41,"Washington, DC",1831,1880,588,5K,1
+24597,Ann F.,F,64,"Gaithersburg, MD",1832,1904,589,5K,1
+24652,Suzel F.,F,26,"Centreville, VA",1832,1984,589,5K,0
+8297,Hadley S.,F,25,"Philadelphia, PA",1832,1880,589,5K,0
+23689,Rebecca F.,F,25,"Arlington, VA",1837,1852,590,5K,0
+24424,Bethany G.,F,28,"Harington, DE",1838,1972,590,5K,0
+23095,Shannon S.,F,29,"Washington, DC",1838,1961,590,5K,0
+16862,Martha L.,F,50,"Portsmouth, NH",1838,1928,590,5K,1
+22764,Jillian L.,F,36,"White Plains, NY",1839,1842,591,5K,0
+16212,Jennifer T.,F,26,"Washington, DC",1843,1986,592,5K,0
+15982,Marissa C.,F,31,"Arlington, VA",1844,1876,592,5K,0
+24248,Jenna M.,F,34,"Jacksonville, FL",1844,1879,592,5K,0
+24906,Lizzie M.,F,26,"Washington, DC",1845,1954,593,5K,0
+24307,Carly F.,F,28,"Stamford, CT",1845,1871,593,5K,0
+13156,Hannah B.,F,35,"Washington, DC",1850,2036,594,5K,0
+24694,Ileana M.,F,33,"Fairfax, VA",1851,2003,595,5K,0
+24151,Arneta R.,F,31,"Washington, DC",1851,1980,595,5K,0
+25104,Claudia F.,F,29,"Fairfax, VA",1851,2003,595,5K,0
+5088,Karen A.,F,47,"Vienna, VA",1852,1871,595,5K,1
+20623,Jessica H.,F,29,"Washington, DC",1853,1867,595,5K,0
+15863,Kayla P.,F,28,"Washington, DC",1853,1996,595,5K,0
+20495,Jin C.,F,31,"Washington, DC",1854,1860,596,5K,0
+24021,Ellen M.,F,61,"Washington, DC",1854,1951,596,5K,1
+15762,Jessica V.,F,31,"Washington, DC",1854,1975,596,5K,0
+24036,Elena V.,F,23,"Washington, DC",1856,1890,596,5K,0
+25039,Jen G.,F,33,"Washington, DC",1857,1952,597,5K,0
+25040,Liz H.,F,30,"Washington, DC",1857,1952,597,5K,0
+17466,Monica M.,F,28,"Washington, DC",1857,2166,597,5K,0
+23705,Maria K.,F,42,"Cockeysville, MD",1857,1894,597,5K,1
+22151,Courtney B.,F,23,"Arlington, TX",1859,1895,597,5K,0
+24135,Leigh B.,F,45,"Fishersville, VA",1861,1891,598,5K,1
+17040,Meghan M.,F,31,"Alexandria, VA",1861,1998,598,5K,0
+14892,Candace B.,F,45,"Glen Allen, VA",1862,1880,598,5K,1
+12141,Amanda G.,F,29,"Washington, DC",1863,2039,599,5K,0
+13751,Erin C.,F,34,"Washington, DC",1864,1883,599,5K,0
+23696,Tawna L.,F,53,"Pittsburgh, PA",1867,1889,600,5K,1
+23729,Michelle B.,F,27,"Burke, VA",1867,1994,600,5K,0
+5420,Julie P.,F,39,"Alexandria, VA",1868,1879,600,5K,0
+17886,Carolina P.,F,40,"Washington, DC",1868,2038,600,5K,1
+12990,Leigh M.,F,32,"Washington, DC",1869,1987,600,5K,0
+24437,Olga P.,F,50,"Gaithersburg, MD",1869,1891,600,5K,1
+7341,Jennifer B.,F,35,"Washington, DC",1870,1896,601,5K,0
+9836,Luda P.,F,28,"Bethesda, MD",1870,1933,601,5K,0
+17108,Katrina N.,F,42,"Springfield, VA",1873,1873,602,5K,1
+13789,Sophia Y.,F,24,"Oakton, VA",1873,1889,602,5K,0
+14087,Connie H.,F,24,"New York, NY",1874,1898,602,5K,0
+17735,Jen H.,F,26,"Silver Spring, MD",1875,1925,602,5K,0
+24532,Rachael B.,F,22,"Arlington, VA",1877,1966,603,5K,0
+844,Elizabeth J.,F,32,"Atlanta, GA",1877,1920,603,5K,0
+14634,Krystyn B.,F,41,"Arlington, VA",1880,1976,604,5K,1
+23526,Samantha C.,F,25,"Washington, DC",1880,1921,604,5K,0
+25202,Jennie B.,F,64,"Wyncote, PA",1880,1957,604,5K,1
+14051,Asli S.,F,43,"Chapel Hill, NC",1881,2154,604,5K,1
+25232,Lynn K.,F,38,"Arlington, VA",1883,1902,605,5K,0
+24810,Carla M.,F,50,"Rockville, MD",1884,1990,605,5K,1
+15967,Jana H.,F,30,"Chevy Chase, MD",1886,1953,606,5K,0
+12598,Emily D.,F,37,"Brighton, MA",1886,2003,606,5K,0
+20484,Kathleen T.,F,26,"New York, NY",1887,1947,606,5K,0
+15051,Hannah J.,F,21,"State College, PA",1887,1911,606,5K,0
+14999,Amanda L.,F,28,"Saint Cloud, FL",1888,1948,607,5K,0
+23482,Mary K.,F,22,"Alexandria, VA",1889,1907,607,5K,0
+10013,Ashley G.,F,36,"Richmond, VA",1889,1921,607,5K,0
+20347,Mariana M.,F,36,"Springfield, VA",1890,1910,607,5K,0
+17284,Natawnee F.,F,32,"Washington, DC",1891,2045,608,5K,0
+23687,Robin K.,F,58,"Providence, RI",1892,2050,608,5K,1
+14569,Kate E.,F,28,"Washington, DC",1893,1910,608,5K,0
+24483,Margaret F.,F,13,"Manchester, MD",1893,1905,608,5K,0
+17309,Mary C.,F,31,"Alexandria, VA",1894,1922,609,5K,0
+25165,Aj D.,F,30,"Fairfax, VA",1895,1986,609,5K,0
+14962,Jessica P.,F,29,"Frederick, MD",1895,1910,609,5K,0
+16930,Maya S.,F,27,"Washington, DC",1896,1923,609,5K,0
+25168,Ashley I.,F,24,"Alexandria, VA",1896,1987,609,5K,0
+25042,Beth S.,F,32,"Washington, DC",1896,1991,609,5K,0
+12705,Lisa S.,F,25,"Washington, DC",1898,2051,610,5K,0
+14587,Corinne D.,F,27,"Washington, DC",1902,1949,611,5K,0
+12003,Amy C.,F,36,"Aldie, VA",1903,1935,611,5K,0
+17951,Ashley B.,F,29,"Columbia, MD",1903,1987,611,5K,0
+16426,Petra K.,F,46,"Washington, DC",1904,1925,612,5K,1
+23658,Adeena E.,F,35,"Forest Hills, NY",1905,1990,612,5K,0
+24486,Elissa B.,F,41,"Washington, DC",1905,1922,612,5K,1
+10425,Kathleen H.,F,30,"Baltimore, MD",1906,1920,612,5K,0
+14245,Elizabeth C.,F,26,"Ann Arbor, MI",1906,1920,612,5K,0
+18154,Amisha P.,F,33,"Alexandria, VA",1907,2028,613,5K,0
+24730,Amanda S.,F,30,"Washington, DC",1908,1979,613,5K,0
+24165,Danielle B.,F,39,"Falls Church, VA",1908,1945,613,5K,0
+23695,Ana C.,F,40,"Fairfax, VA",1909,1914,613,5K,1
+25192,Elizabeth G.,F,26,"Arlington, VA",1910,1944,614,5K,0
+20466,Danielle F.,F,30,"Arlington, VA",1911,2062,614,5K,0
+25054,Kristy M.,F,38,"Great Falls, VA",1912,2133,614,5K,0
+12323,Lynn F.,F,30,"Arlington, VA",1912,1935,614,5K,0
+12904,Tamar M.,F,31,"Arlington, VA",1912,1935,614,5K,0
+24864,Morgan W.,F,23,"Aldie, VA",1912,2016,614,5K,0
+13580,Lindsay L.,F,38,"Arlington, VA",1913,1942,615,5K,0
+22089,Nicole C.,F,24,"Washington, DC",1913,1987,615,5K,0
+17607,Emily G.,F,44,"Harrisburg, PA",1913,2014,615,5K,1
+24395,Elizabeth C.,F,29,"Gaithersburg, MD",1916,1978,616,5K,0
+14452,Tanishia D.,F,42,"Middletown, DE",1916,2135,616,5K,1
+23889,Lisa H.,F,56,"Alexandria, VA",1916,1988,616,5K,1
+23422,Anne P.,F,61,"Baltimore, MD",1916,2090,616,5K,1
+4421,Julie K.,F,38,"Short Hills, NJ",1918,1986,616,5K,0
+21071,Dalia K.,F,35,"Bethesda, MD",1918,1986,616,5K,0
+6361,Savannah B.,F,22,"Arlington, VA",1919,1985,617,5K,0
+19272,Anna T.,F,22,"Arlington, VA",1919,1986,617,5K,0
+23654,Emily F.,F,27,"Washington Dc, DC",1919,1958,617,5K,0
+14270,Katherine M.,F,26,"Manassas, VA",1919,1942,617,5K,0
+23942,Sriya A.,F,31,"Washington, DC",1920,2054,617,5K,0
+17067,Elena P.,F,32,"Reston, VA",1920,1948,617,5K,0
+2092,Elizabeth B.,F,31,"Montclair, NJ",1920,2016,617,5K,0
+19632,Christine S.,F,24,"Washington, DC",1920,1931,617,5K,0
+23775,Molly T.,F,37,"Winchester, MA",1921,1942,617,5K,0
+24161,Jenny P.,F,37,"College Park, MD",1922,2082,618,5K,0
+23440,Marilyn H.,F,30,"Holiday, FL",1923,1942,618,5K,0
+13023,Elisabeth D.,F,46,"Washington, DC",1926,1988,619,5K,1
+13724,Phyllis D.,F,57,"Mitchellville, MD",1927,1967,619,5K,1
+21625,Lauren C.,F,24,"St. Louis Park, MN",1927,2081,619,5K,0
+24790,Jennifer T.,F,38,"Alexandria, VA",1927,2022,619,5K,0
+25112,Diana E.,F,35,"Gainesville, VA",1927,2014,619,5K,0
+23541,Chanelle B.,F,31,"Washington, DC",1928,2074,619,5K,0
+23997,Amanda V.,F,23,"Arlington, VA",1928,1934,619,5K,0
+10775,Laura K.,F,29,"Chevy Chase, MD",1929,2018,620,5K,0
+24177,Jessica M.,F,39,"Arlington, VA",1929,2099,620,5K,0
+18065,Nina S.,F,28,"Brooklyn, NY",1930,2085,620,5K,0
+23838,Alison C.,F,36,"Washington, DC",1930,2011,620,5K,0
+23693,Anita C.,F,38,"Falls Church, VA",1931,1954,620,5K,0
+14918,Samantha A.,F,26,"Brooklyn, NY",1932,1945,621,5K,0
+8290,Patricia L.,F,27,"Jamaica, NY",1933,1939,621,5K,0
+24892,Ashley S.,F,32,"Washington, DC",1934,2137,621,5K,0
+24937,Carly B.,F,26,"Washington, DC",1934,2137,621,5K,0
+4444,Emily O.,F,29,"Hartsdale, NY",1935,1969,622,5K,0
+23848,Maria O.,F,25,"Arlington, VA",1935,2013,622,5K,0
+23552,Jessica R.,F,34,"Arlington, VA",1936,1974,622,5K,0
+11354,Brittany K.,F,31,"Silver Spring, MD",1937,1946,622,5K,0
+15112,Cynthia C.,F,36,"Millburn, NJ",1937,1960,622,5K,0
+7286,Dea L.,F,29,"Cambridge, MA",1938,2048,623,5K,0
+23825,Claire D.,F,17,"Los Alamos, NM",1938,1978,623,5K,0
+24487,Lisa F.,F,36,"Clovis, CA",1938,1974,623,5K,0
+24894,Clara N.,F,11,"Washington, DC",1938,2327,623,5K,0
+15172,Sarah H.,F,22,"Alexandria, VA",1939,1978,623,5K,0
+24938,Amy F.,F,34,"Fairfax, VA",1941,1959,624,5K,0
+24577,Mei N.,F,35,"Clarksburg, MD",1942,2055,624,5K,0
+24088,Luisa C.,F,43,"Washington, DC",1942,1959,624,5K,1
+24569,Megan B.,F,23,"Bel Air, MD",1942,1962,624,5K,0
+15501,Claire M.,F,26,"Washington, DC",1944,2074,625,5K,0
+24949,Joy U.,F,25,"Sterling, VA",1945,2130,625,5K,0
+25107,Sabrina D.,F,54,"Centreville, VA",1945,2122,625,5K,1
+24053,Lisa M.,F,61,"Washington, DC",1946,2004,625,5K,1
+15684,Stefanie I.,F,36,"Washington, DC",1946,1957,625,5K,0
+17376,Tierney E.,F,34,"Silver Spring, MD",1947,2010,626,5K,0
+17377,Frances M.,F,29,"Silver Spring, MD",1947,2010,626,5K,0
+25037,Nezly S.,F,21,"Silver Spring, MD",1949,1958,626,5K,0
+20701,Jou C.,F,29,"Bowie, MD",1949,2050,626,5K,0
+25116,Marcela I.,F,29,"Ashburn, VA",1949,1964,626,5K,0
+23737,Fiona C.,F,22,"Washington, DC",1949,2128,626,5K,0
+11128,Erica E.,F,30,"Washington, DC",1951,2040,627,5K,0
+20668,Ana M.,F,25,"Washington, DC",1952,2053,627,5K,0
+20654,Meagan M.,F,30,"New York, NY",1952,2006,627,5K,0
+10302,Amanda G.,F,32,"Arlington, VA",1954,2016,628,5K,0
+15437,Kimberly T.,F,35,"Cleveland, OH",1954,2133,628,5K,0
+23978,Elizabeth T.,F,34,"Arlington, VA",1954,2015,628,5K,0
+23420,Cindy F.,F,62,"Gaithersburg, MD",1955,1965,628,5K,1
+19570,Madelyn C.,F,26,"Washington, DC",1955,2098,628,5K,0
+22912,Jennifer W.,F,33,"Arlington, VA",1956,1979,628,5K,0
+17752,Karla K.,F,36,"Washington, DC",1956,1974,628,5K,0
+16403,Tiffany M.,F,29,"Washington, DC",1957,2082,629,5K,0
+14558,Jeanne J.,F,51,"Arlington, VA",1957,2006,629,5K,1
+24803,Stephanie C.,F,32,"Royal Oak, MI",1958,2062,629,5K,0
+19301,Lisa S.,F,44,"Alexandria, VA",1959,1992,629,5K,1
+8908,Kathryn W.,F,28,"Arlington, VA",1960,2022,630,5K,0
+18832,Shannon C.,F,33,"Washington, DC",1960,2100,630,5K,0
+24283,Angelique R.,F,43,"Washington, DC",1961,2292,630,5K,1
+19379,Marice F.,F,31,"Alexandria, VA",1963,1975,631,5K,0
+12344,Morgan H.,F,34,"Washington, DC",1964,2057,631,5K,0
+13503,Heather C.,F,35,"Arlington, VA",1965,2072,631,5K,0
+18739,Jeanette N.,F,33,"Arlington, VA",1966,1975,632,5K,0
+15811,Kirstie C.,F,33,"Gaithersburg, MD",1967,2107,632,5K,0
+24309,Lucia A.,F,30,"Rockville, MD",1967,2029,632,5K,0
+19209,Tina A.,F,34,"Washington, DC",1968,2003,632,5K,0
+15125,Nikki M.,F,40,"Germantown, MD",1968,2107,632,5K,1
+23703,Jenny W.,F,31,"Arlington, VA",1968,2069,632,5K,0
+23803,Annie S.,F,51,"Woodstock, MD",1969,1980,633,5K,1
+24079,Sharon M.,F,40,"Washington, DC",1970,2035,633,5K,1
+23431,Erin R.,F,10,"Palmyra, PA",1970,2053,633,5K,0
+24153,Leah K.,F,25,"Washington, DC",1970,1987,633,5K,0
+24741,Kim O.,F,55,"Parkton, MD",1970,1987,633,5K,1
+20326,Alisha M.,F,35,"Alexandria, VA",1971,2064,633,5K,0
+14830,Megan F.,F,36,"Washington, DC",1971,2079,633,5K,0
+24130,Liz V.,F,32,"Washington, DC",1971,2079,633,5K,0
+16016,Jennifer W.,F,35,"Bowie, MD",1972,2026,634,5K,0
+17701,Emily U.,F,29,"Washington, DC",1973,2008,634,5K,0
+13927,Jenny A.,F,27,"Arlington, VA",1974,2001,634,5K,0
+21271,Allison A.,F,23,"Washington, DC",1974,2000,634,5K,0
+22029,Aliyah D.,F,33,"Washington, DC",1974,2001,634,5K,0
+25034,Serena L.,F,23,"Washington, DC",1975,2022,635,5K,0
+19233,Sarah G.,F,28,"Berwyn Heights, MD",1976,2089,635,5K,0
+24142,Shannon W.,F,40,"Washington, DC",1976,2082,635,5K,1
+18613,Lorelie D.,F,30,"Olney, MD",1977,2109,635,5K,0
+15980,Nabila A.,F,22,"Rockville, MD",1977,2023,635,5K,0
+10101,Sarah A.,F,26,"Southern Pines, NC",1978,2003,636,5K,0
+11307,Jennifer G.,F,40,"Richmond, VA",1978,2120,636,5K,1
+17352,Amanda W.,F,30,"Washington, DC",1979,1998,636,5K,0
+18423,Neena S.,F,29,"New York, NY",1980,2015,636,5K,0
+24923,Lindsay D.,F,31,"Washington, DC",1981,2152,636,5K,0
+23956,Meg D.,F,27,"Arlington, VA",1982,2091,637,5K,0
+15441,Michelle C.,F,30,"Washington, DC",1982,1990,637,5K,0
+16935,Melissa H.,F,34,"Cadyville, NY",1983,2033,637,5K,0
+25190,Caroline L.,F,42,"Annandale, VA",1983,2085,637,5K,1
+16407,Kim F.,F,45,"Washington, DC",1985,2051,638,5K,1
+23656,Kim F.,F,59,"Newburyport, MA",1986,2025,638,5K,1
+24089,Jennifer L.,F,34,"Potomac, MD",1987,2000,638,5K,0
+21121,Susan B.,F,26,"Washington, DC",1987,2060,638,5K,0
+17712,Rebecca J.,F,24,"Herndon, VA",1987,2061,638,5K,0
+25110,Alexzandra S.,F,37,"Herndon, VA",1988,2057,639,5K,0
+17356,Laura M.,F,33,"Reston, VA",1989,2018,639,5K,0
+18161,Reem H.,F,29,"Baltimore, MD",1989,2088,639,5K,0
+24837,Miajah S.,F,12,"Capitol Heights, MD",1989,2160,639,5K,0
+20848,Sarah S.,F,44,"Potomac, MD",1990,2062,639,5K,1
+24138,Jennifer G.,F,47,"Fairfax, VA",1990,1993,639,5K,1
+24909,Greta L.,F,35,"Washington, DC",1990,2161,639,5K,0
+16124,Tanya S.,F,43,"Arlington, VA",1990,2033,639,5K,1
+10488,Caroline H.,F,38,"Washington, DC",1990,2157,639,5K,0
+21200,Susan B.,F,29,"Alexandria, VA",1991,2076,640,5K,0
+14620,Krystina B.,F,31,"Washington, DC",1991,2129,640,5K,0
+17089,Jennifer L.,F,40,"Reston, VA",1991,2132,640,5K,1
+11215,Linda S.,F,32,"Washington, DC",1992,2174,640,5K,0
+24775,Marie P.,F,52,"Monrovia, MD",1992,2009,640,5K,1
+25004,Jnell S.,F,31,"Glenn Dale, MD",1992,1996,640,5K,0
+23733,Sally C.,F,32,"Washington, DC",1992,2044,640,5K,0
+17435,Alexandra B.,F,30,"Hoboken, NJ",1992,2003,640,5K,0
+15803,Lisa H.,F,41,"Alexandria, VA",1993,2145,640,5K,1
+10331,Shelley T.,F,47,"Northampton, MA",1993,2012,640,5K,1
+24253,Gwen P.,F,26,"Washington, DC",1995,2014,641,5K,0
+12896,Kiera M.,F,27,"Philadelphia, PA",1995,1999,641,5K,0
+15498,Cristina D.,F,32,"Washington, DC",1995,2023,641,5K,0
+17470,Tina T.,F,36,"Herndon, VA",1996,2039,641,5K,0
+24163,Zoya W.,F,26,"Washington, DC",1996,2150,641,5K,0
+23477,Alexandria Z.,F,30,"Rockville, MD",1996,2028,641,5K,0
+17357,Marina C.,F,38,"Alexandria, VA",1996,2004,641,5K,0
+11357,Rita E.,F,33,"Mount Vernon, NY",1996,2009,641,5K,0
+23469,Lydie L.,F,28,"Silver Spring, MD",1996,2027,641,5K,0
+8105,Hillary V.,F,30,"Arlington, VA",1997,2016,642,5K,0
+15445,Emily L.,F,27,"Alexandria, VA",1997,2104,642,5K,0
+23898,Ashley G.,F,27,"Virginia Beach, VA",1998,2041,642,5K,0
+6410,Danielle B.,F,27,"Brooklyn, NY",1998,2126,642,5K,0
+16021,Leah J.,F,39,"Lorton, VA",1999,2136,642,5K,0
+17347,Lara F.,F,37,"Washington, DC",2000,2233,643,5K,0
+10087,Viviana A.,F,33,"Washington, DC",2000,2137,643,5K,0
+19172,Lauren W.,F,25,"Washington, DC",2000,2109,643,5K,0
+24878,Stacey H.,F,32,"California, MD",2001,2102,643,5K,0
+24557,Jamie M.,F,34,"Harrisburg, PA",2001,2065,643,5K,0
+15778,Katie P.,F,29,"Washington, DC",2004,2050,644,5K,0
+13488,Joanne S.,F,42,"Alexandria, VA",2004,2145,644,5K,1
+24879,Megan H.,F,41,"Alexandria, VA",2005,2084,644,5K,1
+24969,Grace R.,F,29,"Washington, DC",2005,2019,644,5K,0
+12036,Christina O.,F,32,"Phoenix, AZ",2005,2011,644,5K,0
+23595,Erika K.,F,37,"Oakton, VA",2007,2063,645,5K,0
+15004,Amina T.,F,27,"Indianapolis, IN",2007,2146,645,5K,0
+13942,Karen P.,F,34,"Washington, DC",2007,2104,645,5K,0
+24099,Lauren R.,F,29,"Dumfries, VA",2009,2102,645,5K,0
+17434,Lauri A.,F,31,"Washington, DC",2009,2044,645,5K,0
+17386,Abby T.,F,23,"Washington, DC",2009,2152,645,5K,0
+24328,Joanne Z.,F,45,"Arlington, VA",2010,2030,646,5K,1
+17679,Holly H.,F,51,"Warren, OH",2012,2187,646,5K,1
+15787,Caitlin G.,F,28,"Washington, DC",2013,2113,647,5K,0
+7928,Amanda B.,F,33,"Madison, WI",2013,2124,647,5K,0
+20699,Miryam P.,F,43,"Washington, DC",2015,2065,647,5K,1
+24959,Michelle M.,F,54,"Lorton, VA",2016,2113,648,5K,1
+16450,Claire T.,F,51,"Bethesda, MD",2018,2051,648,5K,1
+15037,Caitlin R.,F,31,"Washington, DC",2019,2101,649,5K,0
+24401,Rebecca M.,F,20,"Washington, DC",2019,2036,649,5K,0
+24795,Laurie M.,F,42,"Rockville, MD",2019,2034,649,5K,1
+23451,Julie M.,F,43,"Springfield, VA",2020,2072,649,5K,1
+5746,Ivey S.,F,25,"Washington, DC",2021,2061,649,5K,0
+22100,Rachel C.,F,27,"Washington, DC",2022,2062,650,5K,0
+13388,Jessica R.,F,28,"Washington, DC",2023,2041,650,5K,0
+23563,Melissa P.,F,35,"Fairfax, VA",2023,2045,650,5K,0
+25044,Savannah P.,F,22,"Washington, DC",2024,2200,650,5K,0
+19910,Barbara E.,F,48,"Warrenton, VA",2024,2049,650,5K,1
+24073,Krista M.,F,52,"Brandywine, MD",2025,2046,651,5K,1
+11121,Monika L.,F,36,"Long Island City, NY",2026,2185,651,5K,0
+18822,Jessica K.,F,27,"Brighton, MA",2026,2158,651,5K,0
+23850,Oriana P.,F,27,"Arlington, VA",2026,2093,651,5K,0
+15873,Jessica P.,F,29,"Washington, DC",2027,2047,651,5K,0
+25046,Emily Z.,F,30,"Arlington, VA",2028,2028,652,5K,0
+18029,Hana R.,F,24,"Washington, DC",2028,2052,652,5K,0
+18245,Rachel V.,F,31,"Woodbridge, VA",2028,2125,652,5K,0
+24509,Lauren B.,F,35,"Washington, DC",2028,2074,652,5K,0
+25205,Sharon T.,F,44,"Rockville, MD",2029,2055,652,5K,1
+23408,Rachel G.,F,45,"Washington, DC",2029,2184,652,5K,1
+24727,Avery J.,F,27,"Rockville, MD",2030,2051,652,5K,0
+18824,Kristin S.,F,28,"Mclean, VA",2030,2162,652,5K,0
+23488,Nancy L.,F,65,"State College, PA",2030,2090,652,5K,1
+24572,Maggie L.,F,32,"Alexandria, VA",2030,2170,652,5K,0
+23808,Jessica C.,F,33,"Falls Church, VA",2032,2086,653,5K,0
+11986,Priya S.,F,31,"Arlington, VA",2032,2062,653,5K,0
+24448,Victoria G.,F,31,"Washington, DC",2032,2072,653,5K,0
+21970,Kelsey S.,F,28,"Arlington, VA",2032,2207,653,5K,0
+17220,Rita P.,F,43,"Macungie, PA",2033,2173,653,5K,1
+1750,Dorota Z.,F,50,"Chevy Chase, MD",2033,2050,653,5K,1
+18267,Kelly M.,F,39,"Kensington, MD",2034,2196,654,5K,0
+13974,Lisa F.,F,34,"Washington, DC",2034,2196,654,5K,0
+23757,Kirsten C.,F,54,"Reston, VA",2034,2078,654,5K,1
+24268,Mary H.,F,53,"Arlington, VA",2034,2074,654,5K,1
+9235,Gillian R.,F,24,"Frankford, DE",2036,2069,654,5K,0
+23999,Meredith P.,F,23,"Chevy Chase, MD",2036,2091,654,5K,0
+20523,Deborah K.,F,48,"Manassas, VA",2036,2093,654,5K,1
+8573,Maria K.,F,34,"Milford, CT",2036,2046,654,5K,0
+15330,Kimberly C.,F,33,"Brooklyn, NY",2037,2174,654,5K,0
+12014,Santasia N.,F,26,"Brooklyn, NY",2038,2159,655,5K,0
+24970,Ratana W.,F,49,"Montgomery Village, MD",2038,2125,655,5K,1
+17665,Denise H.,F,43,"Silver Spring, MD",2039,2052,655,5K,1
+8360,Lauren J.,F,26,"Washington, DC",2039,2072,655,5K,0
+25252,Isabel L.,F,46,"Germantown, MD",2039,2065,655,5K,1
+21466,Thuba R.,F,34,"Arlington, VA",2041,2113,656,5K,0
+14802,Debra B.,F,47,"Mclean, VA",2041,2184,656,5K,1
+21079,Beth B.,F,46,"Bethesda, MD",2042,2186,656,5K,1
+21007,Amanda A.,F,24,"Arlington, VA",2042,2058,656,5K,0
+24113,Emily R.,F,33,"Washington, DC",2042,2063,656,5K,0
+23500,Alexandria S.,F,26,"Alexandria, VA",2042,2175,656,5K,0
+17990,Valerie G.,F,46,"Silver Spring, MD",2042,2111,656,5K,1
+19523,Launa H.,F,47,"Arlington, VA",2042,2122,656,5K,1
+24413,Lia G.,F,23,"Arlington, VA",2042,2125,656,5K,0
+23713,Amy F.,F,65,"West Hartford, CT",2043,2061,656,5K,1
+20742,Nancy F.,F,59,"Springfield, PA",2044,2151,657,5K,1
+17057,Jenna H.,F,33,"Washington, DC",2046,2183,657,5K,0
+17634,Sarah D.,F,23,"Washington, DC",2048,2115,658,5K,0
+25257,Lisa T.,F,54,"Keymar, MD",2048,2151,658,5K,1
+15847,Caitlin K.,F,33,"Washington, DC",2048,2176,658,5K,0
+22953,Leslie B.,F,52,"Boston, MA",2050,2151,659,5K,1
+12009,Missy H.,F,52,"Mechanicsville, VA",2052,2159,659,5K,1
+16503,Carin F.,F,35,"Woodbridge, VA",2052,2057,659,5K,0
+16623,Ashley S.,F,24,"Washington, DC",2053,2125,660,5K,0
+17646,Lindsay C.,F,27,"Washington, DC",2054,2125,660,5K,0
+24387,Heidi S.,F,42,"Arlington, VA",2055,2092,660,5K,1
+24636,Yhamel C.,F,45,"Alexandria, VA",2056,2162,661,5K,1
+24426,Joyce O.,F,36,"Rockville, MD",2056,2092,661,5K,0
+23905,Amanda H.,F,28,"Arlington, VA",2058,2167,661,5K,0
+23763,Ameneh A.,F,36,"Washington, DC",2058,2145,661,5K,0
+19258,Susana J.,F,34,"Rockville, MD",2058,2164,661,5K,0
+12201,Laura K.,F,32,"Astoria, NY",2059,2187,662,5K,0
+15058,Samantha K.,F,25,"Washington, DC",2060,2088,662,5K,0
+19871,Kathleen W.,F,44,"Cabin John, MD",2060,2068,662,5K,1
+23621,Ilinca D.,F,36,"Germantown, MD",2061,2147,662,5K,0
+4287,Annemarie B.,F,33,"Silver Spring, MD",2063,2139,663,5K,0
+20952,Joelle T.,F,26,"Washington, DC",2063,2084,663,5K,0
+16344,Anisa A.,F,38,"Silver Spring, MD",2063,2163,663,5K,0
+23586,Dee D.,F,44,"Falls Church, VA",2064,2187,663,5K,1
+24494,Tessa M.,F,33,"Fairfax, VA",2064,2117,663,5K,0
+24440,Tina H.,F,38,"Falls Church, VA",2064,2117,663,5K,0
+21653,Erin T.,F,36,"Washington, DC",2065,2136,663,5K,0
+24407,Kate P.,F,26,"Closter, NJ",2065,2189,663,5K,0
+13526,Stephanie T.,F,33,"Baltimore, MD",2066,2109,664,5K,0
+24004,Nketia M.,F,40,"Waldorf, MD",2066,2151,664,5K,1
+24377,Danielle P.,F,29,"Arlington, VA",2067,2218,664,5K,0
+24371,Emily S.,F,26,"Arlington, VA",2069,2143,665,5K,0
+18392,Katie M.,F,33,"Arlington, VA",2069,2082,665,5K,0
+19444,Lyudmyla K.,F,27,"Arlington, VA",2073,2089,666,5K,0
+24725,Melissa M.,F,32,"Odenton, MD",2073,2129,666,5K,0
+23755,Cynthia C.,F,38,"Hamilton, VA",2074,2160,666,5K,0
+22111,Rocio R.,F,27,"Arlington, VA",2075,2150,667,5K,0
+17509,Marissa E.,F,26,"Washington, DC",2075,2160,667,5K,0
+23750,Ann B.,F,63,"Concord, MA",2076,2076,667,5K,1
+18852,Anne G.,F,30,"Annapolis, MD",2077,2107,667,5K,0
+24753,Jenny O.,F,41,"Washington, DC",2077,2179,667,5K,1
+25031,Alexis A.,F,33,"Washington, DC",2079,2234,668,5K,0
+24041,Julie S.,F,43,"Arlington, VA",2079,2144,668,5K,1
+18118,Katy T.,F,29,"Austin, TX",2080,2101,668,5K,0
+16449,Jessica T.,F,33,"Milton, DE",2080,2180,668,5K,0
+16406,Karen L.,F,44,"New York, NY",2080,2162,668,5K,1
+23494,Julie C.,F,34,"Alexandria, VA",2081,2135,669,5K,0
+17011,Kristen T.,F,30,"Washington, DC",2082,2118,669,5K,0
+14926,Christina D.,F,34,"Washington, DC",2083,2110,669,5K,0
+23136,Anita S.,F,61,"Pennington, NJ",2083,2122,669,5K,1
+21687,Rachel A.,F,25,"Washington, DC",2083,2252,669,5K,0
+23846,Julie R.,F,45,"Shorewood, WI",2084,2102,670,5K,1
+16727,Stacey G.,F,37,"Union City, NJ",2084,2110,670,5K,0
+25003,Angela T.,F,41,"Alexandria, VA",2085,2173,670,5K,1
+18183,Danni S.,F,23,"Washington, DC",2085,2205,670,5K,0
+6478,Katie P.,F,35,"Washington, DC",2089,2101,671,5K,0
+24318,Marie D.,F,28,"Washington, DC",2090,2142,672,5K,0
+14215,Kathleen L.,F,34,"Washington, DC",2090,2173,672,5K,0
+24477,Bianca B.,F,27,"Arlington, VA",2091,2141,672,5K,0
+24587,Stacie B.,F,37,"Washington, DC",2092,2235,672,5K,0
+24553,Stephanie S.,F,37,"Washington, DC",2092,2235,672,5K,0
+13959,Sharlene D.,F,53,"Seabrook, MD",2093,2190,672,5K,1
+15017,Chimin T.,F,43,"Fairfax, VA",2093,2108,672,5K,1
+21108,Sophie C.,F,26,"Washington, DC",2095,2754,673,5K,0
+16279,Danielle C.,F,31,"East Brunswick, NJ",2095,2209,673,5K,0
+20045,Jacquelyn M.,F,30,"New York, NY",2095,2149,673,5K,0
+19813,Namrata R.,F,38,"Bethesda, MD",2096,2126,673,5K,0
+10800,Sangeeta R.,F,34,"Washington, DC",2096,2202,673,5K,0
+13707,Radhika B.,F,34,"Washington, DC",2096,2202,673,5K,0
+16785,Leah B.,F,40,"Washington, DC",2097,2558,674,5K,1
+9467,Alex M.,F,22,"Washington, DC",2097,2123,674,5K,0
+6565,Bertha C.,F,50,"Washington, DC",2097,2309,674,5K,1
+24288,Rena S.,F,35,"Bishopville, MD",2098,2149,674,5K,0
+13437,Jessica L.,F,24,"Washington, DC",2098,2124,674,5K,0
+21273,Katherine P.,F,14,"Bowie, MD",2098,2126,674,5K,0
+20300,Mikiko B.,F,36,"Maryville, TN",2099,2140,674,5K,0
+24127,Linda K.,F,59,"North Potomac, MD",2099,2162,674,5K,1
+23723,Elizabeth C.,F,43,"Fort Belvoir, VA",2099,2100,674,5K,1
+16276,Emily R.,F,35,"Alexandria, VA",2100,2132,675,5K,0
+23740,Antoinette P.,F,44,"Laurel, MD",2100,2132,675,5K,1
+14230,Marina S.,F,36,"Washington, DC",2101,2136,675,5K,0
+24213,Tracey D.,F,54,"Whitehouse Station, NJ",2101,2250,675,5K,1
+24459,Loren M.,F,34,"Purchase, NY",2103,2256,676,5K,0
+24921,Sapana M.,F,29,"Gaithersburg, MD",2103,2149,676,5K,0
+16447,Natalia L.,F,27,"Arlington, VA",2105,2150,676,5K,0
+17157,Amanda S.,F,27,"Dc, DC",2105,2157,676,5K,0
+13231,Becky B.,F,40,"Canton, CT",2105,2115,676,5K,1
+21294,Annette A.,F,61,"Bethesda, MD",2105,2255,676,5K,1
+13384,Jody W.,F,49,"St. Louis, MO",2106,2133,677,5K,1
+18269,Sharon C.,F,61,"Washington, DC",2106,2161,677,5K,1
+23959,Vickey C.,F,26,"Takoma Park, MD",2107,2225,677,5K,0
+22075,Brittany R.,F,28,"Washtington, DC",2107,2148,677,5K,0
+25242,Etasha H.,F,41,"Waldorf, MD",2107,2128,677,5K,1
+10734,Chiara M.,F,42,"Washington, DC",2107,2129,677,5K,1
+23982,Jennifer D.,F,52,"Rockville, MD",2108,2156,677,5K,1
+24843,Kelsey S.,F,27,"Washington, DC",2108,2281,677,5K,0
+14913,Eugenie B.,F,24,"New Orleans, LA",2109,2207,678,5K,0
+20224,Amanda F.,F,46,"Alexandria, VA",2109,2253,678,5K,1
+12760,Johanna C.,F,41,"Brambleton, VA",2109,2124,678,5K,1
+23865,Brisa A.,F,26,"Frisco, TX",2109,2152,678,5K,0
+21430,Ann H.,F,31,"Alexandria, VA",2111,2114,678,5K,0
+10153,Crystal R.,F,30,"Denver, CO",2111,2139,678,5K,0
+23822,Jillian K.,F,30,"Raleigh, NC",2111,2140,678,5K,0
+17914,Stephanie A.,F,37,"Reston, VA",2112,2235,679,5K,0
+24290,Erin W.,F,37,"Catonsville, MD",2113,2231,679,5K,0
+24231,Rachel H.,F,29,"Philadelphia, PA",2114,2117,679,5K,0
+23629,Meghan H.,F,39,"Burke, VA",2114,2247,679,5K,0
+25002,Krista B.,F,43,"Arlington, VA",2114,2129,679,5K,1
+15256,Michele A.,F,32,"Arlington, VA",2114,2251,679,5K,0
+18375,Lisa B.,F,46,"Burke, VA",2114,2218,679,5K,1
+15530,Emily B.,F,40,"Greencastle, PA",2114,2298,679,5K,1
+24246,Jennifer B.,F,26,"Arlington, VA",2114,2133,679,5K,0
+23842,Denise T.,F,47,"Stony Brook, NY",2115,2208,680,5K,1
+17950,Angie M.,F,46,"Bethesda, MD",2116,2245,680,5K,1
+24822,Lauren S.,F,19,"Washington, DC",2116,2515,680,5K,0
+15400,Natalie S.,F,47,"Reston, VA",2116,2260,680,5K,1
+15398,Rachel K.,F,29,"Reston, VA",2116,2261,680,5K,0
+24885,Brenda P.,F,12,"Washington, DC",2116,2515,680,5K,0
+24054,Diana R.,F,40,"Collegeville, PA",2117,2209,680,5K,1
+19255,Donna R.,F,46,"Haymarket, VA",2117,2286,680,5K,1
+23617,Nicole G.,F,24,"Washington, DC",2118,2273,681,5K,0
+23655,Ann C.,F,62,"State College, PA",2119,2143,681,5K,1
+24071,Sharon T.,F,44,"Falls Church, VA",2120,2161,681,5K,1
+24581,Andrea K.,F,32,"Gambrills, MD",2120,2182,681,5K,0
+24411,Ginget W.,F,42,"Ft Belvoir, VA",2122,2275,682,5K,1
+7915,Charlotte D.,F,25,"Alexandria, VA",2124,2140,682,5K,0
+19302,Patricia K.,F,51,"Silver Spring, MD",2125,2171,683,5K,1
+24247,Charlotte R.,F,43,"Alexandria, VA",2126,2279,683,5K,1
+3656,Crystal B.,F,27,"Washington, DC",2127,2175,683,5K,0
+16730,Jillian S.,F,36,"Alexandria, VA",2127,2144,683,5K,0
+24132,Joanne H.,F,61,"Collegeville, PA",2128,2170,684,5K,1
+24592,Eva Y.,F,33,"Germantown, MD",2129,2241,684,5K,0
+24549,Jennifer H.,F,29,"Chambersburg, PA",2129,2282,684,5K,0
+19394,Leonor P.,F,37,"Fairfax, VA",2130,2141,684,5K,0
+24093,Kathy L.,F,54,"Oakton, VA",2130,2185,684,5K,1
+17505,Nicole M.,F,26,"Bethesda, MD",2130,2211,684,5K,0
+23969,Racquel S.,F,26,"Washington, DC",2131,2192,685,5K,0
+21089,Joanna D.,F,30,"Laurel, MD",2131,2263,685,5K,0
+25005,Stephanie D.,F,31,"Arlington, VA",2132,2237,685,5K,0
+24324,Shanta W.,F,36,"Arlington, VA",2132,2159,685,5K,0
+17841,Holly S.,F,35,"Springfield, VA",2134,2152,686,5K,0
+23927,Donna T.,F,56,"Orono, MN",2135,2147,686,5K,1
+10593,Sofia V.,F,32,"Arlington, VA",2135,2169,686,5K,0
+24171,Diba R.,F,39,"Rockville, MD",2136,2281,686,5K,0
+22133,Katie F.,F,21,"Arlington, VA",2139,2175,687,5K,0
+18280,Courtney K.,F,26,"Arlington, VA",2141,2222,688,5K,0
+21365,Julia R.,F,33,"Baltimore, MD",2141,2280,688,5K,0
+15691,Angie W.,F,37,"Silver Spring, MD",2142,2229,688,5K,0
+21539,Judy Y.,F,34,"Washington, DC",2144,2174,689,5K,0
+24272,Chantal M.,F,25,"Washington, DC",2145,2245,689,5K,0
+19081,Connie R.,F,32,"Lexington Park, MD",2145,2283,689,5K,0
+13336,Virginia D.,F,37,"Lexington Park, MD",2146,2283,690,5K,0
+24797,Denise S.,F,34,"Roscommon, MI",2147,2305,690,5K,0
+12383,Sara O.,F,38,"Gaithersburg, MD",2148,2248,690,5K,0
+15805,Teresa T.,F,62,"Boise, ID",2148,2211,690,5K,1
+9891,Stephanie H.,F,39,"Arlington, MD",2149,2212,690,5K,0
+19236,Joscelyn L.,F,34,"Baltimore, MD",2149,2212,690,5K,0
+17379,Chiamaka O.,F,32,"Laurel, MD",2150,2172,691,5K,0
+24942,Carol M.,F,44,"Ashburn, VA",2151,2304,691,5K,1
+18484,Monique R.,F,42,"Laurel, MD",2151,2188,691,5K,1
+23594,Rebecca I.,F,36,"Alexandria, VA",2151,2276,691,5K,0
+24173,Madeline P.,F,12,"Bowie, MD",2153,2181,692,5K,0
+25124,Karla M.,F,34,"Sterling, VA",2154,2191,692,5K,0
+24493,Brigitte H.,F,46,"Vienna, VA",2155,2226,692,5K,1
+23930,Jayme S.,F,35,"Greensburg, PA",2156,2168,693,5K,0
+24112,Jess D.,F,34,"Alexandria, VA",2156,2258,693,5K,0
+24166,Kathryn E.,F,48,"Gaithersburg, MD",2157,2246,693,5K,1
+6817,Bridget B.,F,26,"Vienna, VA",2157,2258,693,5K,0
+16486,Caroline H.,F,59,"Herndon, VA",2157,2295,693,5K,1
+24139,Katherine W.,F,29,"Washington, DC",2157,2191,693,5K,0
+15569,Katy K.,F,36,"Greencastle, PA",2160,2344,694,5K,0
+18066,Amanda W.,F,31,"Annapolis, MD",2161,2167,694,5K,0
+24648,Eden T.,F,27,"Washington, DC",2161,2187,694,5K,0
+20245,Angela M.,F,33,"Arlington, VA",2162,2267,695,5K,0
+24642,Rachel S.,F,26,"Washington, DC",2162,2188,695,5K,0
+25016,Ashley S.,F,24,"Washington, DC",2164,2239,695,5K,0
+23505,Laura M.,F,59,"Kimberton, PA",2164,2244,695,5K,1
+24635,Sonia J.,F,53,"Annandale, VA",2165,2378,696,5K,1
+25094,Christie B.,F,39,"Springfield, VA",2168,2231,697,5K,0
+24787,Cathy H.,F,50,"Manassas, VA",2168,2295,697,5K,1
+19094,Susan T.,F,36,"Washington, DC",2169,2206,697,5K,0
+25099,Jihan B.,F,35,"Fairfax, VA",2169,2296,697,5K,0
+25090,Susan H.,F,36,"Haymarket, VA",2169,2232,697,5K,0
+9845,Katherine M.,F,34,"Washington, DC",2170,2328,697,5K,0
+17213,Juliet S.,F,41,"Washington, DC",2170,2233,697,5K,1
+24397,Emily M.,F,35,"Arlington, VA",2172,2226,698,5K,0
+19755,Tilcia T.,F,46,"Silver Spring, MD",2172,2285,698,5K,1
+24217,Christie M.,F,41,"Silver Spring, MD",2173,2275,698,5K,1
+19683,Allyson F.,F,30,"Alexandria, VA",2173,2203,698,5K,0
+12718,Devlin H.,F,31,"Arlington, VA",2173,2238,698,5K,0
+24227,Ashley F.,F,41,"Silver Spring, MD",2174,2275,699,5K,1
+21145,Kristen W.,F,48,"Fall Church, VA",2175,2195,699,5K,1
+17921,Mariam G.,F,35,"Arlington, VA",2176,2209,699,5K,0
+16331,Stephanie S.,F,43,"Potomac, MD",2176,2207,699,5K,1
+15343,Julie H.,F,35,"Belmont, MA",2176,2198,699,5K,0
+14946,Carolina B.,F,29,"Washington, DC",2177,2209,700,5K,0
+24285,Rachael G.,F,30,"Ellicott City, MD",2177,2290,700,5K,0
+24257,Stephany P.,F,33,"Washington, DC",2178,2358,700,5K,0
+22244,Sydney B.,F,20,"Germantown, MD",2182,2290,701,5K,0
+18845,Kristi A.,F,28,"Wisconsin Rapids, WI",2182,2231,701,5K,0
+18846,Donna A.,F,62,"Wisconsin Rapids, WI",2182,2231,701,5K,1
+23502,Sandra K.,F,61,"Clarksburg, MD",2183,2232,701,5K,1
+19503,Nandini N.,F,54,"Reston, VA",2183,2216,701,5K,1
+23614,Jennifer C.,F,36,"Hershey, PA",2183,2353,701,5K,0
+24002,Johanna S.,F,34,"Baltimore, MD",2185,2206,702,5K,0
+18694,Nancy N.,F,25,"Alexandria, VA",2186,2293,702,5K,0
+17723,Kate B.,F,37,"Washington, DC",2187,2201,703,5K,0
+25030,Desiree M.,F,36,"Washington, DC",2187,2265,703,5K,0
+16964,Elyse P.,F,29,"Alexandria, VA",2189,2322,703,5K,0
+18343,Valerie M.,F,27,"Arlington, VA",2192,2282,704,5K,0
+18575,Marisa C.,F,36,"Falls Church, VA",2194,2224,705,5K,0
+17001,Daodao W.,F,24,"Arlington, VA",2195,2234,705,5K,0
+668,Mary A.,F,27,"Washington, DC",2199,2373,707,5K,0
+24934,Maggie D.,F,28,"Alexandria, VA",2199,2362,707,5K,0
+22933,Linda E.,F,53,"Tampa, FL",2199,2257,707,5K,1
+24897,Diana N.,F,11,"Washington, DC",2200,2366,707,5K,0
+24889,Brittany P.,F,29,"Washington, DC",2200,2366,707,5K,0
+24985,Sof???a P.,F,24,"Washington, DC",2201,2377,707,5K,0
+19884,Ewa F.,F,46,"Blacksburg, VA",2201,2291,707,5K,1
+19971,Petya Y.,F,33,"Centreville, VA",2202,2229,708,5K,0
+23699,Lauryn S.,F,37,"Washington, DC",2203,2326,708,5K,0
+20888,Arti J.,F,34,"New York, NY",2203,2280,708,5K,0
+8179,Lydia C.,F,50,"Silver Spring, MD",2208,2243,709,5K,1
+21264,Deepthi M.,F,32,"Fairfax, VA",2210,2229,710,5K,0
+24445,Mary S.,F,56,"St. Inigoes, MD",2210,2320,710,5K,1
+9271,Sarah S.,F,37,"Washington, DC",2212,2337,711,5K,0
+21249,Jennifer L.,F,26,"Washington, DC",2212,2270,711,5K,0
+15689,Carin G.,F,37,"Washington, DC",2212,2337,711,5K,0
+18064,Jacina S.,F,37,"Hanover, MD",2213,2238,711,5K,0
+18171,Natalie V.,F,23,"Wolcott, CT",2214,2258,711,5K,0
+23592,Sarah C.,F,29,"Alexandria, VA",2214,2252,711,5K,0
+16444,Rian K.,F,29,"Alexandria, VA",2215,2350,712,5K,0
+16608,Erica C.,F,37,"Sunnyside, NY",2215,2337,712,5K,0
+24714,Lydia H.,F,43,"Ashburn, VA",2216,2249,712,5K,1
+8946,Shaunna M.,F,30,"Brooklyn, NY",2217,2257,712,5K,0
+20971,Monica V.,F,35,"Washington, DC",2217,2294,712,5K,0
+15761,Bren L.,F,37,"Washington, DC",2217,2389,712,5K,0
+24428,Jane M.,F,46,"Sacramento, CA",2217,2226,712,5K,1
+23662,Sylvia B.,F,55,"Silver Spring, MD",2217,2245,712,5K,1
+13556,Nikardi J.,F,25,"Arlington, VA",2218,2266,713,5K,0
+17570,Kaleigh S.,F,30,"Poolesville, MD",2219,2290,713,5K,0
+23861,Laurel M.,F,26,"Arlington, VA",2220,2295,713,5K,0
+18260,Franchesca W.,F,40,"Virginia Beach, VA",2220,2269,713,5K,1
+19187,Tanya T.,F,27,"Falls Church, VA",2222,2277,714,5K,0
+18277,Deidre D.,F,54,"New York, NY",2223,2272,714,5K,1
+25166,Betelehem T.,F,44,"Alexandria, VA",2224,2240,715,5K,1
+23868,Andrea V.,F,60,"North Potomac, MD",2224,2288,715,5K,1
+7724,Lisa W.,F,55,"Frankford, DE",2224,2281,715,5K,1
+12218,Rachel G.,F,35,"Chicago, IL",2227,2262,716,5K,0
+18177,Lauren H.,F,28,"Christiansburg, VA",2227,2253,716,5K,0
+16230,Amanda M.,F,29,"Fairfax, VA",2229,2244,716,5K,0
+23567,Margaret S.,F,26,"Colorado Springs, CO",2229,2244,716,5K,0
+25497,Angela E.,F,32,"Manheim, PA",2229,2385,716,5K,0
+17298,Laura B.,F,35,"Falls Church, VA",2230,2267,717,5K,0
+23521,Liz S.,F,35,"Brooklyn, NY",2231,2351,717,5K,0
+23657,Kathy K.,F,58,"Crofton, MD",2231,2270,717,5K,1
+18012,Kristine F.,F,34,"Pasadena, TX",2232,2260,717,5K,0
+24273,Wendy M.,F,44,"Germantown, MD",2232,2315,717,5K,1
+25131,Raquel M.,F,27,"Herndon, VA",2232,2635,717,5K,0
+25212,Joy M.,F,53,"Arlington, VA",2232,2305,717,5K,1
+24742,Hang N.,F,28,"Washington, DC",2234,2362,718,5K,0
+24223,Kayla N.,F,31,"Washington, DC",2234,2246,718,5K,0
+23845,Nancy P.,F,43,"Saint Louis, MO",2235,2313,718,5K,1
+16812,Val R.,F,32,"Reston, VA",2235,2252,718,5K,0
+18490,Chrisitna C.,F,39,"New York, NY",2236,2249,718,5K,0
+23795,Francis C.,F,35,"Washington, DC",2236,2714,718,5K,0
+24240,Mary S.,F,32,"Herndon, VA",2237,2402,719,5K,0
+24204,Mandy W.,F,76,"Falls Church, VA",2237,2316,719,5K,1
+17615,Mary S.,F,73,"Reston, VA",2237,2253,719,5K,1
+24239,Dana D.,F,24,"Vienna, VA",2238,2403,719,5K,0
+24308,Laura D.,F,31,"Tysons, VA",2239,2404,719,5K,0
+25246,Elise S.,F,27,"Springfield, VA",2240,2269,720,5K,0
+17158,Sarah P.,F,34,"Owings, MD",2240,2269,720,5K,0
+24844,Maggie B.,F,45,"Washington, DC",2240,2407,720,5K,1
+22805,Marla B.,F,58,"Arlington, VA",2242,2275,720,5K,1
+23774,Chloe C.,F,24,"Washington, DC",2242,2321,720,5K,0
+24886,Jaime P.,F,36,"Washington, DC",2242,2802,720,5K,0
+25204,Denise K.,F,45,"Alexandria, VA",2243,2271,721,5K,1
+24559,Rachael K.,F,35,"Clearwater, FL",2243,2259,721,5K,0
+21138,Ghada S.,F,35,"Arlington, VA",2244,2323,721,5K,0
+20578,April F.,F,38,"Cherry Tree, PA",2246,2368,722,5K,0
+13322,Shaila C.,F,39,"Washington, DC",2246,2282,722,5K,0
+11077,Ariel K.,F,29,"Astoria, NY",2247,2376,722,5K,0
+25159,Ariana M.,F,18,"Woodbridge, VA",2247,2294,722,5K,0
+24943,Nadia J.,F,12,"Washington, DC",2248,2414,722,5K,0
+988,Suzanne C.,F,40,"Baltimore, MD",2249,2533,723,5K,1
+24375,Samantha C.,F,26,"Washington, DC",2250,2429,723,5K,0
+19091,Andrea M.,F,43,"Baltimore, MD",2251,2533,723,5K,1
+15243,Kelly B.,F,41,"Cheverly, MD",2251,2534,723,5K,1
+25235,Hye J.,F,38,"Arlington, VA",2252,2265,724,5K,0
+24038,Christa W.,F,52,"Fairfax, VA",2252,2370,724,5K,1
+24818,Tracy B.,F,47,"Ellicott City, MD",2253,2381,724,5K,1
+25038,Elba C.,F,49,"Silver Spring, MD",2254,2263,724,5K,1
+24848,Helena B.,F,13,"Washington, DC",2254,2420,724,5K,0
+19138,Mary C.,F,53,"Washington, DC",2254,2288,724,5K,1
+20056,Arianne P.,F,24,"Washington, DC",2254,2330,724,5K,0
+24438,Leslie S.,F,44,"Falls Church, VA",2255,2343,725,5K,1
+18659,Kathryn G.,F,32,"Washington, DC",2255,2423,725,5K,0
+19918,Joann T.,F,57,"Hyattsville, MD",2255,2290,725,5K,1
+24190,Monica M.,F,52,"Columbia, MD",2256,2396,725,5K,1
+17897,Katie S.,F,39,"West Chester, PA",2258,2361,726,5K,0
+24887,Kate A.,F,35,"Alexandria, VA",2258,2362,726,5K,0
+19645,Allison N.,F,52,"Pasadena, MD",2259,2293,726,5K,1
+20649,Leila D.,F,29,"Falls Church, VA",2259,2339,726,5K,0
+23836,Danielle V.,F,28,"Washington, DC",2260,2412,726,5K,0
+24356,Kathy A.,F,62,"Oak Hill, VA",2260,2348,726,5K,1
+20271,Laura R.,F,30,"Alexandria, VA",2260,2339,726,5K,0
+25017,Ceceli T.,F,34,"Washington Dc, DC",2261,2450,727,5K,0
+17747,Karyn S.,F,40,"Washington, DC",2262,2409,727,5K,1
+24901,Dawnyela M.,F,44,"Washington, DC",2263,2431,727,5K,1
+24588,Julita W.,F,33,"Upper Marlboro, MD",2263,2315,727,5K,0
+23744,Andrea K.,F,30,"Arlington, VA",2265,2372,728,5K,0
+21517,Claudia F.,F,31,"Washington, DC",2265,2403,728,5K,0
+8762,Desiree L.,F,36,"Washington, DC",2265,2305,728,5K,0
+24006,Lizzy R.,F,24,"Washington, DC",2266,2333,728,5K,0
+23600,Lauren G.,F,33,"Alexandria, VA",2267,2392,728,5K,0
+24001,Sara A.,F,25,"Washington, DC",2267,2333,728,5K,0
+18986,Maria M.,F,36,"Washington, DC",2267,2404,728,5K,0
+24236,Georgia K.,F,19,"Easton, PA",2276,2417,731,5K,0
+24462,Meredith B.,F,29,"Alexandria, VA",2276,2417,731,5K,0
+23637,Sarah M.,F,23,"Washington, DC",2276,2324,731,5K,0
+24470,Sandra W.,F,54,"Falls Church, VA",2277,2407,732,5K,1
+20289,Cheryl S.,F,66,"Indianapolis, IN",2278,2317,732,5K,1
+18444,Lorena G.,F,22,"Silver Spring, MD",2278,2410,732,5K,0
+18540,Lauren J.,F,26,"Washington Dc, DC",2278,2332,732,5K,0
+24433,Stephanie C.,F,25,"Washington, DC",2279,2389,732,5K,0
+24252,Shomya T.,F,26,"Washington, DC",2280,2434,733,5K,0
+24631,Jennifer G.,F,49,"Purcellville, VA",2281,2387,733,5K,1
+24723,Jd S.,F,41,"Ft Washington, MD",2283,2389,734,5K,1
+24722,Tuesday B.,F,31,"Columbia, MD",2283,2389,734,5K,0
+20302,Mandana F.,F,32,"Washington, DC",2283,2318,734,5K,0
+24311,Emily A.,F,32,"Mt. Pleasant, SC",2284,2423,734,5K,0
+24380,Francesca F.,F,34,"Miami, FL",2284,2424,734,5K,0
+24254,Emily D.,F,26,"Arlington, VA",2284,2303,734,5K,0
+18471,Nicole B.,F,31,"Washington, DC",2284,2341,734,5K,0
+23627,Jahnin D.,F,29,"Washington, DC",2285,2469,734,5K,0
+23626,Nelajah D.,F,34,"Washington, DC",2285,2469,734,5K,0
+24091,Jennifer S.,F,46,"Washington, DC",2286,2310,735,5K,1
+20684,Allison W.,F,34,"Arlington, VA",2286,2342,735,5K,0
+10957,Barbara F.,F,49,"Elliott City, MD",2287,2355,735,5K,1
+24972,Kinsey B.,F,26,"Fairfax, VA",2288,2690,735,5K,0
+24842,Daniya S.,F,11,"Washington, DC",2288,2690,735,5K,0
+24839,Hannah A.,F,23,"Silver Spring, MD",2288,2689,735,5K,0
+23962,Erica D.,F,30,"Washington, DC",2288,2383,735,5K,0
+24495,Adrienne C.,F,40,"Rockville, MD",2289,2401,736,5K,1
+24749,Mary K.,F,30,"Arlington, VA",2290,2313,736,5K,0
+23754,Karen P.,F,53,"Upper Marlboro, MD",2291,2358,736,5K,1
+24825,Danielle Y.,F,35,"Washington, DC",2292,2855,736,5K,0
+12290,Bettina H.,F,32,"Washington, DC",2292,2454,736,5K,0
+24911,Nakeisha J.,F,41,"Washington, DC",2293,2461,737,5K,1
+24980,Ashley L.,F,26,"Laurel, MD",2293,2353,737,5K,0
+24312,Rebecca F.,F,42,"Falls Church, VA",2293,2459,737,5K,1
+19964,Nancy L.,F,64,"Washington, DC",2294,2311,737,5K,1
+25262,Lori R.,F,55,"Gerrardstown, WV",2294,2422,737,5K,1
+20890,Smita P.,F,35,"Washington, DC",2294,2371,737,5K,0
+24855,Mandy D.,F,14,"Washington, DC",2295,2858,737,5K,0
+23168,Donia M.,F,38,"Cape May Court House, NJ",2295,2420,737,5K,0
+24863,Karyn M.,F,33,"Alexandria, VA",2295,2396,737,5K,0
+13644,Simona C.,F,36,"Washington, DC",2295,2325,737,5K,0
+24896,Samantha N.,F,28,"Washington, DC",2295,2858,737,5K,0
+25241,Olivia S.,F,39,"Ashburn, VA",2296,2322,738,5K,0
+20670,Vanessa K.,F,33,"Washington, DC",2296,2325,738,5K,0
+20260,Siri F.,F,41,"Washington, DC",2296,2327,738,5K,1
+25117,Shannon R.,F,29,"Fairfax, VA",2296,2333,738,5K,0
+21226,Mimi V.,F,37,"Silver Spring, MD",2298,2406,738,5K,0
+19027,Kacey M.,F,28,"Washington, DC",2300,2324,739,5K,0
+21587,Laura R.,F,32,"Arlington, VA",2302,2434,740,5K,0
+20012,Lisa T.,F,32,"Sharpsburg, MD",2303,2425,740,5K,0
+19414,Katie F.,F,32,"Silver Spring, MD",2303,2439,740,5K,0
+23901,Erika A.,F,33,"Alexandria, VA",2304,2447,740,5K,0
+17597,Megan G.,F,30,"Centreville, VA",2304,2376,740,5K,0
+14646,Kelly G.,F,39,"Arlington, VA",2304,2375,740,5K,0
+20246,Michelle F.,F,26,"Arlington, VA",2304,2373,740,5K,0
+12761,Brandi H.,F,38,"Germantown, MD",2304,2330,740,5K,0
+23752,Lindsey S.,F,40,"Alexandria, VA",2305,2386,741,5K,1
+22123,Sara O.,F,37,"Washington, DC",2307,2349,741,5K,0
+15410,Kimberly S.,F,26,"Coatesville, PA",2308,2338,742,5K,0
+24593,Delara D.,F,31,"Washington, DC",2308,2515,742,5K,0
+25240,Tierra C.,F,27,"Atlanta, GA",2308,2332,742,5K,0
+24144,Katherine M.,F,26,"Madison, WI",2309,2367,742,5K,0
+24141,Sarah H.,F,27,"Rockville, MD",2309,2367,742,5K,0
+24106,Lauren D.,F,25,"Edgewood, MD",2310,2335,742,5K,0
+24014,Nicole S.,F,27,"Arlington, VA",2310,2379,742,5K,0
+20435,Mary R.,F,29,"Frederick, MD",2311,2370,743,5K,0
+24277,Paula P.,F,35,"Bethesda, MD",2311,2445,743,5K,0
+16507,Laura S.,F,54,"Hopewell Junction, NY",2311,2356,743,5K,1
+24964,Arya N.,F,25,"Vienna, VA",2313,2467,743,5K,0
+18075,Patricia G.,F,51,"Silver Spring, MD",2313,2338,743,5K,1
+20177,Kimberly C.,F,34,"Reston, VA",2314,2348,744,5K,0
+704,Farheena R.,F,41,"Sandy Spring, MD",2318,2327,745,5K,1
+23533,Marina M.,F,40,"Washington, DC",2318,2414,745,5K,1
+11952,Claire L.,F,16,"Springfield, VA",2321,2504,746,5K,0
+20479,Shuang H.,F,30,"Arlington, VA",2322,2726,746,5K,0
+24350,Shauna C.,F,39,"Kensington, MD",2323,2391,746,5K,0
+19381,Jodie K.,F,52,"Arlington, VA",2326,2453,747,5K,1
+19080,Emily C.,F,48,"Mclean, VA",2326,2453,747,5K,1
+16199,Leanne S.,F,43,"Alexandria, VA",2326,2459,747,5K,1
+25089,Jhansi B.,F,51,"Centreville, VA",2327,2368,748,5K,1
+10680,Terri H.,F,46,"Alexandria, VA",2327,2385,748,5K,1
+19876,Deitra W.,F,56,"Manassas, VA",2328,2407,748,5K,1
+15958,Erin S.,F,31,"Alexandria, VA",2329,2386,748,5K,0
+12475,Megan M.,F,32,"Washington, DC",2329,2346,748,5K,0
+20062,Amy R.,F,32,"Washington, DC",2330,2471,749,5K,0
+20462,Lesley M.,F,27,"Washington, DC",2330,2382,749,5K,0
+24287,Christine B.,F,47,"Olney, MD",2330,2366,749,5K,1
+15637,Tammy T.,F,55,"Woodbridge, VA",2330,2410,749,5K,1
+15937,Meghan S.,F,33,"Oak Ridge, NJ",2332,2360,749,5K,0
+24188,Erin B.,F,43,"Portsmouth, NH",2333,2364,750,5K,1
+19639,Stacey E.,F,31,"Destin, FL",2333,2467,750,5K,0
+9065,Erin S.,F,35,"Greenbelt, MD",2334,2462,750,5K,0
+23589,Mary S.,F,60,"Reston, VA",2334,2340,750,5K,1
+23858,Robin J.,F,33,"Waldorf, MD",2334,2361,750,5K,0
+23987,Joanne S.,F,37,"Washington, DC",2334,2433,750,5K,0
+24933,Jessie J.,F,40,"Springfield, VA",2337,2405,751,5K,1
+19652,Julie A.,F,49,"Springfield, VA",2338,2405,751,5K,1
+20411,Sarah M.,F,32,"Alexandria, VA",2338,2496,751,5K,0
+23599,Sonja G.,F,40,"Springfield, VA",2338,2442,751,5K,1
+19322,Amanda S.,F,30,"Fairfax, VA",2339,2496,752,5K,0
+24313,Susan G.,F,33,"Arlington, VA",2340,2370,752,5K,0
+19262,Heather F.,F,47,"Washington, DE",2341,2538,752,5K,1
+21641,Alison D.,F,34,"Baltimore, MD",2341,2377,752,5K,0
+24016,Jennifer H.,F,53,"Washington, DC",2341,2467,752,5K,1
+23766,Anne Z.,F,29,"Rockville, MD",2342,2489,753,5K,0
+25021,Hillary L.,F,24,"Raleigh, NC",2342,2443,753,5K,0
+2614,Stefani G.,F,24,"Norwalk, CT",2342,2483,753,5K,0
+7935,Tsveta P.,F,32,"Washington, DC",2343,2484,753,5K,0
+24256,Amy S.,F,43,"Silver Spring, MD",2345,2376,754,5K,1
+19313,Suzanne G.,F,53,"Reston, VA",2345,2407,754,5K,1
+24582,Brooke B.,F,31,"Prince Frederick, MD",2345,2395,754,5K,0
+18342,Danyelle D.,F,29,"Washington, DC",2345,2375,754,5K,0
+17727,Theresa D.,F,46,"Fairfax Station, VA",2347,2439,754,5K,1
+11336,Angela S.,F,37,"Ashburn, VA",2350,2521,755,5K,0
+18305,Erica S.,F,30,"Washington, DC",2350,2481,755,5K,0
+17468,Andrea C.,F,39,"Washington, DC",2351,2373,755,5K,0
+24321,Josephine T.,F,36,"Falls Church, VA",2353,2458,756,5K,0
+18439,Judy S.,F,55,"New York, NY",2355,2485,757,5K,1
+24341,Courtney N.,F,35,"Fairfax, VA",2356,2487,757,5K,0
+19470,Erin K.,F,36,"Wilmington, MA",2358,2471,758,5K,0
+20768,Amy S.,F,37,"Alexandria, VA",2358,2399,758,5K,0
+20065,Lindsey B.,F,41,"Virginia Beach, VA",2359,2371,758,5K,1
+17684,Kimber W.,F,46,"Clinton, VA",2359,2394,758,5K,1
+20259,Jennifer S.,F,57,"Teaneck, NJ",2359,2463,758,5K,1
+8146,Meera R.,F,33,"Fairfax, VA",2360,2434,758,5K,0
+23546,Dominique P.,F,29,"Bronx, NY",2361,2409,759,5K,0
+19908,Claire S.,F,61,"Virginia Beach, VA",2363,2490,759,5K,1
+23685,Lucy G.,F,30,"Albany, NY",2364,2447,760,5K,0
+24977,Janeen P.,F,44,"Centreville, VA",2364,2523,760,5K,1
+24698,Martha W.,F,29,"Arlington, VA",2365,2452,760,5K,0
+24800,Kym N.,F,40,"Manassas, VA",2366,2424,760,5K,1
+24690,Maria B.,F,54,"Arlington, VA",2367,2434,761,5K,1
+19128,Kelle M.,F,45,"Alexandria, VA",2368,2469,761,5K,1
+19145,Elizabeth L.,F,56,"Gaithersburg, MD",2369,2399,761,5K,1
+24082,Shelia B.,F,67,"Portsmouth, VA",2369,2416,761,5K,1
+24362,Lisa R.,F,45,"Boyds, MD",2370,2462,762,5K,1
+24059,Gueck L.,F,35,"Rockville, MD",2370,2473,762,5K,0
+23745,Marie Z.,F,32,"East Northport, NY",2370,2508,762,5K,0
+24449,Yuna K.,F,18,"New York, NY",2371,2447,762,5K,0
+17297,Elizabeth F.,F,44,"Washington, DC",2371,2558,762,5K,1
+19879,Cassedy D.,F,37,"Clarksburg, MD",2371,2377,762,5K,0
+24325,Quatrina P.,F,41,"Vienna, VA",2373,2428,763,5K,1
+18174,Nicole H.,F,30,"Washington, DC",2375,2532,763,5K,0
+23878,Renee M.,F,62,"Bethlehem, PA",2375,2487,763,5K,1
+24077,Laura V.,F,42,"Springfield, VA",2375,2450,763,5K,1
+24080,Aparna S.,F,37,"North Potomac, MD",2376,2381,763,5K,0
+24781,Julie E.,F,52,"Gahanna, OH",2376,2446,763,5K,1
+23585,Rebecca T.,F,44,"Springfield, VA",2377,2453,764,5K,1
+24720,Sabine B.,F,43,"Upper Marlboro, MD",2378,2527,764,5K,1
+25243,Cynthia P.,F,54,"Arlington, VA",2379,2404,764,5K,1
+19039,Sophia W.,F,60,"Newport News, VA",2382,2464,765,5K,1
+18289,Lori C.,F,42,"Garrett Park, MD",2382,2451,765,5K,1
+24688,Handan R.,F,55,"Herndon, VA",2385,2432,766,5K,1
+24740,Monica J.,F,42,"Upper Marlboro, MD",2386,2423,767,5K,1
+24908,Gabriela L.,F,13,"Washington, DC",2388,2788,767,5K,0
+24833,Casey S.,F,25,"Arlington, VA",2388,2788,767,5K,0
+21531,Alayna P.,F,31,"Washington, DC",2388,2457,767,5K,0
+22859,Elizabeth D.,F,31,"Cincinnati, OH",2388,2406,767,5K,0
+21576,Katharine Z.,F,34,"Washington, DC",2389,2466,768,5K,0
+21167,Riah J.,F,41,"College Park, MD",2389,2564,768,5K,1
+19382,Margaret L.,F,34,"Washington, DC",2390,2401,768,5K,0
+24849,Melissa R.,F,33,"Hyattsville, MD",2390,2559,768,5K,0
+20427,Christina W.,F,33,"Centreville, VA",2390,2428,768,5K,0
+20200,Lisa M.,F,48,"Herndon, VA",2390,2425,768,5K,1
+18454,Anna E.,F,43,"Centreville, VA",2391,2422,768,5K,1
+19108,Catherine C.,F,57,"Alexandria, VA",2392,2435,769,5K,1
+19642,Kendra Q.,F,32,"Ft Meade, MD",2393,2503,769,5K,0
+24296,Farr Q.,F,35,"Alexandria, VA",2394,2475,769,5K,0
+20075,Melanie Z.,F,37,"Washington, DC",2395,2552,770,5K,0
+19194,Antonina S.,F,33,"Oakmont, PA",2395,2441,770,5K,0
+24181,Zoe J.,F,15,"Mitchellville, MD",2397,2508,770,5K,0
+23544,Claire T.,F,23,"Arlington, VA",2398,2440,771,5K,0
+17412,Lori H.,F,37,"Frederick, MD",2399,2493,771,5K,0
+24280,Emily T.,F,40,"Olney, MD",2401,2437,772,5K,1
+7173,Alexandria M.,F,30,"Washington, DC",2401,2437,772,5K,0
+24640,Julie C.,F,36,"Tampa, FL",2402,2479,772,5K,0
+23413,Alison M.,F,35,"Hyattsvile, MD",2403,2557,772,5K,0
+22682,Elizabeth M.,F,27,"Washington, DC",2404,2495,772,5K,0
+23495,Arioth S.,F,38,"Alexandria, VA",2405,2564,773,5K,0
+24919,Arsema G.,F,11,"Washington, DC",2406,2798,773,5K,0
+24898,Heather M.,F,29,"Washington, DC",2406,2798,773,5K,0
+24584,Aisha A.,F,49,"Bethesda, MD",2408,2545,774,5K,1
+24122,Louise B.,F,58,"Portland, OR",2409,2493,774,5K,1
+24389,Emily S.,F,27,"Philadelphia, PA",2409,2547,774,5K,0
+24116,Annica W.,F,11,"North Beach, MD",2410,2529,774,5K,0
+505,Francie D.,F,51,"Birmingham, AL",2410,2496,774,5K,1
+14959,Newman D.,F,24,"Washington, DC",2410,2496,774,5K,0
+24085,Michelle M.,F,35,"Woodbridge, VA",2411,2505,775,5K,0
+24807,Kelly B.,F,27,"Alexandria, VA",2412,2454,775,5K,0
+24962,Kelli S.,F,31,"Washington, DC",2413,2505,775,5K,0
+24261,Jill H.,F,44,"Washington, DC",2413,2522,775,5K,1
+17750,Katherine T.,F,33,"Fairfax, VA",2414,2568,776,5K,0
+12981,Julia H.,F,35,"Silver Spring, MD",2417,2436,777,5K,0
+20481,Kenda C.,F,43,"Bethesda, MD",2419,2591,777,5K,1
+18306,Makkah A.,F,27,"Washington, DC",2420,2663,778,5K,0
+22086,Bina S.,F,33,"Washington, DC",2420,2595,778,5K,0
+23732,Lylah G.,F,27,"New York, NY",2422,2480,778,5K,0
+18416,Katharine B.,F,45,"Littleton, MA",2422,2468,778,5K,1
+23947,Francesca M.,F,48,"Stratham, NH",2422,2455,778,5K,1
+24490,Alice H.,F,12,"Washington, DC",2426,2536,780,5K,0
+19679,Pam N.,F,55,"Claremont, CA",2427,2595,780,5K,1
+16474,Jennifer H.,F,30,"Washington, DC",2428,2445,780,5K,0
+20040,Nicole S.,F,38,"Calgary, AB",2429,2476,781,5K,0
+17693,Suzanne D.,F,38,"New Orleans, LA",2430,2545,781,5K,0
+24783,Erika R.,F,25,"Washington, DC",2431,2473,781,5K,0
+20186,Hilary S.,F,42,"Cambridge, MA",2432,2476,781,5K,1
+12349,Colleen H.,F,42,"Washington, DC",2433,2588,782,5K,1
+24221,Leslie K.,F,28,"Washington, DC",2435,2445,782,5K,0
+23826,Olivia D.,F,15,"Los Alamos, NM",2436,2501,783,5K,0
+23855,Sarah C.,F,32,"Raleigh, NC",2436,2515,783,5K,0
+20552,Maria B.,F,45,"Silver Spring, MD",2438,2476,783,5K,1
+23538,Barbara G.,F,58,"Haymarket, VA",2440,2554,784,5K,1
+24025,Joy S.,F,55,"Nashua, NH",2440,2539,784,5K,1
+25135,Denise H.,F,30,"Ashburn, VA",2441,2454,784,5K,0
+20420,Christy K.,F,40,"Scott Depot, WV",2443,2497,785,5K,1
+19898,Silviya Y.,F,26,"Fairfax, VA",2444,2471,785,5K,0
+19618,Elizabeth S.,F,26,"Arlington, VA",2444,2750,785,5K,0
+18236,Katie B.,F,36,"Warrenton, VA",2444,2607,785,5K,0
+23598,Bobbi S.,F,62,"Fort Myers, FL",2445,2595,786,5K,1
+20081,Lauren B.,F,34,"Silver Spring, MD",2445,2505,786,5K,0
+24702,Vanessa D.,F,29,"Washington, DC",2446,2577,786,5K,0
+23497,Becky K.,F,28,"Arlington, VA",2446,2498,786,5K,0
+24503,Raquel J.,F,39,"Woodbridge, VA",2449,2528,787,5K,0
+19856,Kelly H.,F,47,"Sterling, VA",2450,2618,787,5K,1
+14773,Afenia H.,F,43,"Oxon Hill, MD",2451,2509,788,5K,1
+16774,Jameela C.,F,28,"Washington, DC",2451,2507,788,5K,0
+23596,Lynzy W.,F,23,"Woodbridge, VA",2452,2461,788,5K,0
+24754,Madelene P.,F,46,"Fort Belvoir, VA",2455,2608,789,5K,1
+24717,Maryam A.,F,37,"Potomac, MD",2456,2593,789,5K,0
+24734,Carolyn M.,F,21,"Springfield, VA",2456,2477,789,5K,0
+24291,Heather D.,F,30,"Washington, DC",2458,2608,790,5K,0
+23715,Kristin S.,F,36,"Ipswich, MA",2460,2572,790,5K,0
+24105,Karen S.,F,41,"Washington, DC",2462,2559,791,5K,1
+23811,Michaela G.,F,32,"Washington, DC",2462,2508,791,5K,0
+19084,Alena M.,F,39,"Arlington, VA",2463,2641,791,5K,0
+24847,Araceli I.,F,34,"Burke, VA",2463,2498,791,5K,0
+23710,Denise L.,F,55,"Columbia, MD",2464,2533,792,5K,1
+21106,Vinita B.,F,28,"Sterling, VA",2465,2572,792,5K,0
+22786,Waymee C.,F,36,"Chambersburg, PA",2465,2651,792,5K,0
+15509,Cherish E.,F,41,"Greencastle, PA",2466,2650,792,5K,1
+23436,Katrina C.,F,33,"Philadelphia, PA",2467,2549,793,5K,0
+23951,Barbara D.,F,54,"Woodbridge, VA",2469,2532,793,5K,1
+14803,Emily G.,F,44,"College Park, MD",2469,2529,793,5K,1
+23611,Donna K.,F,64,"Bethlehem, PA",2470,2581,794,5K,1
+15003,Kathy Q.,F,26,"Arlington, VA",2472,2516,794,5K,0
+19308,Tatiana M.,F,40,"Alexandria, VA",2473,2527,795,5K,1
+24226,Elizabeth C.,F,28,"Silver Spring, MD",2473,2509,795,5K,0
+17883,Amy T.,F,33,"Erial, NJ",2475,2531,795,5K,0
+19739,Jolie R.,F,34,"Washington, DC",2475,2511,795,5K,0
+24566,Barbara G.,F,55,"Bel Air, MD",2478,2499,796,5K,1
+24771,Ashley M.,F,29,"Alexandria, VA",2478,2519,796,5K,0
+19028,Paula S.,F,46,"Washington, DC",2478,2648,796,5K,1
+23897,Jade M.,F,34,"Alexandria, VA",2478,2519,796,5K,0
+18827,Colleen P.,F,21,"Washington, DC",2479,2486,797,5K,0
+24525,Stacy J.,F,53,"Odenton, MD",2479,2527,797,5K,1
+25097,Marie P.,F,30,"Leesburg, VA",2479,2621,797,5K,0
+24564,Patricia B.,F,52,"Parkton, MD",2479,2499,797,5K,1
+23550,Jennifer S.,F,34,"Washington, DC",2483,2618,798,5K,0
+25219,Kathy Y.,F,64,"Catonsville, MD",2485,2698,799,5K,1
+24373,Monica B.,F,41,"Germantown, MD",2485,2576,799,5K,1
+19901,Bridget H.,F,31,"Arlington, VA",2488,2574,800,5K,0
+23814,Brandi A.,F,30,"Arlington, VA",2489,2661,800,5K,0
+24076,Olga R.,F,26,"Washington, DC",2490,2529,800,5K,0
+24696,Helena H.,F,6,"Arlington, VA",2490,2535,800,5K,0
+24176,Sherri J.,F,55,"Mitchellville, MD",2491,2602,800,5K,1
+22978,Elizabeth P.,F,32,"Milwaukee, WI",2491,2570,800,5K,0
+25009,Kimberly S.,F,41,"Severn, MD",2494,2655,801,5K,1
+19912,Sophia C.,F,32,"Arlington, VA",2496,2642,802,5K,0
+16895,Lucy Y.,F,29,"Washintgon, DC",2496,2542,802,5K,0
+24883,Maryellen W.,F,36,"Germantown, MD",2499,2547,803,5K,0
+24695,Cathleen T.,F,39,"Arlington, VA",2500,2545,803,5K,0
+24274,Sheila A.,F,29,"Bealeton, VA",2501,2666,804,5K,0
+20422,Sarah A.,F,31,"Vienna, VA",2502,2673,804,5K,0
+25234,Eun K.,F,35,"Centreville, VA",2507,2520,806,5K,0
+25254,Janice D.,F,44,"Bethesda, MD",2508,2509,806,5K,1
+19521,Paige F.,F,37,"Kalamazoo, MI",2509,2533,806,5K,0
+24785,Annamaria B.,F,25,"Gaithersburg, MD",2510,2616,807,5K,0
+23742,Ethel M.,F,36,"Silver Spring, MD",2510,2551,807,5K,0
+23743,Marilyn T.,F,57,"Mclean, VA",2510,2551,807,5K,1
+24094,Diane B.,F,47,"Laurel, MD",2510,2688,807,5K,1
+25207,Kim M.,F,50,"Bronx, NY",2516,2539,809,5K,1
+24299,Aerin B.,F,8,"Arlington, VA",2516,2559,809,5K,0
+24699,Addison G.,F,9,"Lima, OH",2516,2635,809,5K,0
+24297,Cassandra B.,F,43,"Arlington, VA",2516,2559,809,5K,1
+23786,Ping P.,F,51,"Purcellville, VA",2516,2577,809,5K,1
+23636,Jennifer D.,F,39,"Springfield, VA",2517,2680,809,5K,0
+23574,Octavia H.,F,28,"Stafford, VA",2518,2657,809,5K,0
+24692,Jessica G.,F,35,"Lima, OH",2518,2636,809,5K,0
+12358,Ruthzee L.,F,30,"Boston, MA",2520,2644,810,5K,0
+18938,Rochelle D.,F,52,"Salisbury, MD",2521,2568,810,5K,1
+11493,Rachael T.,F,35,"Newport, KY",2522,2805,810,5K,0
+19077,Ruth M.,F,47,"Odenton, MD",2522,2553,810,5K,1
+24916,Linda H.,F,63,"Olney, MD",2522,2604,810,5K,1
+19037,Nicole M.,F,38,"Lake Mary, FL",2524,2561,811,5K,0
+24007,Jen T.,F,45,"Annapolis, MD",2526,2599,812,5K,1
+25029,Emily W.,F,27,"Washington, DC",2530,2597,813,5K,0
+19340,Erin F.,F,32,"Washington, DC",2530,2597,813,5K,0
+17923,Sarah H.,F,38,"Alexandria, VA",2532,2540,814,5K,0
+23510,Natalie G.,F,24,"Astoria, NY",2533,2610,814,5K,0
+20434,Rose M.,F,57,"Clinton, MD",2537,2609,815,5K,1
+23739,Kamesha L.,F,23,"Laurel, MD",2538,2567,816,5K,0
+24279,Afua R.,F,26,"Arlington, VA",2539,2543,816,5K,0
+24383,Hazel L.,F,60,"Upper Marlboro, MD",2539,2608,816,5K,1
+18591,Linda K.,F,44,"Philadelphia, PA",2541,2612,817,5K,1
+23411,Andrea G.,F,29,"Arlington, VA",2542,2704,817,5K,0
+23462,Catrina G.,F,30,"Quantico, VA",2543,2561,817,5K,0
+24517,Angel J.,F,38,"Washington, DC",2544,2710,818,5K,0
+23124,Melanie I.,F,47,"Laurel, MD",2548,2585,819,5K,1
+20332,Liz S.,F,46,"Washington, DC",2552,2713,820,5K,1
+23565,Anika S.,F,35,"North Bethesda, MD",2552,2655,820,5K,0
+24057,Van H.,F,39,"Mclean, VA",2554,2657,821,5K,0
+23765,Kate M.,F,30,"Chevy Chase, MD",2556,2702,821,5K,0
+15436,Rachel M.,F,29,"Washington, DC",2556,2701,821,5K,0
+24055,Lee L.,F,34,"Washington, DC",2556,2658,821,5K,0
+21419,Varada S.,F,32,"Chicago, IL",2562,2686,823,5K,0
+24034,Ailene P.,F,31,"Washington, DC",2563,2626,824,5K,0
+21433,Saudamini S.,F,28,"Evanston, IL",2563,2687,824,5K,0
+23680,Sasha M.,F,46,"Fairfax, VA",2565,2641,824,5K,1
+20394,Evelyn P.,F,66,"Santa Fe, NM",2568,2632,825,5K,1
+24501,Debra G.,F,61,"Sheboygan Falls, WI",2568,2674,825,5K,1
+23542,Amanda U.,F,37,"Washington, DC",2569,2725,826,5K,0
+24724,Terri A.,F,43,"Centreville, VA",2573,2756,827,5K,1
+19399,Christin V.,F,43,"Bethesda, MD",2575,2635,827,5K,1
+19975,Jacquelyn H.,F,28,"Washington, DC",2576,2696,828,5K,0
+23747,Laura S.,F,22,"Washington, DC",2576,2759,828,5K,0
+23692,Barbara C.,F,39,"Washington, DC",2576,3055,828,5K,0
+24330,Anna O.,F,38,"Helena, MT",2577,2670,828,5K,0
+25228,Ann M.,F,52,"Baltimore, MD",2581,2591,829,5K,1
+23641,Fabiana G.,F,24,"Rockville, MD",2581,2698,829,5K,0
+19969,Dimana D.,F,31,"Bethesda, MD",2582,2688,830,5K,0
+19810,Cathy W.,F,56,"Frederick, MD",2584,2722,830,5K,1
+18879,Lucinda A.,F,61,"Fairfax, VA",2585,2650,831,5K,1
+18744,Luvi-Anne T.,F,33,"Bethesda, MD",2585,2718,831,5K,0
+17588,Casey D.,F,31,"Olney, MD",2585,2704,831,5K,0
+23590,Marlana O.,F,54,"Rockville, MD",2590,2635,832,5K,1
+24031,Diane B.,F,60,"Ft Myers, FL",2590,2734,832,5K,1
+19701,Jacqueline M.,F,47,"Vienna, VA",2591,2657,833,5K,1
+24632,Julie H.,F,48,"Woodbridge, VA",2591,2661,833,5K,1
+20105,Jennifer P.,F,42,"Alexandria, VA",2592,2642,833,5K,1
+25225,Constance R.,F,46,"Owings Mills, MD",2593,2651,833,5K,1
+20743,Kristin B.,F,47,"Aldie, VA",2594,2660,834,5K,1
+24030,Erin B.,F,36,"Arlington, VA",2594,2737,834,5K,0
+23818,Brenda M.,F,42,"Chesapeake, VA",2596,2678,834,5K,1
+25210,Janice B.,F,70,"Bradenton, FL",2596,2649,834,5K,1
+19793,Tadeja G.,F,32,"Washington, DC",2597,2721,835,5K,0
+20666,Jaime M.,F,40,"Washington, DC",2597,2722,835,5K,1
+24208,Gabrielle J.,F,8,"Alexandria, VA",2599,2666,835,5K,0
+17850,Kelli M.,F,37,"Washington, DC",2599,2693,835,5K,0
+23994,Kaleo B.,F,46,"Philadelphia, PA",2600,2735,836,5K,1
+23970,Lorraine R.,F,56,"Leonardtown, MD",2605,2662,837,5K,1
+20994,Parimala N.,F,43,"Chantilly, VA",2606,2654,837,5K,1
+24526,Emily F.,F,19,"York, PA",2607,2723,838,5K,0
+23928,Renee P.,F,58,"Germantown, MD",2608,2662,838,5K,1
+24626,Liz F.,F,26,"Washington, DC",2609,2666,838,5K,0
+23833,Minna B.,F,46,"Falls Church, VA",2611,2651,839,5K,1
+24189,Megan W.,F,30,"Alexandria, VA",2612,2754,839,5K,0
+21289,Natasha M.,F,30,"N Chesterfield, VA",2614,2759,840,5K,0
+21548,Charlotte T.,F,33,"Washington, DC",2614,2671,840,5K,0
+23579,Kayla H.,F,23,"Murfreeboro, TN",2616,2675,841,5K,0
+23991,Moutusi S.,F,33,"North Bethesda, MD",2617,2625,841,5K,0
+24224,Rajeswari V.,F,33,"Clarksburg, MD",2618,2663,841,5K,0
+24370,Susan A.,F,39,"Arlington, VA",2618,2664,841,5K,0
+22760,Laurie D.,F,44,"Manasas, VA",2619,2690,842,5K,1
+18622,Katherine M.,F,29,"Richmond, VA",2622,2683,843,5K,0
+18213,Marcia R.,F,60,"Troy, NY",2627,2706,844,5K,1
+24147,Helen M.,F,56,"Folsom, CA",2628,2718,845,5K,1
+20509,Archana A.,F,38,"Herndon, VA",2629,2634,845,5K,0
+16010,Reena S.,F,38,"Chantilly, VA",2629,2633,845,5K,0
+20589,London M.,F,36,"College Park, MD",2632,2678,846,5K,0
+24880,Ricki G.,F,52,"Dumfries, VA",2633,2683,846,5K,1
+24366,Trisha Z.,F,47,"Middletown, MD",2633,2666,846,5K,1
+18186,Markita B.,F,37,"Rockville, MD",2635,2723,847,5K,0
+23619,Eileen N.,F,66,"Mclean, VA",2636,2706,847,5K,1
+20194,Suzi W.,F,34,"Woodbridge, VA",2641,2691,849,5K,0
+20626,Allison S.,F,31,"Newport News, VA",2643,2736,849,5K,0
+20285,Courtney B.,F,28,"Warner Robins, GA",2643,2737,849,5K,0
+23921,Karen A.,F,52,"Brandywine, MD",2644,2688,850,5K,1
+24265,Angelina R.,F,31,"Rockville, MD",2646,2646,850,5K,0
+23887,Jacqueline O.,F,38,"Burtonsville, MD",2647,2647,851,5K,0
+24262,Erin S.,F,32,"Brighton, MA",2647,2748,851,5K,0
+19441,Nicole T.,F,29,"Glen Burnie, MD",2649,2659,851,5K,0
+24216,Pharyn S.,F,30,"Glen Allen, VA",2650,2799,852,5K,0
+23606,Karolina K.,F,9,"Gaithersburg, MD",2652,2673,852,5K,0
+23682,Debby S.,F,61,"North Plainfield, NJ",2652,2704,852,5K,1
+19184,Dawn M.,F,50,"New York, NY",2655,2718,853,5K,1
+24133,Jacqueline M.,F,58,"Ringoes, NJ",2655,2804,853,5K,1
+20908,Catherine S.,F,45,"Ellicott City, MD",2656,2798,854,5K,1
+24570,Sheena S.,F,58,"Silver Spring, MD",2657,2744,854,5K,1
+23425,Theresa G.,F,46,"Woodbridge, VA",2659,2820,854,5K,1
+23681,Laura M.,F,34,"Beaumont, TX",2659,2680,854,5K,0
+18295,Liz G.,F,33,"Arlington, VA",2660,2779,855,5K,0
+24406,Lauren Y.,F,32,"Herndon, VA",2660,2835,855,5K,0
+23824,Michele D.,F,52,"Los Alamos, NM",2661,2727,855,5K,1
+18491,Lori M.,F,44,"Crisfield, MD",2662,2758,855,5K,1
+6178,Katey S.,F,38,"Lewes, DE",2663,2762,856,5K,0
+24305,Anita P.,F,37,"New York, NY",2664,2717,856,5K,0
+25065,Victoria H.,F,42,"Ellicott City, MD",2665,3228,856,5K,1
+20491,Deon A.,F,51,"St. Louis, MO",2666,2726,857,5K,1
+16125,Patricia H.,F,36,"Owings, MD",2667,2709,857,5K,0
+17908,Anna N.,F,52,"Arlington, VA",2669,2759,858,5K,1
+21047,Erin M.,F,42,"Washington, DC",2669,2759,858,5K,1
+25215,Ericka A.,F,35,"Lumberton, NJ",2670,2721,858,5K,0
+19053,Lori R.,F,42,"Purcellville, VA",2670,2712,858,5K,1
+19888,Nicole F.,F,40,"Chantilly, VA",2671,2837,858,5K,1
+24388,Darlene L.,F,57,"Glen Allen, VA",2672,2821,859,5K,1
+24396,Valeria T.,F,44,"Bowie, MD",2672,2822,859,5K,1
+25028,Rosemary L.,F,38,"Washington, DC",2674,2795,859,5K,0
+23608,Kristine S.,F,38,"Gaithersburg, MD",2674,2696,859,5K,0
+19982,Terri A.,F,43,"Laurel, MD",2675,2712,860,5K,1
+16037,Shannon A.,F,36,"Prince Frederick, MD",2676,2719,860,5K,0
+24172,Raha M.,F,11,"Rockville, MD",2679,2829,861,5K,0
+24005,Anne S.,F,46,"Alexandria, VA",2679,2790,861,5K,1
+23931,Danielle Y.,F,31,"Rockville, MD",2679,2781,861,5K,0
+15288,Emily D.,F,31,"Alexandria, VA",2680,2835,861,5K,0
+25191,Leanne L.,F,50,"Mountain Lakes, NJ",2680,2808,861,5K,1
+24353,Virginia M.,F,33,"Rockville, MD",2680,2835,861,5K,0
+24638,Kathryn D.,F,39,"Columbus, OH",2681,2758,862,5K,0
+9438,Lara D.,F,23,"Reston, VA",2682,2824,862,5K,0
+19883,Ana G.,F,40,"Gaithersburg, MD",2684,2768,863,5K,1
+9442,Leah D.,F,20,"Reston, VA",2684,2825,863,5K,0
+23630,Amy B.,F,25,"Washington, DC",2686,2807,863,5K,0
+24860,Joy M.,F,42,"Germantown, MD",2688,2688,864,5K,1
+22949,Cecile S.,F,38,"Lafayette Hill, PA",2690,2804,864,5K,0
+20430,Monica E.,F,32,"Norfolk, VA",2691,2804,865,5K,0
+16304,Christen K.,F,38,"Baltimore, MD",2693,2880,865,5K,0
+24978,Amy A.,F,37,"Nokesville, VA",2695,2735,866,5K,0
+23622,Marissa K.,F,35,"North Aurora, IL",2696,2816,866,5K,0
+23525,Mary S.,F,31,"Gainesville, VA",2696,2816,866,5K,0
+24200,Angela M.,F,39,"Ashton, MD",2698,2758,867,5K,0
+23829,Jennifer Y.,F,34,"Washington, DC",2698,2815,867,5K,0
+25024,Lindsay M.,F,34,"Alexandria, VA",2702,2823,868,5K,0
+24819,Lisa S.,F,50,"Manassas, VA",2702,2739,868,5K,1
+20241,Pauline M.,F,46,"Virginia Beach, VA",2707,2875,870,5K,1
+23638,Luz E.,F,29,"Arlington, VA",2707,2867,870,5K,0
+20365,Elaina M.,F,27,"Dover, PA",2707,2745,870,5K,0
+23787,Gina R.,F,29,"Arlington, VA",2707,2867,870,5K,0
+21603,Keila D.,F,33,"Arlington, VA",2707,2867,870,5K,0
+23783,Sara K.,F,26,"Washington, DC",2708,2866,870,5K,0
+24633,Miriam K.,F,75,"Arnold, MD",2709,2753,871,5K,1
+10115,Margie D.,F,51,"Reston, VA",2710,2852,871,5K,1
+24778,Erin L.,F,52,"Great Falls, VA",2713,2786,872,5K,1
+24097,Chen C.,F,32,"Washington, DC",2713,2728,872,5K,0
+23935,Justine W.,F,37,"Germantown, MD",2714,2834,872,5K,0
+25075,Jennifer J.,F,34,"Laurel, MD",2714,2901,872,5K,0
+23725,Suzanne L.,F,48,"Springfield, VA",2716,2809,873,5K,1
+23796,Alyssa E.,F,39,"Fairfax, VA",2716,2809,873,5K,0
+25145,Kristin S.,F,29,"Leesburg, VA",2717,2844,873,5K,0
+24950,Danielle D.,F,28,"Capitol Heights, MD",2717,2768,873,5K,0
+19001,Tahereh F.,F,51,"Potomac, MD",2718,2720,873,5K,1
+7053,Ivey W.,F,29,"Washington, DC",2718,2751,873,5K,0
+20329,Arezoo S.,F,46,"Mclean, VA",2718,2720,873,5K,1
+17265,Jenee G.,F,32,"Washington, DC",2718,2752,873,5K,0
+24149,Alka M.,F,54,"Vienna, VA",2726,2794,876,5K,1
+24563,Shelly D.,F,42,"Manassas, VA",2729,2870,877,5K,1
+23664,Beth H.,F,33,"Washington, DC",2730,2800,877,5K,0
+24316,Mary P.,F,31,"Washington, DC",2733,2777,878,5K,0
+24060,Naomi L.,F,63,"Alexandria, VA",2739,2895,880,5K,1
+24270,Tamara S.,F,36,"Washington, DC",2742,2858,881,5K,0
+24645,Michele F.,F,50,"Alexandria, VA",2745,2801,882,5K,1
+24634,Thuy V.,F,40,"Alexandria, VA",2745,2801,882,5K,1
+23642,Jaclyn M.,F,28,"Harrisburg, PA",2746,2935,882,5K,0
+24335,Lauren W.,F,27,"Washington, DC",2746,2866,882,5K,0
+24050,Marcella W.,F,25,"Washington, DC",2746,2866,882,5K,0
+23940,Sherry L.,F,24,"Fresh Meadows, NY",2747,2867,883,5K,0
+15659,Gabrielle T.,F,34,"Alexandria, VA",2752,2925,884,5K,0
+20494,Nadeeka H.,F,30,"Centreville, VA",2752,2813,884,5K,0
+24598,Melany R.,F,38,"Mountville, PA",2754,2830,885,5K,0
+16546,Laura B.,F,39,"Warrington, PA",2756,2825,886,5K,0
+23673,Karen F.,F,41,"Woodbridge, VA",2757,2774,886,5K,1
+23632,Julie M.,F,45,"Savannah, GA",2758,2873,886,5K,1
+19994,Rhonda M.,F,47,"Baldwin, NY",2761,2820,887,5K,1
+23678,Celeste B.,F,11,"Richmond, VA",2761,2836,887,5K,0
+23489,Shana O.,F,28,"Washington, DC",2761,2899,887,5K,0
+23540,Tammy K.,F,37,"Beltsville, MD",2763,2896,888,5K,0
+24454,May-Ying L.,F,29,"Arlington, VA",2764,2788,888,5K,0
+24752,Emilia S.,F,13,"Centreville, MD",2765,2885,889,5K,0
+25095,Marie P.,F,66,"Oak Hill, VA",2765,2844,889,5K,1
+23665,Wai-Ying L.,F,31,"Houston, TX",2767,2790,889,5K,0
+24028,Diara C.,F,11,"Washington, DC",2767,2925,889,5K,0
+20291,Houra R.,F,54,"Adelphi, MD",2768,2879,890,5K,1
+20278,Christina C.,F,62,"Silver Spring, MD",2769,2879,890,5K,1
+24764,Joanne M.,F,62,"Woodbridge, VA",2769,2923,890,5K,1
+24853,Shelby B.,F,11,"Washington, DC",2771,2942,890,5K,0
+24888,Morgan P.,F,32,"Washington, DC",2771,2942,890,5K,0
+24061,Tina H.,F,37,"Arlington, VA",2771,2814,890,5K,0
+17485,Kimberley P.,F,53,"Hyattsville, MD",2772,2897,891,5K,1
+23635,Aiden J.,F,15,"Savannah, GA",2773,2886,891,5K,0
+24241,Connie B.,F,37,"Arlington, VA",2775,2848,892,5K,0
+24391,Carol B.,F,59,"Rockwood, TN",2779,2879,893,5K,1
+18800,Ashley V.,F,48,"Cheverly, MD",2779,2891,893,5K,1
+20001,Sherry S.,F,51,"Washington, DC",2779,2858,893,5K,1
+24029,Kwanita B.,F,37,"Washington, DC",2779,2938,893,5K,0
+24607,Jennifer W.,F,23,"Potomac, MD",2783,2931,894,5K,0
+23539,Jacqueline O.,F,85,"Washington, DC",2786,2821,895,5K,1
+22892,Jane R.,F,16,"Chatham, NJ",2787,2852,896,5K,0
+19732,Mary C.,F,62,"Endwell, NY",2787,2845,896,5K,1
+13865,Stephanie G.,F,44,"Sterling, VA",2787,3158,896,5K,1
+22887,Rebecca R.,F,53,"Chatham, NJ",2787,2852,896,5K,1
+23802,Richelle M.,F,57,"Silver Spring, MD",2787,2950,896,5K,1
+23772,Stephanie H.,F,36,"Oxon Hill, MD",2788,2857,896,5K,0
+23870,Allison C.,F,30,"Alexandria, VA",2789,2853,896,5K,0
+24405,Abigail M.,F,8,"Nottingham, MD",2789,2800,896,5K,0
+24716,Patricia P.,F,55,"Alexandria, VA",2790,2869,897,5K,1
+20136,Lynn O.,F,45,"Germantown, MD",2790,2790,897,5K,1
+23804,Tiffany S.,F,35,"Pasadena, CA",2791,2844,897,5K,0
+24235,Jennifer L.,F,45,"Washington, DC",2797,2936,899,5K,1
+21136,Vinu I.,F,29,"Fairfax, VA",2797,2813,899,5K,0
+17993,Rebecca G.,F,34,"Baltimore, MD",2798,2927,899,5K,0
+24623,Anne K.,F,49,"Timonium, MD",2800,2843,900,5K,1
+23888,Kendall S.,F,20,"Westerville, OH",2800,2888,900,5K,0
+23876,Melissa P.,F,59,"Orient, OH",2800,2888,900,5K,1
+23919,Barbara M.,F,49,"Cleona, PA",2801,2917,900,5K,1
+21077,Teresa B.,F,46,"Mclean, VA",2805,2945,901,5K,1
+25495,Charlene F.,F,52,"Stafford, VA",2805,2893,901,5K,1
+19173,Leeanna A.,F,36,"Atlanta, GA",2806,2950,902,5K,0
+24538,Valerie B.,F,69,"Lee, MA",2813,2860,904,5K,1
+23875,Denise T.,F,40,"Baltimore, MD",2814,2878,904,5K,1
+24003,Nikki G.,F,67,"Rockville, MD",2816,2862,905,5K,1
+23643,Melissa G.,F,39,"Hampton, VA",2817,2969,905,5K,0
+24017,Anastasia V.,F,28,"Washington, DC",2818,2886,906,5K,0
+18981,Patricia W.,F,56,"Hyattsville, MD",2819,2869,906,5K,1
+20658,Ileka D.,F,37,"Elkridge, MD",2819,2854,906,5K,0
+23441,Karen F.,F,53,"Ellicott City, MD",2825,2928,908,5K,1
+24417,Patty H.,F,43,"Casa Grande, AZ",2826,2954,908,5K,1
+21330,Charlotte D.,F,36,"Fairfax, VA",2827,2841,909,5K,0
+24902,Marci I.,F,39,"Upper-Marlboro, MD",2827,2900,909,5K,0
+21107,Rosslyn W.,F,42,"Fairfax, VA",2829,2843,909,5K,1
+24446,Monique R.,F,39,"Sykesville, MD",2830,2898,909,5K,0
+15620,Sarah P.,F,36,"Springfield, VA",2832,2967,910,5K,0
+25081,Kim S.,F,34,"Waldorf, MD",2833,3015,910,5K,0
+23791,Marty S.,F,51,"Silver Spring, MD",2833,2877,910,5K,1
+23555,Yen-Ling L.,F,43,"Bethesda, MD",2834,2987,911,5K,1
+24575,Mandy N.,F,35,"Boyds, MD",2844,2958,914,5K,0
+20046,Sue W.,F,48,"Odenton, MD",2844,2898,914,5K,1
+24784,Margo M.,F,26,"Rockville, MD",2846,2997,915,5K,0
+24066,Maryanne B.,F,61,"Bay Shore, NY",2847,2865,915,5K,1
+24044,Kelly M.,F,31,"La Plata, MD",2851,3018,916,5K,0
+17290,Stacey C.,F,40,"Springfield, VA",2852,2967,917,5K,1
+24866,Susan W.,F,49,"Bel Air, MD",2857,2964,918,5K,1
+24282,Renschje H.,F,36,"Washington, DC",2857,2857,918,5K,0
+24869,Laurie T.,F,55,"Bowie, MD",2857,2918,918,5K,1
+24870,Alka D.,F,47,"Edgewater, MD",2857,2919,918,5K,1
+18497,Ashley K.,F,34,"Arlington, VA",2858,2929,918,5K,0
+15394,Julie R.,F,28,"Silver Spring, MD",2858,3012,918,5K,0
+25138,Erica P.,F,22,"Woodbridge, VA",2861,2982,919,5K,0
+23631,Meghan M.,F,39,"Alexandria, VA",2862,2966,920,5K,0
+18004,Joanne P.,F,41,"Kennett Square, PA",2865,3004,921,5K,1
+24979,Marleen G.,F,54,"Fort Washington, MD",2866,2935,921,5K,1
+25123,Michaelle G.,F,28,"Temple Hills, MD",2867,2988,921,5K,0
+24868,Katherine A.,F,48,"Manassas, VA",2868,3022,922,5K,1
+24293,Amalia K.,F,30,"Arlington, VA",2869,2905,922,5K,0
+24700,Libby F.,F,56,"Springfield, VA",2870,3049,922,5K,1
+18275,Heather J.,F,37,"Washington, DC",2871,2906,923,5K,0
+23406,Amily W.,F,36,"Falls Church, VA",2874,2995,924,5K,0
+19098,Kristen E.,F,30,"Washington, DC",2875,2955,924,5K,0
+18257,Dianna M.,F,55,"Ellicott City, MD",2878,3001,925,5K,1
+21689,Jacqueline G.,F,27,"Pooler, GA",2878,3001,925,5K,0
+23913,Lucy E.,F,26,"Washington, DC",2878,3001,925,5K,0
+24199,Sabiha K.,F,37,"Vienna, VA",2881,2970,926,5K,0
+13680,Brooke B.,F,23,"Annandale, VA",2881,2939,926,5K,0
+25019,Renee G.,F,37,"Washington, DC",2883,3029,927,5K,0
+24776,Jessica K.,F,26,"Woodbridge, VA",2887,2968,928,5K,0
+24857,Marie K.,F,64,"Herndon, VA",2888,3072,928,5K,1
+25175,Chaniece T.,F,24,"Hyattsville, MD",2889,2979,928,5K,0
+24271,Sarah G.,F,61,"Burke, VA",2891,3074,929,5K,1
+19580,Karen M.,F,56,"Washington, DC",2892,2892,929,5K,1
+19474,Christina T.,F,37,"Bethesda, MD",2893,2952,930,5K,0
+24043,Mariel C.,F,44,"Silver Spring, MD",2893,2942,930,5K,1
+24782,Hope M.,F,61,"Rockville, MD",2895,3046,930,5K,1
+20351,Katherine G.,F,31,"Coram Ny, NY",2895,3000,930,5K,0
+24013,Meg K.,F,33,"Pittsburgh, PA",2895,3052,930,5K,0
+25109,Lynn B.,F,45,"Sterling, VA",2896,3023,931,5K,1
+20295,Samantha D.,F,28,"Gettysburg, PA",2902,2953,933,5K,0
+25010,Natalie K.,F,33,"Washington, DC",2904,3074,933,5K,0
+25226,Lenore E.,F,59,"North Bethesda, MD",2904,2947,933,5K,1
+25092,Josephine K.,F,33,"Manassas, VA",2905,2970,934,5K,0
+23958,Monica L.,F,67,"Staten Island, NY",2905,2938,934,5K,1
+23834,Joan P.,F,65,"Severn, MD",2906,3011,934,5K,1
+25091,Tasha C.,F,39,"Manassas Pk, VA",2907,2971,934,5K,0
+24693,Gina R.,F,61,"Arlington, VA",2908,2984,935,5K,1
+17495,Kim W.,F,39,"Rockville, MD",2910,3077,935,5K,0
+25150,Ruby G.,F,49,"Aldie, VA",2915,3000,937,5K,1
+25152,Kendal S.,F,39,"Herndon, VA",2915,3000,937,5K,0
+24845,Miya E.,F,29,"Stafford, VA",2915,2995,937,5K,0
+25103,Alicia N.,F,28,"Alexandria, VA",2916,2921,937,5K,0
+25100,Donna N.,F,65,"Alexandria, VA",2916,2921,937,5K,1
+23730,Maureen W.,F,56,"Wrightstown, WI",2916,2983,937,5K,1
+22311,Kelli H.,F,53,"Falls Church, VA",2917,2966,937,5K,1
+25130,Lucy H.,F,23,"Falls Church, VA",2918,2966,938,5K,0
+21607,Kristen S.,F,33,"Washington, DC",2919,3016,938,5K,0
+24187,Douraine D.,F,38,"Elkridge, MD",2920,2963,938,5K,0
+24990,Antoniett G.,F,51,"Rockville, MD",2920,2976,938,5K,1
+18901,Amy T.,F,29,"Virginia Beach, VA",2923,3070,939,5K,0
+15654,Katherine K.,F,30,"Quantico, VA",2927,3350,941,5K,0
+19776,Alesha T.,F,40,"Beltsville, MD",2927,2966,941,5K,1
+25057,Ammoria S.,F,47,"Laurel, MD",2927,3108,941,5K,1
+8934,Yanira S.,F,43,"Cheverly, MD",2927,3302,941,5K,1
+19358,Tanya H.,F,37,"Bethesda, MD",2928,2993,941,5K,0
+24263,Pamela T.,F,33,"Arlington, VA",2928,3072,941,5K,0
+25230,Vicky A.,F,48,"Gaithersburg, MD",2929,3013,941,5K,1
+24063,Jessica W.,F,34,"Glen Burnie, MD",2930,3109,942,5K,0
+21673,Marcia D.,F,40,"Garner, NC",2935,3031,943,5K,1
+14732,Jessica D.,F,33,"Washington, DC",2935,3080,943,5K,0
+23473,Allysa C.,F,38,"Winchester, VA",2937,3020,944,5K,0
+9417,Vickie P.,F,56,"Washington, DC",2937,2937,944,5K,1
+18902,Eileen T.,F,38,"Brooklyn, NY",2940,3087,945,5K,0
+24367,Kallie L.,F,35,"Arlington, VA",2941,2941,945,5K,0
+12163,Belinda D.,F,58,"Falls Church, VA",2942,2973,945,5K,1
+20380,Felicia F.,F,49,"Alexandria, VA",2942,2973,945,5K,1
+23511,Lucia G.,F,48,"Washignton, DC",2947,2987,947,5K,1
+25170,Sarah S.,F,38,"Alexandria, VA",2948,3055,947,5K,0
+25174,Maria E.,F,44,"Alexandria, VA",2948,3055,947,5K,1
+24808,Antoinette D.,F,49,"Columbus, GA",2948,3105,947,5K,1
+22126,Jordan G.,F,24,"Washington, DC",2950,3049,948,5K,0
+24382,Shante J.,F,38,"Dale City, VA",2953,3042,949,5K,0
+19949,Magda F.,F,36,"Gaithersburg, MD",2954,3086,949,5K,0
+21547,Bonnie N.,F,29,"Alexandria, VA",2954,3031,949,5K,0
+25167,Erica C.,F,48,"Alexandria, VA",2957,3283,950,5K,1
+24745,E. M.,F,51,"Suitland, MD",2957,3025,950,5K,1
+24327,Janine M.,F,28,"Washington, DC",2962,3015,952,5K,0
+19995,Peterann S.,F,66,"Port Clinton, OH",2965,3021,953,5K,1
+18041,Carrie H.,F,41,"Greenville, NC",2971,3098,955,5K,1
+24736,Kris K.,F,48,"Kalida, OH",2975,3103,956,5K,1
+24737,Cheryl K.,F,45,"Kalida, OH",2975,3103,956,5K,1
+23688,Terri B.,F,57,"Sicklerville, NJ",2976,3053,956,5K,1
+24064,Emilia B.,F,9,"Washington, DC",2985,3161,959,5K,0
+11472,Laura L.,F,34,"Annapolis, MD",2986,3042,960,5K,0
+23819,Micheline C.,F,46,"Columbia, MD",2986,3164,960,5K,1
+20330,Kristel R.,F,32,"Glen Burnie, MD",2986,3065,960,5K,0
+5516,Kim W.,F,56,"Prince Frederick, MD",2987,3042,960,5K,1
+20535,Alison M.,F,39,"Burke, VA",2990,3128,961,5K,0
+20722,Michelle F.,F,37,"Laurel, MD",2992,3026,962,5K,0
+22995,Nancy F.,F,51,"Bristol, RI",2993,3050,962,5K,1
+23800,Widney M.,F,72,"Portland, OR",2997,3056,963,5K,1
+24062,Julia P.,F,34,"Washington, DC",2998,3173,963,5K,0
+25185,Lina A.,F,26,"Sterling, VA",2999,3133,964,5K,0
+24924,Amore A.,F,29,"Rockville, MD",3000,3000,964,5K,0
+24703,Christine N.,F,31,"Beltsville, MD",3000,3000,964,5K,0
+23717,Linda I.,F,64,"Torrance, CA",3000,3112,964,5K,1
+23697,Christina D.,F,27,"Alexandria, VA",3001,3072,964,5K,0
+25184,Gurpreet M.,F,25,"Alexandria, VA",3001,3135,964,5K,0
+25162,Eleni A.,F,40,"South Riding, VA",3002,3136,965,5K,1
+13542,Linda H.,F,34,"Vienna, VA",3003,3106,965,5K,0
+24058,Tina C.,F,34,"Rockville, MD",3003,3106,965,5K,0
+23448,Kaitlin M.,F,24,"Newport News, VA",3004,3029,965,5K,0
+23455,Jennifer S.,F,51,"Alexandria, VA",3004,3029,965,5K,1
+23986,Leigh A.,F,55,"Richmond, VA",3005,3104,966,5K,1
+24991,Oluwafemi O.,F,25,"Hyattsville, MD",3009,3084,967,5K,0
+25018,Alia F.,F,26,"Washington, DC",3009,3009,967,5K,0
+23523,Joan R.,F,51,"Wellington, FL",3009,3077,967,5K,1
+22883,Kathleen L.,F,54,"Springfield, VA",3010,3199,967,5K,1
+24530,Latasha M.,F,35,"Clinton, MD",3011,3035,968,5K,0
+23582,Jaime L.,F,33,"Washington, DC",3012,3086,968,5K,0
+24515,Valerie S.,F,45,"Mount Rainier, MD",3012,3104,968,5K,1
+25048,Sarah M.,F,29,"Washington, DC",3014,3169,969,5K,0
+24769,Susan S.,F,61,"Gaithersburg, MD",3014,3139,969,5K,1
+25033,Amelia B.,F,26,"Washington, DC",3014,3169,969,5K,0
+24441,Melissa M.,F,38,"Herndon, VA",3014,3189,969,5K,0
+24767,Valery N.,F,57,"Gaithersburg, MD",3017,3143,970,5K,1
+24552,Jocelyn H.,F,39,"Fairfax, VA",3017,3111,970,5K,0
+24514,Leslie D.,F,58,"Burke, VA",3018,3115,970,5K,1
+23618,Helen P.,F,54,"Bellerose, NY",3019,3153,970,5K,1
+23577,Jaime A.,F,35,"Washington, DC",3020,3129,971,5K,0
+24858,Marilynn W.,F,55,"Stafford, VA",3020,3344,971,5K,1
+24346,Alexis G.,F,29,"Potomac, MD",3024,3280,972,5K,0
+23968,Jean S.,F,64,"Rancho Santa Fe, CA",3026,3099,972,5K,1
+23961,Kathryn S.,F,29,"Washington, DC",3026,3098,972,5K,0
+23807,Candace S.,F,64,"Phoenix, AZ",3029,3067,973,5K,1
+24602,Maria L.,F,60,"Falls Church, VA",3029,3095,973,5K,1
+24994,Victoria W.,F,65,"Washington, DC",3029,3068,973,5K,1
+23583,Michelle C.,F,59,"Howell, MI",3029,3067,973,5K,1
+24600,Fe C.,F,61,"Oakton, VA",3030,3095,974,5K,1
+24033,Rebecca B.,F,71,"Fort Washington, MD",3033,3191,975,5K,1
+23934,Jeanel J.,F,64,"Miramar, FL",3036,3098,976,5K,1
+25176,Sandra R.,F,39,"Arlington, VA",3037,3107,976,5K,0
+25260,Luan L.,F,61,"Bethesda, MD",3041,3177,977,5K,1
+23820,Pamela M.,F,56,"Centreville, VA",3042,3086,978,5K,1
+24531,Destiny M.,F,18,"Clinton, MD",3043,3068,978,5K,0
+24363,Elena H.,F,47,"Vienna, VA",3049,3136,980,5K,1
+24351,Elaine J.,F,42,"Bladensburg, MD",3050,3137,980,5K,1
+24359,Gail S.,F,43,"North Bethesda, MD",3051,3139,981,5K,1
+25121,Harmonie T.,F,38,"Chantilly, VA",3055,3055,982,5K,0
+24686,Nicole W.,F,41,"Sliver Srping, MD",3057,3225,982,5K,1
+24169,Danielle P.,F,46,"Bowie, MD",3059,3100,983,5K,1
+23427,Lynda W.,F,55,"Fort Washington, MD",3059,3084,983,5K,1
+24084,Elaine D.,F,66,"Lorton, VA",3059,3095,983,5K,1
+1637,Brenda P.,F,53,"Bowie, MD",3059,3100,983,5K,1
+24225,Candyce P.,F,32,"Washington, DC",3059,3144,983,5K,0
+23890,Samantha A.,F,25,"Austin, TX",3060,3101,983,5K,0
+24711,Haley A.,F,32,"Silver Spring, MD",3061,3254,984,5K,0
+24294,Wendy G.,F,59,"Portland, OR",3062,3162,984,5K,1
+24929,Patricia T.,F,53,"Lorton, VA",3064,3216,985,5K,1
+24809,Patricia T.,F,52,"Fairfax, VA",3065,3110,985,5K,1
+24811,Sandra H.,F,54,"Burke, VA",3065,3110,985,5K,1
+19862,Colleen W.,F,48,"Washington, DC",3066,3234,985,5K,1
+25078,Pamela S.,F,34,"Upper Marlboro, MD",3067,3109,986,5K,0
+20508,Nethra A.,F,37,"Philadelphia, PA",3070,3125,987,5K,0
+25082,Renee D.,F,50,"Largo, MD",3072,3112,987,5K,1
+16545,Kelly R.,F,23,"Ellicott City, MD",3072,3246,987,5K,0
+13295,Laura C.,F,38,"Rockville, MD",3073,3248,988,5K,0
+20090,Ashley I.,F,35,"Rockville, MD",3073,3248,988,5K,0
+24118,Alana W.,F,9,"North Beach, MD",3075,3194,988,5K,0
+23442,Dulce N.,F,35,"Washington, DC",3079,3079,990,5K,0
+25193,Carrie P.,F,54,"Chevy Chase, MD",3080,3109,990,5K,1
+23561,Vrinda K.,F,8,"Mclean, VA",3081,3177,990,5K,0
+24326,Saira M.,F,34,"Mclean, VA",3084,3172,991,5K,0
+18808,Joanna L.,F,32,"Washington, DC",3084,3266,991,5K,0
+24065,Kierstyn B.,F,32,"Alexandria, VA",3087,3199,992,5K,0
+19806,Nancy M.,F,61,"Gambrills, MD",3088,3139,992,5K,1
+23976,Herma P.,F,46,"Washington Dc, DC",3090,3090,993,5K,1
+24136,Angela D.,F,65,"Rosedale, NY",3092,3259,994,5K,1
+24468,Arlene S.,F,41,"Sterling, VA",3099,3183,996,5K,1
+24475,Pia S.,F,38,"Alexandria, VA",3099,3183,996,5K,0
+18056,Alexis E.,F,24,"Tampa, FL",3099,3157,996,5K,0
+23446,Ommar W.,F,54,"Mclean, VA",3099,3120,996,5K,1
+24458,Joy R.,F,40,"Springfield, VA",3101,3183,997,5K,1
+25125,Michelle R.,F,47,"Midland, VA",3101,3190,997,5K,1
+24682,Eileen S.,F,67,"Rockville, MD",3106,3178,998,5K,1
+24409,Aditi V.,F,34,"Washington, DC",3109,3193,999,5K,0
+24735,Kathlea C.,F,39,"Silver Spring, MD",3110,3241,1000,5K,0
+24708,Sheila L.,F,39,"Gaithersburg, MD",3110,3246,1000,5K,0
+24339,Alison R.,F,49,"Falls Church, VA",3110,3194,1000,5K,1
+24743,Julianne A.,F,26,"Washington, DC",3110,3240,1000,5K,0
+24343,Emily G.,F,37,"Washington, DC",3112,3196,1000,5K,0
+24408,Cynthia C.,F,45,"Washington, DC",3114,3196,1001,5K,1
+23487,Revathi R.,F,62,"Fairfax, VA",3116,3190,1001,5K,1
+25237,Fran G.,F,61,"Silver Spring, MD",3116,3164,1001,5K,1
+24466,Sofia K.,F,6,"Bethesda, MD",3118,3235,1002,5K,0
+24452,Najiyah K.,F,42,"Bethesda, MD",3120,3235,1003,5K,1
+25177,Richa V.,F,44,"Vienna, VA",3121,3160,1003,5K,1
+23623,Roxan C.,F,45,"District Heights, MD",3123,3163,1004,5K,1
+24649,Elvera G.,F,48,"Waldorf, MD",3126,3193,1005,5K,1
+24322,Pam M.,F,54,"Warrenton, VA",3132,3273,1007,5K,1
+24987,Victoria M.,F,25,"Arlington, VA",3133,3273,1007,5K,0
+23711,Rachel J.,F,50,"Chevy Chase, MD",3134,3233,1007,5K,1
+19271,Tracy C.,F,37,"Alexandria, VA",3134,3225,1007,5K,0
+20032,Jennifer D.,F,46,"Woodbridge, VA",3135,3225,1008,5K,1
+14484,Amy H.,F,41,"Alexandria, VA",3135,3226,1008,5K,1
+24286,Marianne L.,F,65,"Germantown, MD",3136,3329,1008,5K,1
+24630,Karly C.,F,34,"Falls Church, VA",3136,3413,1008,5K,0
+23880,Barbara K.,F,63,"Waterford Twp, MI",3136,3266,1008,5K,1
+24968,Sandra H.,F,48,"Centreville, VA",3136,3219,1008,5K,1
+25122,Jessica C.,F,38,"Centreville, VA",3137,3220,1008,5K,0
+24075,Magnolia W.,F,61,"Highland Springs, VA",3141,3282,1009,5K,1
+25111,Natalie G.,F,31,"Manassas, VA",3147,3230,1011,5K,0
+23571,Madhurima U.,F,34,"Mclean, VA",3148,3245,1012,5K,0
+24146,Sireesha K.,F,30,"Herndon, VA",3149,3245,1012,5K,0
+24621,Latoya M.,F,30,"Alexandria, VA",3149,3308,1012,5K,0
+24358,Kim A.,F,51,"Woodbridge, VA",3154,3232,1014,5K,1
+24731,Carolyn T.,F,47,"Suitland, MD",3155,3245,1014,5K,1
+23187,Sylvia J.,F,35,"Fredericksburg, VA",3157,3283,1015,5K,0
+23188,Belinda F.,F,39,"Partlow, VA",3157,3282,1015,5K,0
+16691,Stacy W.,F,47,"Stafford, VA",3158,3330,1015,5K,1
+24281,Ardra L.,F,48,"Warrenton, VA",3166,3177,1018,5K,1
+24701,Anne P.,F,46,"Windsor Mill, MD",3168,3259,1018,5K,1
+20864,Soumya B.,F,37,"Yardley, PA",3168,3223,1018,5K,0
+23916,Leigh G.,F,43,"Dumfries, VA",3176,3227,1021,5K,1
+24074,Michelle M.,F,36,"Westchester, OH",3177,3301,1021,5K,0
+23922,Julia R.,F,43,"Southbridge, VA",3177,3228,1021,5K,1
+23938,Diane G.,F,63,"Wrightsville, PA",3179,3294,1022,5K,1
+23437,Cristina P.,F,25,"Alexandria, VA",3180,3312,1022,5K,0
+24770,Virginia W.,F,60,"Baltimore, MD",3182,3228,1023,5K,1
+25064,Victoria T.,F,43,"Olney, MD",3183,3746,1023,5K,1
+25023,Michelle V.,F,34,"Alexandria, VA",3184,3283,1023,5K,0
+23418,Marlene W.,F,60,"Atglen, PA",3185,3276,1024,5K,1
+23471,Susan P.,F,38,"Fairfax, VA",3185,3267,1024,5K,0
+22923,Courtney W.,F,25,"Willow Grove, PA",3185,3275,1024,5K,0
+25223,Carolyn M.,F,53,"Waldorf, MD",3185,3255,1024,5K,1
+18933,Tonya B.,F,43,"Stafford, VA",3186,3186,1024,5K,1
+17118,Denise T.,F,44,"Edgewater, MD",3186,3186,1024,5K,1
+23937,Brigid W.,F,49,"Richmond, VA",3187,3263,1024,5K,1
+24872,Madeline M.,F,16,"Crofton, MD",3188,3315,1025,5K,0
+24357,Wendy M.,F,45,"Manassas, VA",3188,3266,1025,5K,1
+24871,Michele M.,F,52,"Crofton, MD",3188,3315,1025,5K,1
+15561,Christy F.,F,47,"Cheverly, MD",3198,3497,1028,5K,1
+21004,Elizabeth K.,F,34,"Charlotte, NC",3202,3339,1029,5K,0
+24704,Ana S.,F,63,"Burke, VA",3203,3393,1029,5K,1
+25171,Sarah M.,F,40,"Fairfax, VA",3205,3344,1030,5K,1
+17895,Katie A.,F,41,"Carmel, IN",3208,3352,1031,5K,1
+7923,Brittany H.,F,31,"Bethesda, MD",3208,3394,1031,5K,0
+13880,Laura G.,F,56,"Anchorage, AK",3210,3271,1032,5K,1
+24193,Ellen G.,F,49,"Croton-On-hudson, NY",3211,3272,1032,5K,1
+13284,Melissa M.,F,34,"Dallas, TX",3212,3300,1032,5K,0
+20928,Jennifer H.,F,36,"Silver Spring, MD",3213,3300,1033,5K,0
+25179,Kevyn M.,F,62,"Alexandria, VA",3217,3284,1034,5K,1
+25022,Meghan O.,F,25,"Manassas, VA",3223,3324,1036,5K,0
+23661,Laine M.,F,36,"Woodbridge, VA",3224,3349,1036,5K,0
+23789,Jennifer W.,F,36,"Pensacola, FL",3229,3305,1038,5K,0
+25129,Priscilla M.,F,33,"Gaithersburg, MD",3230,3351,1038,5K,0
+20436,Shaunda T.,F,43,"Fairfax, VA",3230,3356,1038,5K,1
+21246,Yolonda W.,F,45,"Fairfax, VA",3231,3357,1038,5K,1
+20414,Karthika S.,F,40,"Chantilly, VA",3242,3299,1042,5K,1
+24384,Ninette D.,F,55,"Washington, DC",3253,3333,1045,5K,1
+25060,Ida B.,F,46,"Germantown, MD",3253,3361,1045,5K,1
+24183,Jan S.,F,64,"Princeton, KY",3256,3377,1046,5K,1
+24012,Erlinda P.,F,57,"Fort Belvoir, VA",3262,3392,1048,5K,1
+23556,Emela S.,F,62,"Bethesda, MD",3263,3355,1049,5K,1
+17581,Linda B.,F,51,"Arlington, VA",3265,3401,1049,5K,1
+24344,Jessica K.,F,41,"Arlington, VA",3265,3370,1049,5K,1
+15986,Keely I.,F,45,"Catonsville, MD",3268,3332,1050,5K,1
+17775,Lisa W.,F,49,"Hanover, MD",3269,3333,1051,5K,1
+23847,Bettye C.,F,66,"Columbia, MD",3270,3295,1051,5K,1
+23403,Laura T.,F,65,"Washington, DC",3272,3293,1052,5K,1
+18464,Laura C.,F,28,"Germantown, MD",3275,3349,1053,5K,0
+18715,Alexandra S.,F,27,"Arlington, VA",3275,3349,1053,5K,0
+23402,Patricia A.,F,64,"Gaithersburg, MD",3277,3348,1053,5K,1
+24765,Jessica G.,F,23,"Centreville, VA",3278,3432,1054,5K,0
+24881,Celestial A.,F,57,"Falls Church, VA",3278,3432,1054,5K,1
+20357,Sarah P.,F,29,"Holden, MA",3279,3743,1054,5K,0
+24545,Jodie V.,F,45,"Ashburn, VA",3280,3324,1054,5K,1
+20250,Kathy H.,F,44,"Washington, DC",3281,3365,1054,5K,1
+23690,Kristen P.,F,36,"Alexandria, VA",3283,3368,1055,5K,0
+20358,Jaime K.,F,35,"Reston, VA",3298,3373,1060,5K,0
+24876,Pleshette B.,F,37,"Brandywine, MD",3299,3346,1060,5K,0
+24948,Kathleen K.,F,58,"Arlington, VA",3301,3490,1061,5K,1
+23957,Kelly F.,F,42,"Reston, VA",3301,3437,1061,5K,1
+24027,Verna C.,F,75,"Kissimmee, FL",3301,3381,1061,5K,1
+24026,Susan M.,F,51,"Orlando, FL",3302,3380,1061,5K,1
+23915,Diana D.,F,28,"Henderson, NV",3306,3363,1063,5K,0
+23912,Sharon D.,F,65,"Henderson, NV",3306,3362,1063,5K,1
+23516,Beth Z.,F,56,"Chappaqua, NY",3306,3401,1063,5K,1
+24867,Joelle E.,F,32,"Manhattan, NY",3306,3412,1063,5K,0
+23479,Kelly C.,F,29,"Arlington, VA",3307,3358,1063,5K,0
+25178,Dorecia W.,F,43,"Indian Head, ME",3311,3875,1064,5K,1
+23872,Sherri L.,F,47,"Bowie, MD",3315,3337,1065,5K,1
+24174,Shibani M.,F,42,"Washington, DC",3316,3386,1066,5K,1
+23874,Tianna L.,F,13,"Bowie, MD",3317,3338,1066,5K,0
+25058,Kristie H.,F,38,"Sunderland, MD",3317,3467,1066,5K,0
+20861,Margaret S.,F,41,"Arlington, VA",3323,3434,1068,5K,1
+20395,Rowan D.,F,39,"Arlington, VA",3323,3434,1068,5K,0
+23409,Christa B.,F,51,"Falls Church, VA",3328,3450,1070,5K,1
+19476,Stephanie R.,F,29,"Alexandria, VA",3329,3329,1070,5K,0
+24957,Oma G.,F,40,"Springfield, VA",3333,3454,1071,5K,1
+24958,Michelle M.,F,44,"Springfield, VA",3333,3454,1071,5K,1
+24145,Betty W.,F,69,"Marlton, NJ",3341,3417,1074,5K,1
+25108,Elizabeth S.,F,41,"Bristow, VA",3348,3348,1076,5K,1
+25148,Satvir G.,F,48,"Aldie, VA",3350,3436,1077,5K,1
+23601,Jean D.,F,74,"Martinsburg, WV",3361,3478,1080,5K,1
+25096,Kelly S.,F,40,"Chantilly, VA",3361,3547,1080,5K,1
+25102,Ashlee T.,F,31,"Chantilly, VA",3361,3548,1080,5K,0
+19655,Cindy S.,F,50,"Pikeville, KY",3368,3438,1082,5K,1
+25156,Ashley V.,F,29,"Stafford, VA",3374,3465,1084,5K,0
+24157,Courtney W.,F,29,"Manassas, VA",3377,3539,1085,5K,0
+25047,Aurora P.,F,27,"Arlington, VA",3378,3701,1086,5K,0
+24394,Nikol G.,F,29,"Warrenton, VA",3380,3423,1086,5K,0
+24945,Helen T.,F,65,"Cross River, NY",3381,3498,1087,5K,1
+20632,Kristina T.,F,36,"Washington, DC",3383,3499,1087,5K,0
+23433,Becky F.,F,47,"Williamsburg, OH",3383,3543,1087,5K,1
+23435,Sheri O.,F,51,"Bethel, OH",3384,3544,1088,5K,1
+20441,Frankie W.,F,52,"Silver Spring, MD",3385,3385,1088,5K,1
+19377,Tracy W.,F,39,"Washington, DC",3385,3385,1088,5K,0
+24620,Nabila S.,F,46,"Falls Church, VA",3390,3432,1090,5K,1
+24625,Sonia S.,F,14,"Falls Church, VA",3390,3431,1090,5K,0
+23415,Sylvia H.,F,44,"Cincinnati, OH",3394,3555,1091,5K,1
+25142,Amanda R.,F,32,"Woodbridge, VA",3401,3445,1093,5K,0
+24218,Anne W.,F,54,"Newport News, VA",3402,3402,1093,5K,1
+23960,Joanne T.,F,43,"Stafford, VA",3403,3539,1094,5K,1
+24668,Lilian D.,F,51,"Gaithersburg, MD",3405,3475,1094,5K,1
+24755,Lindsey L.,F,28,"Sterling, VA",3410,3567,1096,5K,0
+25143,Kendra G.,F,25,"Woodbridge, VA",3421,3459,1100,5K,0
+24416,Melissa M.,F,33,"Washington, DC",3421,3551,1100,5K,0
+24334,Linda A.,F,40,"Alexandria, VA",3423,3551,1100,5K,1
+23767,Kristin S.,F,45,"Waterford, VA",3423,3482,1100,5K,1
+24423,Tonya A.,F,48,"Germantown, MD",3425,3519,1101,5K,1
+24476,Eusi H.,F,39,"Montgomery Village, MD",3426,3519,1101,5K,0
+23434,Jan I.,F,53,"Bethel, OH",3432,3593,1103,5K,1
+25118,Bilen B.,F,25,"Springfield, VA",3434,3471,1104,5K,0
+24427,Cynthia G.,F,58,"Chesapeake Beach, MD",3440,3528,1106,5K,1
+25061,Vakila A.,F,62,"Silver Spring, MD",3447,3533,1108,5K,1
+23609,Anne C.,F,35,"Falls Church, VA",3454,3580,1110,5K,0
+23593,Bridget B.,F,47,"Arlington, VA",3454,3580,1110,5K,1
+23604,Cheryl C.,F,46,"Severn, MD",3460,3601,1112,5K,1
+24419,Renee S.,F,48,"Marriottsville, MD",3460,3601,1112,5K,1
+25055,Zenabu Y.,F,48,"Upper Marlboro, MD",3464,3651,1113,5K,1
+24639,Jennifer S.,F,41,"Glen Burnie, MD",3466,3633,1114,5K,1
+25070,Hareesa M.,F,22,"Upper Marlboro, MD",3467,3654,1114,5K,0
+12289,Kyung S.,F,38,"Fairfax, VA",3481,3790,1119,5K,0
+24128,Joanna H.,F,28,"Arlington, VA",3484,3588,1120,5K,0
+24655,Sabrina H.,F,52,"Bowie, MD",3488,3593,1121,5K,1
+24653,Gina G.,F,41,"Bowie, MD",3488,3593,1121,5K,1
+25261,Jessica P.,F,66,"Rockville, MD",3493,3630,1123,5K,1
+24930,Josie M.,F,54,"Woodbridge, VA",3494,3545,1123,5K,1
+23640,Leanna O.,F,40,"Fairfax, VA",3495,3672,1123,5K,1
+23885,Vicky H.,F,37,"Arlington, VA",3495,3673,1123,5K,0
+23975,Heather D.,F,44,"Washington, DC",3495,3672,1123,5K,1
+23974,Jane F.,F,41,"Annandale, VA",3495,3673,1123,5K,1
+24891,Rita M.,F,65,"Springfield, VA",3496,3547,1124,5K,1
+24022,Esther C.,F,39,"Washington, DC",3501,3555,1125,5K,0
+23416,Sonia W.,F,45,"Washington, DC",3501,3554,1125,5K,1
+24667,Barbara C.,F,60,"Temple Hills, MD",3505,3656,1127,5K,1
+24763,Sonya H.,F,48,"Fort Washington, MD",3507,3655,1127,5K,1
+23973,Christina S.,F,48,"Chesterfield, VA",3518,3638,1131,5K,1
+25063,Lisa G.,F,50,"Bowie, MD",3523,3711,1132,5K,1
+25001,Mimi S.,F,25,"Washington, DC",3523,3619,1132,5K,0
+22166,R R.,F,25,,3523,3619,1132,5K,0
+25085,Deloria S.,F,49,"Bowie, MD",3525,3711,1133,5K,1
+24304,Indu A.,F,67,"Potomac, MD",3525,3661,1133,5K,1
+23720,Lara B.,F,31,"Columbia, MD",3525,3690,1133,5K,0
+23946,Rumiko A.,F,30,"Springfield, VA",3526,3690,1133,5K,0
+23749,Vicki T.,F,30,"Columbia, MD",3526,3690,1133,5K,0
+24292,Jasna B.,F,61,"Great Falls, VA",3526,3663,1133,5K,1
+24392,Kimberly H.,F,40,"New Market, MD",3533,3632,1136,5K,1
+25134,Marki M.,F,41,"Gainesville, VA",3533,3973,1136,5K,1
+24661,Maurene M.,F,60,"Bowie, MD",3533,3662,1136,5K,1
+24497,Nicole G.,F,41,"Leesburg, VA",3534,3632,1136,5K,1
+23963,Juliene D.,F,26,"Laurel, MD",3534,3669,1136,5K,0
+24658,Diane B.,F,54,"Bowie, MD",3535,3663,1136,5K,1
+24660,Alex C.,F,28,"Bowie, MD",3537,3668,1137,5K,0
+24659,Arlene P.,F,46,"Bowie, MD",3537,3667,1137,5K,1
+24386,Monica M.,F,41,"New Market, MD",3537,3632,1137,5K,1
+24656,Sierra W.,F,30,"Bowie, MD",3537,3669,1137,5K,0
+25126,Christine T.,F,65,"Reston, VA",3541,3633,1138,5K,1
+25245,Catherine W.,F,51,"South Riding, VA",3541,3650,1138,5K,1
+24182,Imelda B.,F,56,"Fairfax, VA",3548,3683,1140,5K,1
+24194,Andrea J.,F,29,"Laurel, MD",3548,3683,1140,5K,0
+24184,Isabella B.,F,18,"Fairfax, VA",3548,3682,1140,5K,0
+24369,Melissa M.,F,36,"Christiansburg, VA",3564,3663,1145,5K,0
+24372,Tiffany B.,F,36,"Charlotte, NC",3564,3663,1145,5K,0
+24651,Anita G.,F,56,"Herndon, VA",3565,3709,1146,5K,1
+23493,Sandra C.,F,40,"Elizabeth, NJ",3568,3727,1147,5K,1
+25079,Jeanette E.,F,53,"Reston, VA",3574,3724,1149,5K,1
+23882,Roberta G.,F,61,"Reston, VA",3597,3745,1156,5K,1
+24125,Alicia M.,F,35,"Alexandria, VA",3611,3773,1161,5K,0
+24529,Melissa G.,F,45,"Mount Holly Springs, PA",3612,3794,1161,5K,1
+24524,Erin A.,F,36,"Enola, PA",3613,3794,1161,5K,0
+24536,Stacy K.,F,47,"Enola, PA",3613,3794,1161,5K,1
+24512,Michelle G.,F,47,"Annandale, VA",3639,3784,1170,5K,1
+23480,Kil S.,F,38,"Centreville, VA",3650,3732,1173,5K,0
+24681,Rossalyn C.,F,62,"Washington, DC",3652,3751,1174,5K,1
+24429,Karen R.,F,49,"Owings Mills, MD",3653,3761,1174,5K,1
+24436,Kateri R.,F,24,"Owings Mills, MD",3654,3761,1174,5K,0
+24705,Karen Q.,F,63,"Washington, DC",3657,3756,1175,5K,1
+23793,Fanta T.,F,35,"Philadelphia, PA",3687,3768,1185,5K,0
+23857,Khurshid N.,F,42,"Washington, DC",3687,3768,1185,5K,1
+23764,Suzanne S.,F,38,"Washington Dc, DC",3699,3847,1189,5K,0
+23760,Eleanor K.,F,59,"Washington, DC",3699,3848,1189,5K,1
+24967,Wing Y.,F,35,"Fort Washington, MD",3718,3868,1195,5K,0
+24965,Theodora E.,F,60,"Merrifield, VA",3718,3868,1195,5K,1
+24680,Eneida M.,F,33,"Hyattsville, MD",3720,3868,1196,5K,0
+24338,Mahalia D.,F,49,"Silver Spring, MD",3726,3835,1198,5K,1
+23520,Caroline F.,F,49,"Nashville, TN",3726,3835,1198,5K,1
+23712,Linda H.,F,52,"Mclean, VA",3729,3771,1199,5K,1
+19695,Tora E.,F,46,"Herndon, VA",3744,3864,1203,5K,1
+22737,Clythie C.,F,48,"San Diego, CA",3744,3863,1203,5K,1
+23722,Linda K.,F,69,"Memphis, TN",3757,3874,1208,5K,1
+25056,Yaneth R.,F,23,"Germantown, MD",3798,3945,1221,5K,0
+23481,Francesca B.,F,33,"Alexandria, VA",3799,3992,1221,5K,0
+23728,Whitney R.,F,30,"Springfield, VA",3799,3993,1221,5K,0
+24364,Jaya G.,F,31,"Wasington Dc, DC",3800,3991,1221,5K,0
+24590,Shannan W.,F,34,"Annandale, VA",3865,4102,1242,5K,0
+23948,Lauren A.,F,32,"Washington, DC",3869,3981,1244,5K,0
+23949,Diane S.,F,56,"New Vernon, NJ",3870,3981,1244,5K,1
+21621,Tara M.,F,39,"Ashburn, VA",3938,4142,1266,5K,0
+25072,Mary O.,F,50,"Crownsville, MD",3949,4067,1269,5K,1
+25231,Sharon M.,F,48,"Pasadena, MD",3950,4067,1270,5K,1
+23439,Elizabeth R.,F,70,"Boyds, MD",3953,4151,1271,5K,1
+23490,Alvera Y.,F,56,"Columbia, MD",3954,4151,1271,5K,1
+25251,Stella C.,F,82,"Rehoboth Beach, DE",4031,4218,1296,5K,1
+23686,So Y.,F,43,"New York, NY",4031,4031,1296,5K,1
+4087,Jessica L.,F,39,"Bronx, NY",4081,4084,1312,5K,0
+20288,Mary B.,F,71,"Arlington, VA",4087,4269,1314,5K,1
+24167,Maggie D.,F,72,"Richmond, VA",4103,4176,1319,5K,1
+25127,Judith A.,F,36,"Culpeper, VA",4136,4217,1329,5K,0
+23587,Erin R.,F,40,"Washington, DC",4144,4144,1332,5K,1
+18950,Olivia O.,F,38,"Bethesda, MD",4145,4145,1332,5K,0
+25247,Karen F.,F,38,"Ny, NY",4246,4250,1365,5K,0
+9863,Naresea B.,F,32,"Brooklyn, NY",4248,4250,1365,5K,0
+23423,Elizabeth A.,F,64,"Alexandria, VA",4497,4673,1445,5K,1
+24422,Mary E.,F,53,"Springfield, PA",4609,4694,1481,5K,1
+24078,Maryann M.,F,67,"Ellicott City, MD",4612,4695,1482,5K,1
+25140,Vanessa C.,F,25,"Manassas, VA",5472,5472,1759,5K,0
+23731,Iber G.,M,29,"New York, NY",1078,1078,346,5K,0
+24018,Jared D.,M,21,"Cherry Hill, NJ",1093,1095,351,5K,0
+24234,John M.,M,24,"Washington, DC",1117,1117,359,5K,0
+23531,Offir G.,M,29,"New York, NY",1163,1164,373,5K,0
+24794,James S.,M,31,"Enfield, NH",1165,1166,374,5K,0
+1109,Mark T.,M,28,"Montreal, QC",1177,1177,378,5K,0
+1401,Andrew L.,M,32,"Washington, DC",1183,1183,380,5K,0
+23944,Chris C.,M,27,"Norwood, MA",1186,1186,381,5K,0
+624,Zach O.,M,25,"Arlington, VA",1188,1188,381,5K,0
+21760,Sebastien G.,M,40,"Arlington, VA",1259,1259,404,5K,1
+1147,Gilbert G.,M,35,"New York, NY",1266,1268,407,5K,0
+24637,Andrew F.,M,46,"Orlando, FL",1271,1271,408,5K,1
+21754,Zak D.,M,24,"Washington, DC",1283,1289,412,5K,0
+24049,Harrison S.,M,17,"Mclean, VA",1321,1330,424,5K,0
+23964,Bryant R.,M,27,"Washington, DC",1334,1337,428,5K,0
+4950,Ken B.,M,53,"Washington, DC",1339,1341,430,5K,1
+25035,Jackie C.,M,24,"Washinton, DC",1339,1385,430,5K,0
+23537,Daniel B.,M,30,"Silver Spring, MD",1347,1350,433,5K,0
+2975,Mason H.,M,30,"Alexandria, VA",1353,1353,435,5K,0
+824,Tyler A.,M,32,"Washington, DC",1356,1357,436,5K,0
+24678,John K.,M,59,"Providence, RI",1356,1359,436,5K,1
+2885,Richard S.,M,36,"Washington, DC",1361,1366,437,5K,0
+24207,Douglas C.,M,51,"Montrose, WV",1373,1377,441,5K,1
+23536,Andrew N.,M,35,"Washington, DC",1385,1387,445,5K,0
+5098,Weili S.,M,35,"Washington, DC",1392,1394,447,5K,0
+23405,Socrates T.,M,33,"Derwood, MD",1394,1396,448,5K,0
+25013,Robert P.,M,24,"Washington, DC",1400,1413,450,5K,0
+24666,Baltazar A.,M,39,"Falls Church, VA",1410,1410,453,5K,0
+1798,William S.,M,30,"Washington, DC",1412,1415,454,5K,0
+23899,Justin S.,M,32,"Chester Springs, PA",1413,1424,454,5K,0
+7756,Gustavo Z.,M,16,"New York, NY",1417,1417,455,5K,0
+24347,Bradley G.,M,30,"Potomac, MD",1422,1664,457,5K,0
+23770,Bradley E.,M,48,"Leonardtown, MD",1432,1497,460,5K,1
+3012,Colin R.,M,15,"Palmyra, PA",1437,1441,462,5K,0
+24726,Adam K.,M,27,"Washington, DC",1440,1452,463,5K,0
+23892,James M.,M,56,"Arlington, VA",1447,1447,465,5K,1
+25088,Martin K.,M,26,"Centreville, VA",1448,1463,465,5K,0
+8026,Daniel R.,M,36,"Warrenton, VA",1459,1497,469,5K,0
+23945,Justin A.,M,34,"Springfield, VA",1467,1632,471,5K,0
+7817,Christopher F.,M,28,"Washington, DC",1469,1479,472,5K,0
+1039,Michael H.,M,52,"Oakton, VA",1473,1496,473,5K,1
+1864,Rich K.,M,59,"Harrisburg, PA",1477,1523,474,5K,1
+25011,Colin S.,M,30,"Washington, DC",1478,1519,475,5K,0
+24779,Myles L.,M,13,"Great Falls, VA",1478,1482,475,5K,0
+24780,Matijs L.,M,11,"Great Falls, VA",1479,1482,475,5K,0
+23790,Gregory D.,M,39,"Alexandria, VA",1490,1520,479,5K,0
+24611,Robert B.,M,28,"Prince Frederick, MD",1490,1540,479,5K,0
+23809,Alfred W.,M,42,"Bowie, MD",1496,1951,481,5K,1
+24154,Christopher N.,M,25,"Washington Dc, DC",1505,1522,483,5K,0
+24647,Eric W.,M,24,"Vienna, VA",1507,1513,484,5K,0
+24453,Jacob A.,M,26,"Washington, DC",1510,1538,485,5K,0
+24150,Ronnie M.,M,54,"Vienna, VA",1511,1523,485,5K,1
+23777,Phil B.,M,49,"Kalida, OH",1512,1520,486,5K,1
+13250,Dan S.,M,37,"Burke, VA",1517,1519,487,5K,0
+24571,Oscar B.,M,25,"Charlotte, NC",1520,1520,488,5K,0
+20787,Fernando S.,M,25,"Washington, DC",1534,1551,493,5K,0
+25132,Curtis C.,M,27,"Herndon, VA",1537,1699,494,5K,0
+23591,Gregory H.,M,31,"Jacksonville, FL",1537,1546,494,5K,0
+2883,James C.,M,31,"Fairfax, VA",1541,1583,495,5K,0
+7942,Brian G.,M,32,"Arlington, MA",1542,1550,495,5K,0
+24751,Hunter K.,M,24,"Dover, DE",1545,1545,496,5K,0
+24646,Ryan F.,M,42,"Royal Oak, MI",1556,1564,500,5K,1
+23780,Adam B.,M,9,"Kalida, OH",1556,1563,500,5K,0
+24155,Javier O.,M,29,"Washington, DC",1558,1566,500,5K,0
+24665,Eric A.,M,42,"West Friendship, MD",1558,1567,500,5K,1
+12280,Rajit K.,M,33,"Arlington, VA",1560,1564,501,5K,0
+23988,Jacob H.,M,27,"Alexandria, VA",1564,1574,502,5K,0
+24015,Timothy S.,M,26,"Arlington, VA",1569,1656,504,5K,0
+7603,Patrick J.,M,30,"Washington, DC",1571,1579,505,5K,0
+6883,Jeffrey B.,M,30,"Arlington, VA",1573,1632,505,5K,0
+16325,Sean K.,M,45,"Severna Park, MD",1575,1680,506,5K,1
+10437,Andrew K.,M,29,"Washington, DC",1575,1719,506,5K,0
+24111,Matthew T.,M,36,"Washington, DC",1576,1659,506,5K,0
+4599,Mike H.,M,46,"Washington, DC",1577,1703,507,5K,1
+6209,Joe B.,M,57,"Sicklerville, NJ",1577,1582,507,5K,1
+24250,Reggie J.,M,35,"Washington, DC",1579,1600,507,5K,0
+21691,Jr D.,M,33,"Washington, DC",1579,2184,507,5K,0
+24831,Alazar T.,M,12,"Washington, DC",1580,2185,508,5K,0
+23813,Dick P.,M,66,"Vienna, VA",1583,1607,509,5K,1
+2791,Jim K.,M,41,"Washington, DC",1584,1589,509,5K,1
+7929,Jason H.,M,31,"Madison, WI",1591,1703,511,5K,0
+25147,Udeypartap G.,M,13,"Aldie, VA",1597,1683,513,5K,0
+24821,Jeffrey K.,M,39,"Fairfax, VA",1603,1698,515,5K,0
+2158,David J.,M,45,"Washington, DC",1604,1757,515,5K,1
+24995,Jonathan I.,M,38,"Fairfax, VA",1604,1699,515,5K,0
+24083,Karl S.,M,31,"Oakton, VA",1608,1669,517,5K,0
+24961,Benjamin W.,M,19,"Sykesville, MD",1609,1609,517,5K,0
+24874,Daniel C.,M,20,"Hubert, NC",1615,1630,519,5K,0
+24684,Vincent D.,M,42,"Mclean, VA",1618,1629,520,5K,1
+24670,Jim K.,M,66,"Bethlehem, PA",1625,1636,522,5K,1
+4269,Joel C.,M,46,"Rockville, MD",1626,1682,522,5K,1
+25007,John F.,M,25,"Washington, DC",1628,1869,523,5K,0
+11321,Stephen P.,M,49,"Derwood, MD",1629,1775,523,5K,1
+23923,Matt M.,M,37,"Vienna, VA",1629,1903,523,5K,0
+586,Kyle P.,M,34,"Sacramento, CA",1629,1633,523,5K,0
+8425,Arjun P.,M,35,"Washington, DC",1630,1746,524,5K,0
+21248,Eli M.,M,41,"Arlington, VA",1630,1636,524,5K,1
+24469,Adam K.,M,35,"Washington Dc, DC",1633,1663,525,5K,0
+24728,Sheldon P.,M,53,"White Plains, NY",1637,1643,526,5K,1
+23852,Eamonn P.,M,25,"Washington, DC",1637,1767,526,5K,0
+24023,Nick R.,M,39,"Collegeville, PA",1637,1733,526,5K,0
+5700,Sam W.,M,26,"Washington, DC",1638,1644,526,5K,0
+3776,Colin R.,M,42,"Alexandria, VA",1639,1780,527,5K,1
+24481,Willem M.,M,16,"Anchorage, AK",1641,1656,527,5K,0
+8148,Brian S.,M,43,"Fairfax Station, VA",1642,1670,527,5K,1
+24314,William P.,M,30,"Washington, DC",1643,1696,528,5K,0
+24750,Daniel P.,M,28,"Boston, MA",1645,1756,528,5K,0
+24789,Nathan T.,M,41,"Alexandria, VA",1647,1742,529,5K,1
+24164,Joshua K.,M,18,"Manassas, VA",1648,1734,529,5K,0
+11527,Matt S.,M,34,"Washington, DC",1650,1650,530,5K,0
+24109,Thibault T.,M,29,"Washington, DC",1651,1699,530,5K,0
+20648,Ian K.,M,48,"Gaithersburg, MD",1653,1656,531,5K,1
+23779,Jack B.,M,9,"Kalida, OH",1658,1666,533,5K,0
+674,Alan N.,M,29,"Washington, DC",1660,1758,533,5K,0
+6230,Julian A.,M,42,"Alexandria, VA",1663,1769,534,5K,1
+6750,Alex W.,M,30,"Washington, DC",1666,1714,535,5K,0
+10874,Sean W.,M,29,"Washington, DC",1668,1699,536,5K,0
+23983,Dallas L.,M,50,"Cohoes, NY",1670,1759,536,5K,1
+23651,Jomi T.,M,39,"Falls Church, VA",1671,1843,537,5K,0
+23714,Joseph W.,M,14,"Falls Church, VA",1674,1681,538,5K,0
+23572,Robert A.,M,37,"Arlington, VA",1678,1682,539,5K,0
+1779,Zeshaan R.,M,42,"Sandy Spring, MD",1680,1688,540,5K,1
+1382,Dave K.,M,58,"Srongsville, OH",1681,1692,540,5K,1
+24414,James M.,M,45,"Washington, DC",1684,1710,541,5K,1
+25020,Leo S.,M,24,"Washington, DC",1686,1713,542,5K,0
+25200,Mike C.,M,47,"Bowie, MD",1687,1859,542,5K,1
+11699,James D.,M,29,"Silver Spring, MD",1689,1719,543,5K,0
+24425,Wiilliam A.,M,50,"Olney, MD",1690,1776,543,5K,1
+24619,Wendel R.,M,60,"Brooks, AB",1692,1762,544,5K,1
+24791,Daniel C.,M,25,"Washington, DC",1694,1722,544,5K,0
+20327,Oscar M.,M,43,"Alexandria, VA",1696,1789,545,5K,1
+23851,Darryl M.,M,55,"Bethesda, MD",1702,1769,547,5K,1
+23515,Robert Z.,M,58,"Chappaqua, NY",1705,1796,548,5K,1
+23691,Ken K.,M,44,"Alexandria, VA",1707,1711,548,5K,1
+11649,Zaki R.,M,35,"Washington, DC",1708,1825,549,5K,0
+24618,Bill J.,M,63,"Brooks, AB",1714,1783,551,5K,1
+12617,Jeffery W.,M,55,"Binghamton, NY",1717,1862,552,5K,1
+3275,Evan T.,M,21,"Arlington, VA",1719,1748,552,5K,0
+24815,T.d. M.,M,38,"Arlington, VA",1719,1841,552,5K,0
+24087,Kyle M.,M,30,"Washington, DC",1721,1810,553,5K,0
+24627,Sam T.,M,30,"Washington, DC",1723,1755,554,5K,0
+10086,Michael S.,M,24,"Reston, VA",1725,1795,554,5K,0
+24946,Puspa S.,M,42,"Springfield, VA",1726,1883,554,5K,1
+24622,Steve C.,M,57,"Warwick, RI",1728,1736,555,5K,1
+24047,Mehdi S.,M,51,"Mclean, VA",1730,1740,556,5K,1
+6707,Steven S.,M,35,"Falls Church, VA",1730,1737,556,5K,0
+1850,Ramon T.,M,34,"Arlington, VA",1731,1741,556,5K,0
+22134,Vivek C.,M,29,"Washington, DC",1731,1848,556,5K,0
+5238,Ian W.,M,31,"Marriottsville, MD",1733,3339,557,5K,0
+24180,John M.,M,39,"Arlington, VA",1735,1905,557,5K,0
+24992,Andrew K.,M,54,"Sumter, SC",1739,1804,559,5K,1
+6904,Jesus M.,M,39,"New Yok, NY",1739,1767,559,5K,0
+8197,Micheal M.,M,49,"Herndon, VA",1746,1779,561,5K,1
+14800,Paul M.,M,15,"Herndon, VA",1746,1779,561,5K,0
+11912,Nicholas M.,M,33,"Fairfax, VA",1747,1821,561,5K,0
+3019,John S.,M,48,"Vienna, VA",1747,1792,561,5K,1
+11271,Bartholomew S.,M,59,"Falls Church, VA",1748,1757,562,5K,1
+24095,Paul L.,M,35,"Falls Church, VA",1750,1750,562,5K,0
+24352,Noel C.,M,33,"Lagrangeville, NY",1753,1804,563,5K,0
+8503,Steven G.,M,62,"Westwood, MA",1755,1808,564,5K,1
+3754,Kaler H.,M,46,"Chevy Chase, MD",1755,1878,564,5K,1
+24317,James C.,M,31,"Danbury, CT",1755,1804,564,5K,0
+23570,Todd E.,M,37,"Arlington, VA",1758,1763,565,5K,0
+23679,Andrew O.,M,28,"Washington, DC",1760,2417,565,5K,0
+9020,Robert G.,M,35,"Washington, DC",1761,1813,566,5K,0
+24121,Michael B.,M,65,"Lima, OH",1762,1773,566,5K,1
+23810,Jalen W.,M,13,"Bowie, MD",1762,2218,566,5K,0
+23817,Bryn V.,M,33,"Alexandria, VA",1765,1798,567,5K,0
+23941,Jon B.,M,33,"Minneapolis, MN",1772,1791,569,5K,0
+3833,Travis L.,M,32,"Pittsburgh, PA",1773,1807,570,5K,0
+24788,Matthew W.,M,15,"Kensington, MD",1774,1799,570,5K,0
+23456,Ioan I.,M,31,"Silver Spring, MD",1777,1811,571,5K,0
+14341,Sang-Keun K.,M,27,"Arlington, VA",1780,1796,572,5K,0
+20865,Vinay B.,M,12,"Yardley, PA",1780,1832,572,5K,0
+25206,Andrew M.,M,33,"Olathe, KS",1782,1850,572,5K,0
+14338,Scott L.,M,40,"Pasadena, TX",1785,1813,573,5K,1
+24981,Ming W.,M,27,"Fairfax, VA",1786,1942,574,5K,0
+12594,Justin S.,M,29,"Mechanicsburg, PA",1786,1858,574,5K,0
+11070,Sean H.,M,35,"Alexandria, VA",1788,1795,574,5K,0
+23677,William O.,M,56,"West Bend, WI",1788,1800,574,5K,1
+21432,Tyler H.,M,31,"Alexandria, VA",1789,1793,575,5K,0
+21425,Nhan N.,M,36,"Washington, DC",1789,1809,575,5K,0
+7863,Francis X.,M,62,"Chevy Chase, MD",1791,1804,575,5K,1
+24976,Joel H.,M,33,"Washington, DC",1792,2186,576,5K,0
+8087,Chris G.,M,46,"Vienna, VA",1793,1884,576,5K,1
+13487,William B.,M,46,"Washington, DC",1793,1939,576,5K,1
+24568,Max G.,M,25,"Bel Air, MD",1793,1815,576,5K,0
+20755,Hong L.,M,60,"Queens, NY",1795,1801,577,5K,1
+9156,Jon S.,M,36,"Alexandria, VA",1795,1909,577,5K,0
+8866,Joseph H.,M,23,"Hyattsville, MD",1796,1902,577,5K,0
+14381,Minoru U.,M,48,"Edgewood, WA",1797,1858,577,5K,1
+23917,Robert D.,M,53,"Sterlng, VA",1803,1829,579,5K,1
+25105,Enrique Q.,M,46,"Sterling, VA",1808,1818,581,5K,1
+24838,Kobe W.,M,15,"Washington, DC",1815,1929,583,5K,0
+13146,Ryan C.,M,41,"Arlington, VA",1815,1911,583,5K,1
+24953,Dave H.,M,34,"Alexandria, VA",1816,1929,583,5K,0
+24802,Jonathan O.,M,31,"Fairfax, VA",1816,1938,583,5K,0
+20703,Ming J.,M,32,"Bowie, MD",1816,1917,583,5K,0
+24124,Dan B.,M,46,"Tacoma, WA",1818,1837,584,5K,1
+11676,Christopher P.,M,44,"California, MD",1830,1942,588,5K,1
+6150,Thomas B.,M,41,"Towson, MD",1837,1869,590,5K,1
+24539,Curtis P.,M,30,"Arlington, VA",1838,1924,590,5K,0
+17049,Shawn L.,M,28,"Seattle, WA",1838,1930,590,5K,0
+24443,Philip B.,M,33,"Arlington, VA",1838,1981,590,5K,0
+628,Allen N.,M,46,"Arlington, VA",1842,1939,592,5K,1
+14949,Christopher K.,M,26,"Washington, DC",1843,1987,592,5K,0
+15988,Gregory N.,M,21,"Washington, DC",1846,1954,593,5K,0
+24915,Stephen H.,M,64,"Olney, MD",1846,1955,593,5K,1
+23866,Mark F.,M,50,"Leesburg, VA",1848,1862,594,5K,1
+24402,Joshua H.,M,11,"Centreville, VA",1849,1964,594,5K,0
+25183,Mark C.,M,56,"Arlington, VA",1850,1855,594,5K,1
+8635,Michael L.,M,38,"Kemah, TX",1850,2036,594,5K,0
+22283,Matthew J.,M,35,"Fairfax, VA",1854,1980,596,5K,0
+21410,David V.,M,29,"Washington, DC",1854,1975,596,5K,0
+24496,Michael O.,M,52,"Arlington, VA",1854,1909,596,5K,1
+9253,Michael M.,M,38,"Alexandria, VA",1855,1993,596,5K,0
+24944,Omolade E.,M,12,"Washington, DC",1857,2031,597,5K,0
+13941,Robert D.,M,50,"Washington, DC",1861,1922,598,5K,1
+6557,Ryan T.,M,28,"Washington, DC",1863,2039,599,5K,0
+7933,Carey C.,M,31,"Washington, DC",1868,1987,600,5K,0
+24289,Daniel A.,M,31,"Ellicott City, MD",1869,1980,600,5K,0
+24442,Sergey P.,M,52,"Gaithersburg, MD",1869,1892,600,5K,1
+24594,Ranell W.,M,35,"Milwaukee, WI",1872,1872,601,5K,0
+24479,Matthew T.,M,12,"Springfield, VA",1873,1899,602,5K,0
+24533,Derek H.,M,22,"Arlington, VA",1876,1966,603,5K,0
+23419,Steve F.,M,65,"Gaithersburg, MD",1877,1888,603,5K,1
+23883,Bill W.,M,31,"Rockville, MD",1877,2025,603,5K,0
+24152,Axel M.,M,37,"Windermere, FL",1882,1887,605,5K,0
+25233,Neil K.,M,38,"Arlington, VA",1883,1903,605,5K,0
+23674,Kamal S.,M,47,"Rockville, MD",1884,1918,605,5K,1
+23995,Ron R.,M,56,"Purcellville, VA",1886,2011,606,5K,1
+8364,Jared M.,M,36,"Herndon, VA",1887,2005,606,5K,0
+8618,Cuong C.,M,41,"Alexandria, VA",1888,1894,607,5K,1
+24086,Patrick M.,M,27,"Washington, DC",1888,1977,607,5K,0
+4237,Willam C.,M,36,"Fort Meade, MD",1888,1999,607,5K,0
+24616,Andre M.,M,39,"Arlington, VA",1890,1982,607,5K,0
+21132,Omar K.,M,51,"Washington, DC",1891,2045,608,5K,1
+19117,Vaughn S.,M,48,"Alexandria, VA",1896,1896,609,5K,1
+12704,Colin S.,M,28,"Washington, DC",1898,2051,610,5K,0
+15785,Charles K.,M,37,"Charleston, WV",1899,1932,610,5K,0
+24482,James T.,M,37,"Ashburn, VA",1899,1954,610,5K,0
+24899,Erez M.,M,23,"Washington, DC",1902,2000,611,5K,0
+24903,Oscar M.,M,14,"Washington, DC",1902,2001,611,5K,0
+13695,Bob O.,M,53,"River Falls, WI",1903,1915,611,5K,1
+24733,Jeronimo J.,M,30,"Washington, DC",1906,1978,612,5K,0
+24672,Michael Y.,M,30,"Rockville, MD",1908,1908,613,5K,0
+25049,Christopher C.,M,40,"Washington, DC",1908,1980,613,5K,1
+25077,Dondrae M.,M,33,"Waldorf, MD",1909,2093,613,5K,0
+24865,Trevor S.,M,25,"Aldie, VA",1913,2017,615,5K,0
+15015,Jacob P.,M,30,"Arlington, VA",1914,2037,615,5K,0
+13582,Christian L.,M,42,"Arlington, VA",1914,1942,615,5K,1
+14854,Anthony B.,M,52,"River Rouge, MI",1917,1995,616,5K,1
+24399,Jonathan F.,M,35,"Montclair, NJ",1917,2016,616,5K,0
+21379,Joshua W.,M,36,"Alexandria, VA",1917,1966,616,5K,0
+23653,Patrick L.,M,26,"Washington Dc, DC",1918,1957,616,5K,0
+7762,Edeward D.,M,43,"Middletown, DE",1919,2140,617,5K,1
+24398,Peter H.,M,58,"Centreville, VA",1921,2037,617,5K,1
+25113,Nicholas E.,M,33,"Gainesville, VA",1921,2004,617,5K,0
+24162,Justin S.,M,25,"Bethesda, MD",1921,2055,617,5K,0
+14268,Harrison G.,M,28,"Manassas, VA",1922,1944,618,5K,0
+24232,Ravi M.,M,33,"Arlington, VA",1923,1935,618,5K,0
+24904,Taylor M.,M,26,"Takoma Park, MD",1926,2025,619,5K,0
+24519,John S.,M,64,"Reisterstown, MD",1927,2054,619,5K,1
+24520,Chris D.,M,44,"Rockville, MD",1927,1955,619,5K,1
+8652,Takashi K.,M,27,"Washington, DC",1929,2073,620,5K,0
+13661,Josh S.,M,42,"Washington, DC",1929,1943,620,5K,1
+23666,Gary W.,M,28,"Fairfax, VA",1932,2064,621,5K,0
+25209,Shawn F.,M,29,"Mclean, VA",1937,1942,622,5K,0
+24846,Jermar R.,M,32,"Washington, DC",1938,2327,623,5K,0
+13097,Daniel P.,M,41,"Bethesda, MD",1940,2066,623,5K,1
+24010,Steven R.,M,40,"Mountville, PA",1941,2017,624,5K,1
+25186,Subhashish C.,M,51,"Mclean, VA",1942,2078,624,5K,1
+24576,Chun N.,M,36,"Clarksburg, MD",1942,2055,624,5K,0
+8222,William H.,M,39,"Washington, DC",1943,2095,624,5K,0
+20061,Ric S.,M,27,"Bethesda, MD",1944,2033,625,5K,0
+25067,Tom H.,M,32,"Cordova, MD",1946,2130,625,5K,0
+24042,Joseph K.,M,44,"Arlington, VA",1946,2012,625,5K,1
+15439,Michael E.,M,31,"Alexandria, VA",1948,2010,626,5K,0
+25114,Nohman I.,M,34,"Ashburn, VA",1948,1964,626,5K,0
+25213,Min C.,M,42,"Washington, DC",1949,2002,626,5K,1
+25027,Dylan S.,M,25,"Washington, DC",1951,1978,627,5K,0
+8323,Patrick M.,M,32,"Arlington, VA",1951,1964,627,5K,0
+24679,Alex T.,M,37,"Washington, DC",1952,2100,627,5K,0
+18865,Scott W.,M,29,"Rockville, MD",1955,1978,628,5K,0
+25106,Bob D.,M,56,"Centreville, VA",1957,2135,629,5K,1
+14557,Dave M.,M,51,"Arlington, VA",1957,2006,629,5K,1
+25071,Ahmed M.,M,13,"Upper Marlboro, MD",1958,2146,629,5K,0
+24098,Terry D.,M,28,"Silver Spring, MD",1964,2023,631,5K,0
+11165,Allen R.,M,60,"Chevy Chase, MD",1966,2152,632,5K,1
+18862,Benjamin T.,M,36,"Rockville, MD",1966,2120,632,5K,0
+23788,Robb O.,M,56,"Parkton, MD",1969,1986,633,5K,1
+23953,Robert C.,M,39,"Washington, DC",1969,2035,633,5K,0
+23432,Tim R.,M,45,"Palmyra, PA",1970,2053,633,5K,1
+23841,Jim W.,M,66,"Browns Summit, NC",1974,2075,634,5K,1
+24306,Michael J.,M,27,"Washington, DC",1975,1993,635,5K,0
+25083,Cory H.,M,35,"Frederick, MD",1978,2163,636,5K,0
+24925,Patrick D.,M,30,"Washington, DC",1981,2152,636,5K,0
+19214,Tyler M.,M,24,"Bronx, NY",1981,2042,636,5K,0
+5631,Jeff R.,M,35,"Washington, DC",1982,1991,637,5K,0
+16936,Nicholas H.,M,36,"Cadyville, NY",1983,2033,637,5K,0
+5379,Michael H.,M,27,"Washington, DC",1986,2060,638,5K,0
+14837,George T.,M,55,"Arlington, VA",1988,2141,639,5K,1
+21875,Michael L.,M,34,"Washington, DC",1989,2164,639,5K,0
+13543,James W.,M,35,"Vienna, VA",1990,2085,639,5K,0
+20442,Hoang D.,M,38,"Silver Spring, MD",1990,2085,639,5K,0
+20806,Gerald M.,M,31,"Silver Spring, MD",1991,2101,640,5K,0
+9294,Gustavo O.,M,37,"Phoenix, AZ",1992,1998,640,5K,0
+25259,Robert C.,M,59,"Silver Spring, MD",1992,2014,640,5K,1
+13613,Pascual M.,M,33,"Washington, DC",1997,2137,642,5K,0
+22968,Jeffrey G.,M,37,"Reston, VA",2000,2015,643,5K,0
+17641,Donaldo F.,M,33,"Silver Spring, MD",2004,2039,644,5K,0
+16277,Jonathan W.,M,57,"Arlington, VA",2005,2146,644,5K,1
+20498,Joseph B.,M,30,"Arlington, VA",2007,2158,645,5K,0
+24508,Walbert C.,M,23,"Sterling, VA",2008,2008,645,5K,0
+17444,Andy R.,M,28,"Astoria, NY",2008,2116,645,5K,0
+2091,Vincent B.,M,28,"Arlington, VA",2011,2113,646,5K,0
+24537,David H.,M,52,"Warren, OH",2012,2187,646,5K,1
+20526,Preston F.,M,48,"Riverview, FL",2016,2178,648,5K,1
+10904,Allan B.,M,34,"Arlington, VA",2016,2034,648,5K,0
+4262,Michel B.,M,35,"Washington, DC",2017,2479,648,5K,0
+24796,Rino M.,M,42,"Rockville, MD",2018,2033,648,5K,1
+18560,Jack S.,M,48,"Laurel, MD",2020,2048,649,5K,1
+15496,David D.,M,30,"Washington, DC",2022,2051,650,5K,0
+20459,Madhujith H.,M,32,"Centreville, VA",2023,2084,650,5K,0
+14906,Andrew H.,M,33,"Arlington, VA",2025,2133,651,5K,0
+24205,Michael P.,M,32,"Montgomery Village, MD",2026,2136,651,5K,0
+14451,David H.,M,56,"Fairfax, VA",2026,2083,651,5K,1
+23896,Eric T.,M,26,"Beltsville, MD",2029,2178,652,5K,0
+23860,Richard M.,M,32,"Waldorf, MD",2030,2056,652,5K,0
+24474,Alphonso T.,M,53,"Springfield, VA",2031,2058,653,5K,1
+24573,Jared D.,M,32,"Alexandria, VA",2031,2170,653,5K,0
+21967,Devan C.,M,25,"Washington, DC",2032,2207,653,5K,0
+1751,Bruno Z.,M,8,"Chevy Chase, MD",2033,2049,653,5K,0
+508,Piotr Z.,M,40,"Chevy Chase, MD",2033,2049,653,5K,1
+23806,Kevin P.,M,32,"Hummelstown, PA",2034,2228,654,5K,0
+6157,Chris C.,M,31,"Brooklyn, NY",2037,2174,654,5K,0
+23453,Gregory P.,M,46,"Washington, DC",2042,2146,656,5K,1
+23503,Joseph S.,M,28,"Alexandria, VA",2042,2175,656,5K,0
+2191,Kyle E.,M,24,"Arlington, VA",2044,2126,657,5K,0
+15128,John B.,M,43,"Newington, CT",2045,2062,657,5K,1
+9960,Eric G.,M,31,"Arlington, VA",2045,2091,657,5K,0
+24048,James R.,M,32,"Woodbridge, VA",2048,2081,658,5K,0
+4753,Harry K.,M,21,"Chantilly, VA",2050,2053,659,5K,0
+20872,Mike D.,M,36,"Mclean, VA",2052,2149,659,5K,0
+24691,Ron S.,M,58,"Arlington, VA",2056,2121,661,5K,1
+24875,Shawn C.,M,32,"Washington, DC",2058,2167,661,5K,0
+24551,Dave H.,M,34,"Enola, PA",2064,2077,663,5K,0
+24550,Sean O.,M,30,"Mechanicsburg, PA",2066,2079,664,5K,0
+10821,Jeffrey R.,M,32,"Arlington, VA",2066,2134,664,5K,0
+24379,Luke F.,M,30,"Arlington, VA",2067,2218,664,5K,0
+25087,David R.,M,58,"Herndon, VA",2069,2229,665,5K,1
+24245,Drew D.,M,31,"Arlington, VA",2074,2099,666,5K,0
+24806,Roman M.,M,30,"Odenton, MD",2076,2130,667,5K,0
+18054,Daniel P.,M,38,"Bethesda, MD",2076,2150,667,5K,0
+23496,Yin C.,M,35,"Alexandria, VA",2078,2132,668,5K,0
+21692,Jahidi T.,M,17,"Washington, DC",2082,2252,669,5K,0
+14128,Ricardo C.,M,51,"Vienna, VA",2084,2143,670,5K,1
+23877,Billy M.,M,65,"Bethlehem, PA",2090,2213,672,5K,1
+25253,Gary T.,M,59,"Keymar, MD",2093,2196,672,5K,1
+20368,Mike M.,M,60,"Clifton, VA",2094,2126,673,5K,1
+19175,Michael B.,M,39,"Washington, DC",2094,2206,673,5K,0
+20925,Son M.,M,50,"Chantilly, VA",2100,2146,675,5K,1
+24410,Nick M.,M,25,"Washington, DC",2101,2152,675,5K,0
+21604,Kareem H.,M,37,"Centreville, VA",2104,2157,676,5K,0
+24912,Ernest J.,M,14,"Washington, DC",2108,2282,677,5K,0
+25119,Caleb T.,M,12,"Chantilly, VA",2111,2111,678,5K,0
+23843,Adam H.,M,39,"Burke, VA",2113,2247,679,5K,0
+23911,Darnell L.,M,44,"Laurel, MD",2117,2148,680,5K,1
+15706,Larry S.,M,53,"Washington, DC",2119,2229,681,5K,1
+7507,Kelly C.,M,46,"Cheyney, PA",2121,2255,681,5K,1
+24542,Richard L.,M,65,"Knoxville, TN",2122,2222,682,5K,1
+12601,Augusto P.,M,29,"Alexandria, VA",2123,2259,682,5K,0
+18590,Steve G.,M,66,"Springfield, VA",2123,2149,682,5K,1
+24931,A. J.,M,40,"Germantown, MD",2124,2172,682,5K,1
+24485,Brian F.,M,44,"Manchester, MD",2124,2136,682,5K,1
+24614,Dave M.,M,61,"Odenton, MD",2128,2184,684,5K,1
+20388,Montressor U.,M,38,"Washington, DC",2129,2290,684,5K,0
+24589,Kang Y.,M,34,"Germantown, MD",2129,2241,684,5K,0
+24143,Paul W.,M,36,"Washington, DC",2130,2238,684,5K,0
+21090,Paul T.,M,28,"Laurel, MD",2131,2263,685,5K,0
+12318,Jeffrey F.,M,38,"Cincinnati, OH",2132,2390,685,5K,0
+25032,Samuel D.,M,30,"Arlington, VA",2132,2237,685,5K,0
+20633,Kevin E.,M,24,"Mount Vernon, NY",2133,2195,685,5K,0
+22156,Scott K.,M,35,"Arlington, VA",2136,2217,686,5K,0
+18611,Edward R.,M,34,"Washington, DC",2138,2170,687,5K,0
+511,Taylor B.,M,32,"Washington, DC",2140,2257,688,5K,0
+23801,Jeff M.,M,56,"Silver Spring, MD",2143,2307,689,5K,1
+23684,Al S.,M,59,"Hopewell Junction, NY",2143,2230,689,5K,1
+13915,Daniel B.,M,29,"Enola, PA",2150,2271,691,5K,0
+24774,Stuart W.,M,55,"Chevy Chase, MD",2151,2173,691,5K,1
+23886,Brian S.,M,30,"Gilbert, AZ",2153,2252,692,5K,0
+19195,Kenneth B.,M,47,"Arlington, VA",2155,2321,692,5K,1
+13697,Randall M.,M,45,"Washington, DC",2159,2220,694,5K,1
+13492,Hochol L.,M,41,"Falls Church, VA",2163,2250,695,5K,1
+25182,Kunpeng H.,M,43,"Mclean, VA",2165,2222,696,5K,1
+21105,Vinay V.,M,32,"Sterling, VA",2168,2274,697,5K,0
+24567,Robert G.,M,55,"Bel Air, MD",2169,2194,697,5K,1
+22339,Ricardo C.,M,55,"Annandale, VA",2172,2308,698,5K,1
+12719,Weston H.,M,39,"Arlington, VA",2174,2238,699,5K,0
+10450,Jeff S.,M,33,"Washington, DC",2175,2335,699,5K,0
+13287,Neil M.,M,36,"Dallas, TN",2176,2184,699,5K,0
+14965,Andrew D.,M,29,"Washington, DC",2177,2210,700,5K,0
+24259,Brent C.,M,32,"Washington, DC",2178,2358,700,5K,0
+24748,Miten M.,M,50,"Arlington, VA",2179,2252,700,5K,1
+20399,Don W.,M,50,"Springfield, VA",2184,2214,702,5K,1
+18709,Joseph W.,M,26,"Charlottesville, VA",2187,2294,703,5K,0
+21551,Brian K.,M,33,"Arlington, VA",2193,2326,705,5K,0
+12083,Jeffrey W.,M,61,"Swampscott, MA",2193,2245,705,5K,1
+15249,Roger S.,M,44,"Rockville, MD",2194,2387,705,5K,1
+2844,David Q.,M,47,"Ashville, OH",2194,2387,705,5K,1
+20587,Sean F.,M,27,"North Potomac, MD",2199,2373,707,5K,0
+24565,Victor B.,M,53,"Parkton, MD",2200,2219,707,5K,1
+24447,James A.,M,59,"St. Inigoes, MD",2201,2310,707,5K,1
+17045,Mark S.,M,25,"Silver Spring, MD",2211,2270,710,5K,0
+17041,John S.,M,50,"Silver Spring, MD",2213,2270,711,5K,1
+24511,Lee P.,M,56,"Smithtown, NY",2213,2301,711,5K,1
+20739,Calvin C.,M,30,"Alexandria, VA",2213,2228,711,5K,0
+18125,Avery H.,M,23,"Baltimore, MD",2214,2258,711,5K,0
+18292,Jim A.,M,72,"Quincy, PA",2215,2275,712,5K,1
+23616,David C.,M,40,"Hershey, PA",2218,2389,713,5K,1
+21225,Stewart H.,M,50,"Bowie, MD",2220,2241,713,5K,1
+13122,Keegan H.,M,29,"Washington, DC",2221,2277,714,5K,0
+14997,Kristopher H.,M,43,"Leesburg, VA",2221,2299,714,5K,1
+22162,Ricardo A.,M,24,"Washington, DC",2221,2665,714,5K,0
+24832,Nobel T.,M,13,"Washington, DC",2226,2786,715,5K,0
+24378,Isaac C.,M,28,"Washington, DC",2233,2412,718,5K,0
+6250,Robert R.,M,34,"Reston, VA",2234,2252,718,5K,0
+24284,Sam L.,M,28,"Washington, DC",2245,2276,721,5K,0
+9198,Aaron B.,M,32,"Washington, DC",2247,2439,722,5K,0
+23663,Kevin S.,M,29,"Astoria, NY",2248,2376,722,5K,0
+15269,Brian L.,M,33,"Chantilly, VA",2250,2266,723,5K,0
+23597,Ted B.,M,69,"Ft. Myers, FL",2252,2397,724,5K,1
+24323,Garick M.,M,38,"Mclean, VA",2256,2420,725,5K,0
+8521,Phil S.,M,39,"Avondale, PA",2259,2362,726,5K,0
+25120,Rich T.,M,39,"Chantilly, VA",2264,2264,727,5K,0
+910,Lyle G.,M,35,"Silver Spring, MD",2265,2304,728,5K,0
+15023,Tyler G.,M,57,"Reston, VA",2269,2329,729,5K,1
+22143,Patrick M.,M,53,"Stafford, VA",2269,2324,729,5K,1
+25220,Ross S.,M,40,"Arlington, VA",2272,2348,730,5K,1
+24548,Harry H.,M,66,"Carlisle, PA",2274,2351,731,5K,1
+21137,Pavak S.,M,28,"New York, NY",2277,2306,732,5K,0
+24354,Steven R.,M,25,"Washington Dc, DC",2279,2389,732,5K,0
+16596,David S.,M,50,"Brighton, MI",2280,2407,733,5K,1
+24196,Arka C.,M,29,"Laurel, MD",2288,2421,735,5K,0
+24893,Wesley N.,M,13,"Washington, DC",2294,2857,737,5K,0
+24856,Damian T.,M,39,"Falls Church, VA",2294,2772,737,5K,0
+23859,Sumit S.,M,40,"Gaithersburg, MD",2300,2310,739,5K,1
+24905,Micah M.,M,13,"Washington, DC",2304,2477,740,5K,0
+24840,Laurence S.,M,21,"College Park, MD",2305,2476,741,5K,0
+24108,Patrick D.,M,25,"Edgewood, MD",2308,2335,742,5K,0
+25149,Abheypartap G.,M,16,"Aldie, VA",2309,2394,742,5K,0
+23564,Stan L.,M,63,"State College, PA",2313,2364,743,5K,1
+24966,Avinash N.,M,28,"Vienna, VA",2313,2467,743,5K,0
+15411,Matthew T.,M,27,"Coatesville, PA",2315,2344,744,5K,0
+23954,Jason P.,M,41,"Alexandria, VA",2318,2453,745,5K,1
+24332,Nathan T.,M,10,"Olney, MD",2319,2355,745,5K,0
+23985,Kevin L.,M,31,"Washington, DC",2321,2424,746,5K,0
+24709,Isaiah L.,M,28,"Westminster, MD",2330,2466,749,5K,0
+24403,Garrett M.,M,10,"Nottingham, MD",2331,2341,749,5K,0
+24195,David G.,M,58,"Croton-On-hudson, NY",2340,2394,752,5K,1
+24612,Julian L.,M,58,"Olney, MD",2341,2436,752,5K,1
+18784,Herman C.,M,44,"Arlington, VA",2343,2373,753,5K,1
+25026,Chris H.,M,43,"Arlington, VA",2347,2510,754,5K,1
+25043,James H.,M,9,"Arlington, VA",2347,2510,754,5K,0
+18061,Bruce L.,M,67,"Export, PA",2352,2449,756,5K,1
+19451,John G.,M,59,"New York, NY",2357,2486,757,5K,1
+20769,Chad S.,M,45,"Alexandria, VA",2358,2399,758,5K,1
+24156,Christopher C.,M,31,"Manassas, VA",2359,2521,758,5K,0
+23706,Jeevan K.,M,10,"Cockeysville, MD",2362,2400,759,5K,0
+23683,Michael M.,M,32,"Bear, DE",2364,2447,760,5K,0
+7191,Christian M.,M,17,"Washington, DC",2367,2537,761,5K,0
+24381,Charles D.,M,33,"East Northport, NY",2370,2509,762,5K,0
+24746,Tim D.,M,62,"Gaithersburg, MD",2370,2523,762,5K,1
+20323,Tung D.,M,41,"Clarksburg, MD",2371,2377,762,5K,1
+19445,Eli D.,M,34,"Washington, DC",2372,2449,762,5K,0
+23926,Santiago T.,M,38,"Herndon, VA",2386,2546,767,5K,0
+20428,William A.,M,31,"Centreville, VA",2389,2428,768,5K,0
+24641,John K.,M,45,"Tampa, FL",2402,2479,772,5K,1
+24804,Jason D.,M,32,"Royal Oak, MI",2404,2508,772,5K,0
+24830,Erick V.,M,11,"Washington, DC",2406,2798,773,5K,0
+9137,Matt S.,M,27,"Vienna, VA",2406,2545,773,5K,0
+24492,Aj H.,M,9,"Washington, DC",2410,2518,774,5K,0
+24971,Wilco F.,M,44,"Alexandria, VA",2411,2505,775,5K,1
+23881,Andy M.,M,43,"Ashton, MD",2411,2469,775,5K,1
+24936,Mike H.,M,55,"Arlington, VA",2413,2544,775,5K,1
+17754,Douglas T.,M,38,"Fairfax, VA",2414,2568,776,5K,0
+24935,Mark M.,M,12,"Arlington, VA",2415,2545,776,5K,0
+23998,Brett W.,M,41,"Washington, DC",2420,2961,778,5K,1
+23891,John Y.,M,59,"Virginia Beach, VA",2424,2462,779,5K,1
+23702,Seng C.,M,34,"Rockville, MD",2425,2535,779,5K,0
+14534,Rizwaan A.,M,29,"Washington, DC",2426,2668,780,5K,0
+13379,Ryan P.,M,19,"Huntingtown, MD",2428,2444,780,5K,0
+24488,Scott H.,M,46,"Washington, DC",2428,2536,780,5K,1
+18348,Kyle P.,M,47,"Huntingtown, MD",2429,2444,781,5K,1
+17694,Matt D.,M,38,"New Orleans, LA",2430,2545,781,5K,0
+23812,Sibtain S.,M,35,"Plainsboro, NJ",2431,2514,781,5K,0
+7489,George H.,M,37,"Washington, DC",2433,2588,782,5K,0
+22972,William T.,M,68,"Carlisle, PA",2433,2463,782,5K,1
+19832,Francis T.,M,50,"Stony Brook, NY",2447,2543,786,5K,1
+24024,Brian S.,M,58,"Nashua, NH",2447,2488,786,5K,1
+20270,Jim B.,M,56,"Washington, DC",2448,2562,787,5K,1
+24920,Skyler E.,M,11,"Washington, DC",2453,2566,788,5K,0
+24900,Benjamin M.,M,22,"Washington, DC",2453,2565,788,5K,0
+24212,Matthew F.,M,36,"Silver Spring, MD",2454,2606,789,5K,0
+24986,Stephen M.,M,52,"Ijamsville, MD",2459,2473,790,5K,1
+24360,Darryl M.,M,29,"Alexandria, VA",2462,2533,791,5K,0
+14498,David M.,M,39,"Bowie, MD",2464,2524,792,5K,0
+25098,Raymond P.,M,32,"Leesburg, VA",2478,2621,796,5K,0
+23815,Justin M.,M,31,"Elkridge, MD",2489,2661,800,5K,0
+24718,Andrew H.,M,39,"Arlington, VA",2489,2535,800,5K,0
+24586,Billy S.,M,46,"Herndon, VA",2497,2583,802,5K,1
+19869,Philip D.,M,40,"Arlington, VA",2505,2542,805,5K,1
+24786,Cody D.,M,25,"Gaithersburg, MD",2506,2616,805,5K,0
+14178,James C.,M,35,"Annandale, VA",2507,2604,806,5K,0
+19730,Dale R.,M,51,"Dumfries, VA",2514,2606,808,5K,1
+16733,Kevin M.,M,65,"Gambrills, MD",2526,2599,812,5K,1
+24040,Allan S.,M,55,"Cary, NC",2527,2603,812,5K,1
+3823,Sachi D.,M,36,"Bethesda, MD",2529,2551,813,5K,0
+25068,Aaron S.,M,26,"Millersville, MD",2530,2692,813,5K,0
+23867,Douglas N.,M,53,"Portland, ME",2532,2601,814,5K,1
+23929,Gary S.,M,35,"Greensburg, PA",2543,2554,817,5K,0
+18445,Erik V.,M,27,"Alexandria, VA",2557,2688,822,5K,0
+23483,Matthew B.,M,27,"Washington, DC",2560,2671,823,5K,0
+18624,Evan S.,M,58,"Jenkintown, PA",2563,2601,824,5K,1
+24214,Thomas D.,M,50,"Whitehouse Station, NJ",2571,2720,826,5K,1
+24331,Barry O.,M,64,"Billings, MT",2573,2666,827,5K,1
+20158,Daniel M.,M,20,"Aldie, VA",2577,2682,828,5K,0
+23856,Patrick O.,M,43,"Washington, DC",2577,3056,828,5K,1
+16306,Stephen W.,M,58,"Frederick, MD",2582,2721,830,5K,1
+23830,Clifford L.,M,33,"Washington, DC",2591,2786,833,5K,0
+9389,Dat L.,M,50,"South Riding, VA",2594,3160,834,5K,1
+13185,Duy V.,M,50,"South Riding, VA",2595,3161,834,5K,1
+18603,Anh T.,M,52,"Chantilly, VA",2595,3160,834,5K,1
+24192,Jeff W.,M,33,"Alexandria, VA",2612,2754,839,5K,0
+23576,Andrew J.,M,27,"Wasington, DC",2616,2675,841,5K,0
+13714,John S.,M,56,"Baltimore, MD",2625,2764,844,5K,1
+23971,Paul J.,M,75,"Culver City, CA",2626,2677,844,5K,1
+24772,Carlos N.,M,25,"Annandale, VA",2630,2712,845,5K,0
+25051,Bryan V.,M,29,"Silver Spring, MD",2644,2824,850,5K,0
+23610,Jarrett K.,M,6,"Gaithersburg, MD",2651,2673,852,5K,0
+23605,Russ K.,M,39,"Gaithersburg, MD",2652,2673,852,5K,0
+16410,Lee B.,M,58,"North Potomac, MD",2656,2798,854,5K,1
+20465,Mahendra W.,M,29,"Columbus, OH",2672,2734,859,5K,0
+23932,Chris R.,M,33,"Rockville, MD",2678,2780,861,5K,0
+24168,Irfan M.,M,41,"Rockville, MD",2680,2829,861,5K,1
+21530,Juan A.,M,24,"Hummelstown, PA",2684,2758,863,5K,0
+24777,Mark L.,M,52,"Great Falls, VA",2685,2757,863,5K,1
+24528,Adam E.,M,20,"Hershey, PA",2692,2767,865,5K,0
+24032,John P.,M,39,"Arlington, VA",2705,2814,869,5K,0
+23828,James A.,M,48,"Arnold, MO",2706,2785,870,5K,1
+23936,Brian W.,M,39,"Germantown, MD",2713,2834,872,5K,0
+25154,Andrew S.,M,29,"Leesburg, VA",2717,2843,873,5K,0
+16705,Narayan G.,M,45,"Woodbridge, VA",2722,2722,875,5K,1
+23428,Henry H.,M,65,"Mclean, VA",2727,2903,876,5K,1
+24258,Ayman R.,M,42,"Miami, FL",2742,2858,881,5K,1
+21493,Jaime W.,M,30,"Silver Spring, MD",2743,2779,881,5K,0
+24583,Larry M.,M,57,"Lanham, MD",2743,2921,881,5K,1
+25052,Dean R.,M,48,"Washington, DC",2749,2749,883,5K,1
+12728,James-Craig H.,M,72,"Washington, DC",2751,2758,884,5K,1
+23805,Cary S.,M,69,"Glenview, IL",2754,2808,885,5K,1
+23634,Michael D.,M,41,"Savannah, GA",2758,2873,886,5K,1
+24179,Barrington J.,M,54,"Mitchellville, MD",2764,2876,888,5K,1
+24450,Chiu-Wing L.,M,65,"Houston, TX",2765,2790,889,5K,1
+24473,Mark D.,M,29,"Arlington, VA",2766,2790,889,5K,0
+23472,Winrich D.,M,34,"Ashburn, VA",2771,2874,890,5K,0
+18830,Thai L.,M,42,"Poolesville, MD",2777,2867,892,5K,1
+23414,David F.,M,79,"Washington, DC",2777,2843,892,5K,1
+24393,Lou B.,M,60,"Rockwood, TN",2781,2882,894,5K,1
+18964,Ryan M.,M,33,"Richmond, VA",2786,2845,895,5K,0
+24687,John P.,M,50,"Alexandria, VA",2790,2869,897,5K,1
+24400,Shawn T.,M,50,"Nottingham, MD",2792,2804,897,5K,1
+25244,John W.,M,60,"South Riding, VA",2795,2903,898,5K,1
+24624,Ken K.,M,55,"Timonium, MD",2800,2843,900,5K,1
+9929,Luis D.,M,44,"Arlington, VA",2804,2945,901,5K,1
+23478,Patrick F.,M,54,"Leonardtown, MD",2804,2827,901,5K,1
+23644,Aj G.,M,10,"Hampton, VA",2816,2969,905,5K,0
+20284,Abraham B.,M,64,"Germantown, MD",2825,2983,908,5K,1
+24242,Doug B.,M,42,"Ft Washington, MD",2825,2885,908,5K,1
+5720,Neil M.,M,36,"Washington, DC",2826,2826,908,5K,0
+24019,Vladimir V.,M,42,"Washington, DC",2826,2894,908,5K,1
+21233,Travis F.,M,34,"Chantilly, VA",2828,2966,909,5K,0
+18745,Niven T.,M,39,"Bethesda, MD",2844,2977,914,5K,0
+24210,John M.,M,65,"Holtsville, NY",2846,2864,915,5K,1
+24574,Norman L.,M,37,"Boyds, MD",2846,2959,915,5K,0
+25163,Sam D.,M,60,"Fairfax, VA",2851,2979,916,5K,1
+16892,Donald W.,M,39,"Springfield, VA",2852,2967,917,5K,0
+14084,Jon V.,M,77,"Annapolis, MD",2858,2865,918,5K,1
+20321,Josue P.,M,43,"Bowie, MD",2864,2904,920,5K,1
+25086,Girado S.,M,55,"Laurel, MD",2865,3050,921,5K,1
+25050,Chris C.,M,55,"Greenbelt, MD",2868,3049,922,5K,1
+24813,Stephen F.,M,18,"Springfield, VA",2868,3047,922,5K,0
+25053,Terence S.,M,50,"Laurel, MD",2869,3050,922,5K,1
+24472,Kunal K.,M,40,"Sterling, VA",2872,2975,923,5K,1
+20612,Ronaldo S.,M,51,"Centreville, VA",2873,2978,923,5K,1
+25041,Clinton C.,M,33,"Washington, DC",2883,3029,927,5K,0
+24046,Robert B.,M,52,"Silver Spring, MD",2893,2941,930,5K,1
+20352,Ronald G.,M,32,"Coram Ny, NY",2895,3000,930,5K,0
+25187,Byron A.,M,6,"Sterling, VA",2895,3023,930,5K,0
+23671,Glenn E.,M,52,"Valrico, FL",2903,2962,933,5K,1
+25227,Marcus A.,M,34,"North Bethesda, MD",2903,2946,933,5K,0
+23835,Antonio G.,M,39,"Severn, MD",2908,3012,935,5K,0
+24975,Adekunle F.,M,50,"Owings Mills, MD",2917,2974,937,5K,1
+24342,Garrett W.,M,24,"Cheltenham, MD",2926,3048,940,5K,0
+14977,James L.,M,59,"Warrenton, VA",2928,2992,941,5K,1
+15655,Andrew K.,M,31,"Quantico, VA",2929,3350,941,5K,0
+21199,Michael O.,M,56,"Mclean, VA",2932,3033,942,5K,1
+10740,Michael M.,M,34,"Washington, DC",2934,3080,943,5K,0
+25229,Wayne B.,M,58,"Stevensville, MD",2940,3122,945,5K,1
+23512,Nicholas A.,M,14,"Washignton, DC",2946,2987,947,5K,0
+24404,Matthew V.,M,63,"Stamford, CT",2967,3091,954,5K,1
+24456,Amir K.,M,13,"Bethesda, MD",2989,3150,961,5K,0
+23698,Samuel B.,M,29,"Alexandria, VA",3001,3072,964,5K,0
+23989,Bill M.,M,69,"Richmond, VA",3005,3103,966,5K,1
+23486,Michael R.,M,26,"Richmond, VA",3005,3030,966,5K,0
+23457,Lane S.,M,47,"Alexandria, VA",3005,3029,966,5K,1
+24455,Ali K.,M,43,"Bethesda, MD",3012,3172,968,5K,1
+23584,Kurt L.,M,35,"Washington, DC",3013,3086,968,5K,0
+23450,Jake S.,M,55,"Burke, VA",3019,3115,970,5K,1
+20269,Kerry K.,M,69,"Rockville, MD",3034,3082,975,5K,1
+21427,John R.,M,42,"Chambersburg, PA",3049,3049,980,5K,1
+24460,Usman K.,M,10,"Bethesda, MD",3050,3165,980,5K,0
+24464,Arif K.,M,7,"Bethesda, MD",3058,3173,983,5K,0
+24710,Bradley W.,M,33,"Silver Spring, MD",3061,3254,984,5K,0
+19861,Dave W.,M,74,"Gibsonia, PA",3067,3236,986,5K,1
+19863,Amit V.,M,40,"Washington, DC",3068,3235,986,5K,1
+20304,Nathan T.,M,40,"Arlington, VA",3072,3247,987,5K,1
+24114,Jonathan W.,M,37,"North Beach, MD",3076,3194,989,5K,0
+18806,Roee S.,M,31,"Washington, DC",3084,3266,991,5K,0
+23709,Tom L.,M,53,"Columbia, MD",3087,3161,992,5K,1
+5369,Scott H.,M,48,"Ellicott City, MD",3088,3161,992,5K,1
+25146,Daniel S.,M,56,"Haymarket, VA",3101,3190,997,5K,1
+23498,James T.,M,42,"Ashburn, VA",3110,3212,1000,5K,1
+19902,Kevin M.,M,46,"Springfield, VA",3121,3254,1003,5K,1
+25115,Everett G.,M,10,"Manassas, VA",3137,3220,1008,5K,0
+25211,John G.,M,61,"Manassas Park, VA",3141,3314,1009,5K,1
+23667,Luis G.,M,66,"Fairfax, VA",3156,3225,1014,5K,1
+16690,Yves J.,M,54,"Woodbridge, VA",3158,3330,1015,5K,1
+23924,James R.,M,7,"Southbridge, VA",3164,3216,1017,5K,0
+23918,Jacob G.,M,10,"Dumfries, VA",3164,3216,1017,5K,0
+23939,John G.,M,64,"Wrightsville, PA",3180,3295,1022,5K,1
+14900,Denver A.,M,45,"Carmel, IN",3208,3352,1031,5K,1
+23792,Doug W.,M,30,"Arlington, VA",3229,3305,1038,5K,0
+24877,James A.,M,35,"Califoria, MD",3243,3344,1042,5K,0
+16153,Alex G.,M,37,"Washington, DC",3254,3254,1046,5K,0
+24211,Daniel N.,M,61,"Clarksville, MD",3267,3358,1050,5K,1
+17173,Gregory T.,M,36,"Hyattsville, MD",3271,3307,1051,5K,0
+4951,David L.,M,28,"Orlando, FL",3273,3392,1052,5K,0
+24543,Joe C.,M,38,"Branchdale, PA",3279,3357,1054,5K,0
+25141,Lyle M.,M,63,"Fairfax, VA",3279,3360,1054,5K,1
+25133,Derrick M.,M,47,"Gainesville, VA",3306,3745,1063,5K,1
+25059,Aaron H.,M,39,"Sunderland, MD",3313,3463,1065,5K,0
+23871,Lincoln L.,M,49,"Bowie, MD",3316,3337,1066,5K,1
+24244,Paul K.,M,62,"Niles, OH",3325,3401,1069,5K,1
+24137,Douglas W.,M,65,"Marlton, NJ",3341,3416,1074,5K,1
+23914,Bruce D.,M,63,"Henderson, NV",3351,3404,1077,5K,1
+24982,Greg D.,M,34,"Woodbridge, VA",3353,3511,1078,5K,0
+25158,Bladan C.,M,18,"Woodbridge, VA",3354,3404,1078,5K,0
+25161,Victor C.,M,24,"Woodbridge, VA",3355,3405,1078,5K,0
+24368,Michael R.,M,53,"Laurel, MD",3357,3450,1079,5K,1
+23602,Ben D.,M,66,"Martinsburg, WV",3359,3477,1080,5K,1
+22312,Maurice G.,M,31,"Stafford, VA",3374,3465,1084,5K,0
+24158,Robert W.,M,59,"Carson, PA",3375,3540,1085,5K,1
+24827,Jerome W.,M,18,"Washington, DC",3410,3811,1096,5K,0
+24917,Brendan G.,M,27,"Washington, DC",3410,3811,1096,5K,0
+24756,Matt L.,M,28,"Sterling, VA",3411,3567,1096,5K,0
+24264,Dawud W.,M,35,"Columbia, MD",3429,3553,1102,5K,0
+25093,Shailendra S.,M,59,"Chantilly, VA",3440,3483,1106,5K,1
+24430,Darryl G.,M,58,"Chesapeake Beach, MD",3440,3527,1106,5K,1
+25062,Pir A.,M,62,"Silver Sprint, MD",3448,3533,1108,5K,1
+21192,Alexander B.,M,38,"Bethesda, MD",3462,3574,1113,5K,0
+24129,Christian E.,M,30,"Arlington, VA",3473,3576,1116,5K,0
+12291,Yong C.,M,41,"Fairfax, VA",3481,3790,1119,5K,1
+23553,Manoj K.,M,27,"Herndon, VA",3498,3690,1124,5K,0
+24644,Tom B.,M,45,"Prince Frederick, MD",3505,3655,1127,5K,1
+23799,Ryan H.,M,31,"Columbia, MD",3525,3690,1133,5K,0
+24662,Tony M.,M,59,"Bowie, MD",3536,3663,1136,5K,1
+23734,Sanjiv P.,M,55,"Falls Church, VA",3564,3710,1145,5K,1
+24558,Surendra G.,M,55,"Mclean, VA",3564,3709,1145,5K,1
+19115,Subhash G.,M,59,"Herndon, VA",3565,3710,1146,5K,1
+25080,Curt E.,M,55,"Reston, VA",3574,3724,1149,5K,1
+24547,Gregory V.,M,57,"Ashburn, VA",3585,3630,1152,5K,1
+24544,Jimmy V.,M,55,"Dumfries, VA",3585,3630,1152,5K,1
+24513,Leo G.,M,61,"Washington, DC",3639,3784,1170,5K,1
+23762,Wayne B.,M,39,"Gaithersburg, MD",3698,3847,1189,5K,0
+25066,Joseph R.,M,28,"Germantown, MD",3798,3945,1221,5K,0
+23950,Lenny S.,M,67,"New Vernon, NJ",3863,3981,1242,5K,1
+13464,Ryan A.,M,33,"Washington, DC",3863,3982,1242,5K,0
+21620,Patrick M.,M,35,"Ashburn, VA",3939,4145,1266,5K,0
+25069,Doug O.,M,54,"Crownsville, MD",3950,4067,1270,5K,1
+23759,Dixon H.,M,92,"Fairfax Sta, VA",3997,4115,1285,5K,1
+25263,Alberto C.,M,85,"Rehoboth Beach, DE",4030,4218,1295,5K,1
+23581,Erik B.,M,33,"Washington, DC",4145,4145,1332,5K,0
+21412,Damon O.,M,37,"Bethesda, MD",4146,4146,1333,5K,0
+23701,David M.,M,65,"Auburn, AZ",4319,4403,1388,5K,1
+15179,Edward S.,M,40,"Eldersburg, MD",4500,4675,1446,5K,1
+23421,John P.,M,67,"Baltimore, MD",4501,4674,1447,5K,1
+25160,Jony R.,M,37,"Woodbridge, VA",5287,5334,1700,5K,0
+25153,Andres E.,M,33,"Woodbridge, VA",5287,5334,1700,5K,0
