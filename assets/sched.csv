@@ -21,12 +21,12 @@ noClass,italic,,R,14-Mar,NO CLASS - Spring Break,,,
 ,,,R,21-Mar,Inference for categorical data ,Ch 17-18,hw04,q04
 ,,11,T,26-Mar,Inference for numerical data,Ch 19-20,,
 ,,,R,28-Mar,Inference for numerical data,Ch 19-20,q05,hw04
-,,12,T,2-Apr,Inference practice,,,
-,inClass,,R,4-Apr,Inference Wrap-Up,,proj,q05
-,inClass,13,T,9-Apr,Inference Wrap-Up,,,ic03
-,,,R,11-Apr,Proposal check in & ANOVA,Ch 22,,proj-proposal
-,,14,T,16-Apr,Inference for regression models,Ch 24-25,,
-,,,R,18-Apr,Inference for regression models,Ch 24-25,,proj-check-in
+noClass,italic,12,T,2-Apr,NO CLASS - Ab Sick,,,
+,,,R,4-Apr,Inference practice,,proj,q05
+,,13,T,9-Apr,Inference for numerical data,Ch 19-20,,
+,,,R,11-Apr,Quiz 5 & Proposal check-in,,,"proj-proposal, ic03"
+,inClass,14,T,16-Apr,Inference Wrap-Up ,,,ic03
+,,,R,18-Apr,TBD,,,proj-check-in
 ,proj ,15,T,23-Apr,Project Work Session ,,,
 presy,proj ,,R,25-Apr,Project Presentations ,,,proj-final
 presy,proj ,16,T,30-Apr,Project Presentations ,,,
